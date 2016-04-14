@@ -1,3 +1,15 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+
+# atom editor
+.tags*
+tags
+./tags*/*
+
+# system
+.DS_Store
+
+# imdone folder
+.imdone
+
