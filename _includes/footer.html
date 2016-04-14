@@ -1,0 +1,40 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+
+      
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+          {% if site.facebook_username %}
+          <li>
+            
+            {% include icon-facebook.html username=site.facebook_username title=site.facebook_title %}
+            
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+      
+      <div class="footer-col footer-col-1">
+        <a href="{{ site.baseurl }}/spenden/konten.html" >
+          <img src="{{site.baseurl}}/img/de-pp-logo-150px.png" alt="{{site.title}}">
+        </a>
+      </div>
+      
+      
+      
+    </div>
+
+  </div>
+
+</footer>

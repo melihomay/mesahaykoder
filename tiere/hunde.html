@@ -1,0 +1,25 @@
+---
+layout: post
+
+---
+
+{% include nav_tiere.html %}
+
+
+
+
+<ul class="post-list">
+  {% for hunde in site.categories.hunde %}
+    <li>
+      <img src="{{site.baseurl}}/img/tiere/{{hunde.image}}" alt="{{hunde.title}}">
+      <h5 class="post-meta">{{ hunde.date | date: "%b %-d, %Y" }}</h5>
+      <h3> {{hunde.title}}</h3>
+       {{hunde.content}}
+       <h5>Suche ein liebevolles Zuhause, bitte meldet euch: <a href="mailto:{{ site.email }}">{{ site.email }}</a></h5>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+

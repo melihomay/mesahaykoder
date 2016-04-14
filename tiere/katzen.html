@@ -1,0 +1,19 @@
+---
+layout: post
+
+---
+
+{% include nav_tiere.html %}
+
+<ul class="post-list">
+  {% for katzen in site.categories.katzen %}
+    <li>
+      <img src="{{site.baseurl}}/img/tiere/{{katzen.image}}" alt="{{katzen.title}}">
+      <h5 class="post-meta">{{ katzen.date | date: "%b %-d, %Y" }}</h5>
+      <h3> {{katzen.title}}</h3>
+       {{katzen.content}}
+       <h5>Suche ein liebevolles Zuhause, bitte meldet euch: <a href="mailto:{{ site.email }}">{{ site.email }}</a></h5>
+    </li>
+  {% endfor %}
+</ul>
+

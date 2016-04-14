@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<h2>{{ site.title }}</h2>
+
+{% for mitglieder in site.data.mitglieder-types %}
+<h4> {{ mitglieder.name }} </h4>
+<h5>{{ mitglieder.title }} </h5>
+<p> {{ mitglieder.info }} </p>
+
+{% endfor %}

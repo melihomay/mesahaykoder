@@ -1,0 +1,17 @@
+---
+layout: page
+---
+{% include nav_spenden.html %}
+<p>
+  <b>Ein Dank an alle, die die wertvolle Arbeit unterstützt haben.</b></br></br>
+</p>
+<table>
+{% for spender in site.data.spenden-types %}
+<tr>
+    <td style="width:100px"> {{ spender.datum }} </td>
+    <td width="40%"> {{ spender.name }} </td>
+    <td width="60%"> {{ spender.spende }} </td>
+    <td style="width:100px;text-align: right;"> {{ spender.betrag }} </td>
+</tr> 
+{% endfor %}
+</table>
