@@ -13,3 +13,5 @@ tags
 # imdone folder
 .imdone
 
+# Ruby
+.ruby-version
