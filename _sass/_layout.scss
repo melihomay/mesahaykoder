@@ -291,31 +291,31 @@ h1.logo{background-image: url("../img/logo.png");
     }
 
     h2 {
-        font-size: 32px;
+        font-size: 28px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 24px;
         }
     }
 
     h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
+        font-size: 22px;
 
         @include media-query($on-laptop) {
             font-size: 18px;
         }
     }
+
+    h4 {
+        font-size: 16px;
+
+        @include media-query($on-laptop) {
+            font-size: 14px;
+        }
+    }
 }
 
 .img-responsive  {
-    max-width: 360px; height: auto;  float:left;
+    max-width: 340px; height: auto;  float:left;
 }
 
