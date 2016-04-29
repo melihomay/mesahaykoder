@@ -1,0 +1,35 @@
+---
+layout: post
+
+---
+
+{% include nav_patenschaft.html %}
+
+ <h3>Helft uns und werdet Pate</h3> 
+ <p>Ab einer Spende von 15€ pro Monat könnt ihr die Patenschaft von einem Hund oder einer Katze übernehmen. 
+   Wir haben im Moment so viele Tiere im Tierheim und auf Payamli, dass wir Probleme haben sie alle satt zu bekommen. 
+   Für alle Tiere, die noch keinen Namen haben, könnt ihr als Pate einen schönen Namen aussuchen. 
+ </p>
+ <div><a href="{{ site.baseurl }}/spenden/konten.html" class="btn">Jetzt Pate werden!</a></div>
+</hr>
+
+<ul class="post-list">
+  {% for gesucht in site.data.gesucht-types %}
+    <li class="clear">
+      <img src="{{site.baseurl}}/img/tiere/gesucht/{{gesucht.image_hund }}" alt="{{gesucht.hund}}">
+      <h5 class="post-meta">{{ gesucht.rasse}} {{ gesucht.alter}}</h5>
+      <h3>{{ gesucht.hund }} </h3>
+      <p> {{ gesucht.info}}</p>
+      <h5><a href="{{ site.baseurl }}/spenden/konten.html">Patenschaft von {{ gesucht.hund }} übernehmen</a></h5> 
+    </li>
+    <li class="clear">
+      
+      <h5><a href="">Auf Facebook teilen</a></h5> 
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+
+
