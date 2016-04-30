@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: pate_detail
 category: gesucht
+title: Pate gesucht für Mikesch
 date: 16. April 2016
 hund: Mikesch
 rasse: Kater

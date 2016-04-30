@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: pate_detail
 category: gesucht
+title: Pate gesucht für Kepcekulak
 date: 16. April 2016
 hund: Kepcekulak
 rasse: Hündin
