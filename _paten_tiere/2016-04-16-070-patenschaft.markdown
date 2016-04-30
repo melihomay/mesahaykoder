@@ -1,0 +1,12 @@
+---
+layout: post
+category: gesucht
+date: 16. April 2016
+hund: Mikesch
+rasse: Kater
+alter: ca. 1 Jahre
+image_hund: k-Mikesch.jpg
+info: Der kleine Kater ist zuckersüß und ganz lieb.
+---
+
+Der kleine Kater ist zuckersüß und ganz lieb.

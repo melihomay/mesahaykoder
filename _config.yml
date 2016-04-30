@@ -20,3 +20,6 @@ facebook_title: MeSaHayKoDer
 
 # Build settings
 markdown: kramdown
+collections:
+  paten_tiere:
+    output: true

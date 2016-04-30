@@ -1,0 +1,12 @@
+---
+layout: post
+category: gesucht
+date: 16. April 2016
+hund: Gülümsel
+rasse:
+alter: ca. 1 Jahre
+image_hund: Gueluemsel.jpg
+info: Hat den Coronavirus überlebt. Verspielt und menschenbezogen.
+---
+
+Hat den Coronavirus überlebt. Verspielt und menschenbezogen.
