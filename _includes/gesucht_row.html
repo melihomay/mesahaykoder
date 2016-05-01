@@ -1,7 +1,7 @@
 
   <li class="clear">
     <a href="{{site.baseurl}}{{include.gesucht.url}}">
-      <img src="{{site.baseurl}}/img/tiere/gesucht/{{include.gesucht.image_hund }}" alt="{{include.gesucht.hund}}">
+      <img src="{{site.baseurl}}/{{include.gesucht.image_hund }}" alt="{{include.gesucht.hund}}">
     </a>
     <h5 class="post-meta">{{include.gesucht.rasse}} {{include.gesucht.alter}}</h5>
     <h3>{{include.gesucht.hund}}</h3>
@@ -10,5 +10,8 @@
   </li>
 
   <li class="clear">
-    <h5><a href="">Auf Facebook teilen</a></h5>
+    <div class="fb-share-button"
+          data-href="{{ include.gesucht.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+          data-layout="button_count">
+    </div>
   </li>
