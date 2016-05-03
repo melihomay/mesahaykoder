@@ -1,7 +1,7 @@
 ---
 layout: pate_detail
 category: gesucht
-title: Pate gesucht für den Namenlos Hund
+title: Pate gesucht für Namenlos
 date: 16. April 2016
 hund: Namenlos
 rasse: Schäferhund - Hündin
