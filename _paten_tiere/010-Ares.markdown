@@ -7,8 +7,6 @@ hund: Ares
 rasse: Info folgt
 alter:
 image_hund: img/tiere/gesucht/Ares.jpg
-info: Infos folgen
-fb_share_description: Ares sucht einen Paten.
 ---
 
 Infos folgen

@@ -7,7 +7,6 @@ hund: Benny
 rasse: Goldiemix
 alter: ca. 1 Jahre
 image_hund: img/tiere/gesucht/Benny.jpg
-info: Dieser bildhübsche Kerl ist etwa 60 cm hoch und sehr lieb.
 ---
 
 Dieser bildhübsche Kerl ist etwa 60 cm hoch und sehr lieb.

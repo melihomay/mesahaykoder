@@ -7,7 +7,6 @@ hund: Mikesch
 rasse: Kater
 alter: ca. 1 Jahre
 image_hund: img/tiere/gesucht/k-Mikesch.jpg
-info: Der kleine Kater ist zuckersüß und ganz lieb.
 ---
 
 Der kleine Kater ist zuckersüß und ganz lieb.

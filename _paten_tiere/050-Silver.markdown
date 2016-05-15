@@ -7,7 +7,6 @@ hund: Silver
 rasse: Kater
 alter: ca. 8 Monate
 image_hund: img/tiere/gesucht/k_silver.jpg
-info: Diese Schönheit sucht einen Paten. Verschmust und anhänglich, aber genauso keck maschiert er durchs Leben.
 ---
 
  Diese Schönheit sucht einen Paten. Verschmust und anhänglich, aber genauso keck maschiert er durchs Leben.

@@ -2,7 +2,7 @@
 layout: aktuelles_detail
 category: aktuelles
 title: Spenden für OP gesucht
-fb_share_description: Spenden für OP gesucht
+fb_share_description: true
 datum: 11. Mai 2016 - Özden Omay
 hund: Namenlos
 rasse:

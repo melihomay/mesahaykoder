@@ -7,7 +7,6 @@ hund: Namenlos
 rasse: Schäferhund - Hündin
 alter: ca. 1,5 Jahr
 image_hund: img/tiere/gesucht/ohne_namen.jpg
-info: Diese hübsche Hündin kommt vom Berg und hat auf Payamli ihre Babys bekommen. Leider hat nur Mailo überlebt.
 ---
 
 Diese hübsche Hündin kommt vom Berg und hat auf Payamli ihre Babys bekommen. Leider hat nur Mailo überlebt.

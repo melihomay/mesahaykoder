@@ -7,7 +7,6 @@ hund: Kepcekulak
 rasse: Hündin
 alter:
 image_hund: img/tiere/gesucht/Kepcekulak.jpg
-info: Dieses süße Mädchen mit den großen Ohren hatte Özden nach dem Kastrieren wieder am Strand ausgesetzt. Özden bekam aber beim letzten Besuch bei ihr Mitleid und nahm sie wieder mit nach Payamli. Sie ist eine ganz liebe Hündin, verträglich mit anderen Hunden und sehr menschenbezogen.
 ---
 
  Dieses süße Mädchen mit den großen Ohren hatte Özden nach dem Kastrieren wieder am Strand ausgesetzt. Özden bekam aber beim letzten Besuch bei ihr Mitleid und nahm sie wieder mit nach Payamli. Sie ist eine ganz liebe Hündin, verträglich mit anderen Hunden und sehr menschenbezogen.

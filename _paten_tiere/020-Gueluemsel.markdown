@@ -7,7 +7,6 @@ hund: Gülümsel
 rasse:
 alter: ca. 1 Jahre
 image_hund: img/tiere/gesucht/Gueluemsel.jpg
-info: Hat den Coronavirus überlebt. Verspielt und menschenbezogen.
 ---
 
 Hat den Coronavirus überlebt. Verspielt und menschenbezogen.
