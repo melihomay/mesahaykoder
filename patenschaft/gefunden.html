@@ -4,20 +4,15 @@ layout: default
 {% include nav_patenschaft.html %}
 
  <p>Vielen Dank an Martina Riemer, die unermüdlich dafür sorgt, dass unsere Tiere Paten bekommen. Hier findet Ihr die vielen Patenschaften die schon geschlossen wurden. Einen herzlichen Dank an alle Paten!</p>
-    
 
 {% for gefunden in site.data.gefunden-types %}
-<table class="paten">
+  <table class="paten">
     <tr>
-        <td>
-          <h3><i>{{ gefunden.hund }}</i> </h3>
-          <p><img src="{{site.baseurl}}/img/tiere/patenschaften/{{gefunden.image_hund}}" alt="{{gefunden.hund}}"></p>
-           {{ gefunden.pate }} 
-        </td>
-      </tr> 
-    
-      
- </table>
- {% endfor %}    
-
-
+      <td>
+        <h3><i>{{ gefunden.hund }}</i> </h3>
+        <p><img src="{{site.baseurl}}/img/tiere/patenschaften/{{gefunden.image_hund}}" alt="{{gefunden.hund}}"></p>
+         {{ gefunden.pate }}
+      </td>
+    </tr>
+   </table>
+ {% endfor %}

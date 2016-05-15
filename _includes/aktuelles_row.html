@@ -5,9 +5,9 @@
     </a>
     <h5 class="post-meta">{{include.aktuell.datum}}</h5>
     <h3>{{include.aktuell.title}}</h3>
-    <p> {{include.aktuell.info}}</p>
+    <p> {{include.aktuell.content}}</p>
     <a href="{{ site.baseurl }}/spenden/konten.html"> Jetzt spenden</a>
-    
+
   </li>
 
   <li class="clear">
@@ -15,5 +15,5 @@
           data-href="{{ include.aktuell.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
           data-layout="button_count">
     </div>
-    
+
   </li>

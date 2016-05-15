@@ -3,7 +3,7 @@ layout: post
 ---
 
 <ul class="post-list">
-  {% for aktuell in site.aktuelles %}
+  {% for aktuell in site.aktuelles reversed %}
     {% include aktuelles_row.html aktuell=aktuell%}
   {% endfor %}
 </ul>
