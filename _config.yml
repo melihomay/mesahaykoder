@@ -25,3 +25,6 @@ collections:
   paten_tiere:
     output: true
     permalink: /patenschaft/gesucht/:title/
+  aktuelles:
+    output: true
+    permalink: /aktuelles/:title/
