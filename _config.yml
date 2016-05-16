@@ -19,6 +19,10 @@ facebook_username: /1-Euro-für-Özdere-Tierheim-Özdere-183449288408025/?fref=t
 facebook_title: MeSaHayKoDer
 fb_app_id: 456138037927901
 
+
+sass:
+  style: compressed
+
 # Build settings
 markdown: kramdown
 collections:
