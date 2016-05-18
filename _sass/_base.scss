@@ -141,6 +141,30 @@ a {
             background-color:$text-color-hover;
             
         }
+        
+.btn_small{
+                display: inline-block;
+                margin-bottom: 20px;
+                padding: 8px 20px;
+                font-size: 14px;
+                font-size: 1rem;
+                background-color:$brand-color;
+                color: #fff;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+            		-moz-transition: background-color 0.2s ease-in-out;
+            		-webkit-transition: background-color 0.2s ease-in-out;
+            		-o-transition: background-color 0.2s ease-in-out;
+            		-ms-transition: background-color 0.2s ease-in-out;
+            		transition: background-color 0.2s ease-in-out;
+            }
+            .btn_small:hover{
+                    color: #fff;
+                    background-color:$text-color-hover;
+            
+                }
+
 
 /**
  * Blockquotes

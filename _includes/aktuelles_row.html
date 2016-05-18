@@ -2,6 +2,11 @@
   <li class="clear">
     <a href="{{site.baseurl}}{{include.aktuell.url}}">
       <img src="{{site.baseurl}}/{{include.aktuell.image_hund }}" alt="{{include.aktuell.hund}}">
+      
+      {% if include.aktuell.image_hund_1 %}
+        <img src="{{site.baseurl}}/{{include.aktuell.image_hund_1 }}" alt="{{include.aktuell.hund}}">
+      {% endif %}
+      
     </a>
     <h5 class="post-meta">{{include.aktuell.datum}}</h5>
     <h3>{{include.aktuell.title}}</h3>
