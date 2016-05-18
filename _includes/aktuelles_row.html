@@ -2,17 +2,16 @@
   <li class="clear">
     <a href="{{site.baseurl}}{{include.aktuell.url}}">
       <img src="{{site.baseurl}}/{{include.aktuell.image_hund }}" alt="{{include.aktuell.hund}}">
-      
+
       {% if include.aktuell.image_hund_1 %}
         <img src="{{site.baseurl}}/{{include.aktuell.image_hund_1 }}" alt="{{include.aktuell.hund}}">
       {% endif %}
-      
+
     </a>
     <h5 class="post-meta">{{include.aktuell.datum}}</h5>
     <h3>{{include.aktuell.title}}</h3>
     <p> {{include.aktuell.content}}</p>
     <a href="{{ site.baseurl }}/spenden/konten.html"> Jetzt spenden</a>
-
   </li>
 
   <li class="clear">
@@ -20,5 +19,4 @@
           data-href="{{ include.aktuell.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
           data-layout="button_count">
     </div>
-
   </li>
