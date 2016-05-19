@@ -8,6 +8,7 @@ hund: Namenlos
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0002.jpg
+visible: true
 ---
 
 Beim Kontrollgang im Tierheim Özdere, fand ich eine neue Hündin. Der Hundefänger hat sie mit zwei ca.14 Tage alten Babys abgegeben.

@@ -4,10 +4,11 @@ category: aktuelles
 title: Spendendank
 fb_share_description: true
 datum: 15. Mai 2016 - Özden Omay
-hund: 
+hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/003.jpg
+visible: true
 ---
 
 In den letzten Tagen wurden wir überschüttet mit Sachspenden. Wir danken allen Beteiligten und unseren lieben Flugpaten.

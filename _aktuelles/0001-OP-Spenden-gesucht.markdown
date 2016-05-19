@@ -8,6 +8,7 @@ hund: Namenlos
 rasse:
 alter:
 image_hund: img/tiere/patenschaften/default.jpg
+visible: true
 ---
 
 Eine Hündin wurde im Tierheim Özdere abgegeben. Sie befand sich in einem entsetzlichem Zustand.

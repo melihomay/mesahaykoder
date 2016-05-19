@@ -4,12 +4,13 @@ category: aktuelles
 title: Gerettet
 fb_share_description: true
 datum: 20. Mai 2016 - Özden Omay
-hund: 
+hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0010.jpg
+visible: false
 ---
 
 
 Unserem vergifteter Hund von vorgestern geht es gut. Er hat gefressen und kein Blut im Stuhl. Regelmäßig wird eine Blutanalyse gemacht für Leber- und Nierenwerte.
-Er muss noch einige Tage in der Klinik bleiben. 
+Er muss noch einige Tage in der Klinik bleiben.

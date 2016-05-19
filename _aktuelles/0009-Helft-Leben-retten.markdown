@@ -4,10 +4,11 @@ category: aktuelles
 title: Helft ein Leben zu retten
 fb_share_description: true
 datum: 19. Mai 2016 - Özden Omay
-hund: 
+hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0009.jpg
+visible: true
 ---
 
 
