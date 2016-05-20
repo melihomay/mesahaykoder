@@ -7,8 +7,9 @@
 
 # Site settings
 title: Tierschutzverein - MeSaHayKoDer - Özdere/Türkei
-email: service@mesahaykoder.de
-email_paypal: paypal@mesahaykoder.de
+domain_name: mesahaykoder.de
+email_service: service
+email_paypal: paypal
 telefon: +9 (0) 538 779 84 79
 info_email: mrtnriemer@aol.com
 description: > # Tierschutz - MeSaHayKoDer - Özdere/Türkei

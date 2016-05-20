@@ -16,15 +16,19 @@ layout: page
     <img src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_SM.gif" width="100px" height="auto" alt="De Paypal Logo ">
   </a>
 
-  <h4>Bitte an 
-    <b>
+  <h4>Bitte an
+    <b><span id="cc" onclick="copyToClipboard(document.getElementById('cc').innerHTML)">
   <script type="text/javascript">
     <!--
-      var xnm = "paypal";
-      var xsend = "mesahaykoder.de";
-      document.write(xnm + '@' + xsend);
+    var xnma = "{{site.email_paypal}}";
+    var xsnd = "{{site.domain_name}}";
+    document.write(xnma+ "@" + xsnd );
+    function copyToClipboard(text) {
+      window.prompt("Copy to clipboard: Ctrl+C, Enter", xnma+ "@" + xsnd );
+    }
     //-->
     </script>
+
     </b>
      einzahlen, mit dem Hinweis "<b>MeSaHayKoDer</b>".</br>
    </h4>
@@ -36,7 +40,7 @@ layout: page
      <div class="col-left">
        <input type="image" src="https://chart.googleapis.com/chart?chs=225x225&chld=L|2&cht=qr&chl=bitcoin:{{site.btc_address}}?label={{site.facebook_title}}%26message=Donation"/>
      </div>
-     
+
      <div class="col-left">
       <p> Empfänger: <b>Tierschutzverein {{site.facebook_title}}</b></p>
        <p> BitcCoin-Adresse: <b>{{site.btc_address}}</b></p>
@@ -55,11 +59,12 @@ layout: page
          Bitte überprüft hierbei auch, ob der Verwendungszweck noch aktuell ist. Herzlichsten Dank!
      </h4>
      <a href="http://www.sunnydays-for-animals.de/projekte/%C3%B6zdere-t%C3%BCrkei/spenden-f%C3%BCr-%C3%B6zdere-payamli/" class="btn_small">Monatliche (dauerhafte) Spenden</a>
-   </div>   
-  
+   </div>
+
   <p><a href="{{ site.baseurl }}/spenden/info-konten.html" >Mehr Infos gibt es hier &#8674;</a></p>
 
   <p>Einmal im Monat wird das Geld von den Konten auf das türkische Konto des Tierschutzverein - MeSaHayKoDer - in die Türkei transferiert. Es kommt also jeder Cent wirklich dort an.
+
   Das unten stehende Konto in der Türkei ist das offizielle Vereinskonto und wird vom Gouverneur von Izmir und vom Finanzamt überwacht.</p>
 
 Türkiye'den bağış yardımında bulunmak isteyenler için, türk bağış hesap numarası</br>
