@@ -14,6 +14,7 @@
           data-href="{{ include.gesucht.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
           data-layout="button_count">
     </div>
+   
     <a
     href="https://twitter.com/share"
     class="twitter-share-button"
@@ -24,4 +25,5 @@
     {% if include.gesucht.hash_tag %} data-hashtags="{{include.gesucht.hash_tag}}" {% endif %}>
       Tweet
     </a>
+   
   </li>
