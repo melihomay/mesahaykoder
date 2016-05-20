@@ -8,7 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0010.jpg
-visible: false
+visible: true
 ---
 
 
