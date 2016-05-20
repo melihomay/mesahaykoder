@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mesahaykoder.de" # the base hostname & protocol for your site
 facebook_username: /1-Euro-für-Özdere-Tierheim-Özdere-183449288408025/?fref=ts
 facebook_title: MeSaHayKoDer
+btc_address: 1Mtuzzf6kqz3PMrTHKy633uKSE6TmY7sZL
 fb_app_id: 456138037927901
 
 sass:
