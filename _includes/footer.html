@@ -8,17 +8,27 @@
 
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>
+
+            <script type="text/javascript">
+            <!--
+              var xnma = "service";
+              var xsnd = "mesahaykoder.de";
+              document.write('\<a href=\"mailto:' + xnma + '@' + xsnd + '">');
+              document.write(xnma + '@' + xsnd + '</a>');
+            //-->
+            </script>
         </ul>
       </div>
 
       <div class="footer-col footer-col-1">
         <ul class="social-media-list">
-          {% if site.facebook_username %}
+          <li><a href="https://twitter.com/OezdenOmay" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @OezdenOmay</a></li>
+          <!-- {% if site.facebook_username %}
             <li>
               {% include icon-facebook.html sername=site.facebook_username title=site.facebook_title %}
             </li>
-          {% endif %}
+          {% endif %} -->
         </ul>
       </div>
 
