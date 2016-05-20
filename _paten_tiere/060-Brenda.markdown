@@ -6,6 +6,7 @@ date: 16. April 2016
 hund: Brenda
 rasse: Labradormix
 alter: ca. 1 Jahre
+hash_tag: patenschaft
 image_hund: img/tiere/gesucht/Brenda.jpg
 ---
 

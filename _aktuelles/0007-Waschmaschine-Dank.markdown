@@ -8,6 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0006.jpg
+hash_tag: SpendenDank
 visible: true
 ---
 

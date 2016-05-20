@@ -8,6 +8,7 @@ hund: Namenlos
 rasse:
 alter:
 image_hund: img/tiere/patenschaften/default.jpg
+hash_tag: Spende
 visible: true
 ---
 

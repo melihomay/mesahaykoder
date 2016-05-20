@@ -9,6 +9,7 @@ rasse:
 alter:
 image_hund: img/tiere/aktuelles/0004.jpg
 image_hund_1: img/tiere/aktuelles/0004-1.jpg
+hash_tag: Info
 visible: true
 ---
 

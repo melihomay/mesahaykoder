@@ -6,6 +6,7 @@ date: 16. April 2016
 hund: Kepcekulak
 rasse: Hündin
 alter:
+hash_tag: patenschaft
 image_hund: img/tiere/gesucht/Kepcekulak.jpg
 ---
 

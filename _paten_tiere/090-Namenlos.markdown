@@ -6,6 +6,7 @@ date: 16. April 2016
 hund: Namenlos
 rasse: Schäferhund - Hündin
 alter: ca. 1,5 Jahr
+hash_tag: patenschaft
 image_hund: img/tiere/gesucht/ohne_namen.jpg
 ---
 

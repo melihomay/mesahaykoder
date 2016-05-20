@@ -8,6 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0005.jpg
+hash_tag: Dank
 visible: true
 ---
 

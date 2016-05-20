@@ -6,6 +6,7 @@ date: 16. April 2016
 hund: Suse
 rasse: Terriermix - Hündin
 alter: ca. 1,5 Jahre
+hash_tag: patenschaft
 image_hund: img/tiere/gesucht/suse.jpg
 ---
 

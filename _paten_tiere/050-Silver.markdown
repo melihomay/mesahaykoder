@@ -6,6 +6,7 @@ date: 16. April 2016
 hund: Silver
 rasse: Kater
 alter: ca. 8 Monate
+hash_tag: patenschaft
 image_hund: img/tiere/gesucht/k_silver.jpg
 ---
 

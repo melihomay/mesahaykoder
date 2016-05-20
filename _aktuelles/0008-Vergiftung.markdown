@@ -8,6 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0008.jpg
+hash_tag: HundVergiftet
 visible: true
 ---
 

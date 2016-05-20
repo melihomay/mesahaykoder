@@ -5,7 +5,8 @@ title: Pate gesucht für Namenlose
 date: 15. Mai 2016
 hund: Namenlose
 rasse: Hündin und 3 Welpen
-alter: 
+alter:
+hash_tag: patenschaft
 image_hund: img/tiere/gesucht/100-namenlos.jpg
 ---
 

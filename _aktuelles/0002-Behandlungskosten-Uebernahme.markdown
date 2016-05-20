@@ -8,6 +8,7 @@ hund: Namenlos
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0002.jpg
+hash_tag: Spende
 visible: true
 ---
 

@@ -8,6 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0007.jpg
+hash_tag: Spende
 visible: true
 ---
 

@@ -8,9 +8,9 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0010.jpg
+hash_tag: HundVergiftetUpdate
 visible: true
 ---
-
 
 Unserem vergifteter Hund von vorgestern geht es gut. Er hat gefressen und kein Blut im Stuhl. Regelmäßig wird eine Blutanalyse gemacht für Leber- und Nierenwerte.
 Er muss noch einige Tage in der Klinik bleiben.

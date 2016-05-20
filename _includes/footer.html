@@ -5,40 +5,37 @@
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
-      
+
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
-      
       <div class="footer-col footer-col-1">
         <ul class="social-media-list">
           {% if site.facebook_username %}
-          <li>
-            
-            {% include icon-facebook.html username=site.facebook_username title=site.facebook_title %}
-            
-          </li>
+            <li>
+              {% include icon-facebook.html sername=site.facebook_username title=site.facebook_title %}
+            </li>
           {% endif %}
         </ul>
       </div>
-      
+
+      <!-- <div class="footer-col footer-col-1">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="97D5VRCQL8GJA">
+          <input type="image" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="2" height="2">
+        </form>
+      </div> -->
       <div class="footer-col footer-col-1">
-       
-    
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="97D5VRCQL8GJA">
-            <input type="image" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="2" height="2">
-          </form>
-      
+        <a href="{{ site.baseurl }}/spenden/konten.html" >Spenden
+          <img src="{{site.baseurl}}/img/de-pp-logo-150px.png" alt="{{site.title}}">
+        </a>
       </div>
-      
-      
-      
+
     </div>
 
   </div>
