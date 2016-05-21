@@ -17,7 +17,14 @@ Orta Mahalle, Özdere-Izmir<br />
 <br/>
 <p><b>Kontaktdaten</b><br />
 Tel.: {{ site.telefon }}<br />
-E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+E-Mail:  <script type="text/javascript">
+            <!--
+            var xnma = "{{site.email_service}}";
+            var xsnd = "{{site.domain_name}}";
+              document.write('\<a href=\"mailto:' + xnma + '@' + xsnd + '">');
+              document.write(xnma + '@' + xsnd + '</a>');
+            //-->
+            </script></p>
 <br/>
 <p><b>Gemeinschaftlich vertretungsbefugt</b><br />
 1. Vorsitzende: Özden Omay<br />
