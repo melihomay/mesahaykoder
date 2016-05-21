@@ -8,7 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0006.jpg
-hash_tag: SpendenDank
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 ---
 

@@ -8,7 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0010.jpg
-hash_tag: HundVergiftetUpdate
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 ---
 

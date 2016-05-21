@@ -8,7 +8,7 @@ hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/003.jpg
-hash_tag: Info
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 ---
 

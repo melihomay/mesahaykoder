@@ -6,7 +6,7 @@ date: 16. April 2016
 hund: Gülümsel
 rasse:
 alter: ca. 1 Jahre
-hash_tag: patenschaft
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/Gueluemsel.jpg
 ---
 

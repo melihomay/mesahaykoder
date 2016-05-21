@@ -7,8 +7,8 @@ datum: 11. Mai 2016 - Özden Omay
 hund: Namenlos
 rasse:
 alter:
-image_hund: img/tiere/patenschaften/default.jpg
-hash_tag: Spende
+image_hund: img/tiere/aktuelles/0001.jpg
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 ---
 
