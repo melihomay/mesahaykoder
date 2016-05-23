@@ -1,0 +1,34 @@
+{% capture the_collection %}{{include.item.collection}}{% endcapture %}
+{% if include.item.collection %}
+  {% assign  document = site[the_collection] | where: "visible", true %}
+
+{% endif %}
+
+{% for links in document  %}
+  {% if links.url == include.item.url %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevtitle = prev.title %}
+    {% endunless %}
+
+    {% unless forloop.last %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% assign nexttitle = next.title %}
+    {% endunless %}
+  {% endif %}
+
+  {% assign prev = links %}
+{% endfor %}
+
+{% if prevurl or nexturl %}
+  <div class="pagination">
+    {% if prevurl %}
+      <a href="{{prevurl}}" class="prev_pagination">voriger beitrag: {{ prevtitle }}</a>
+    {% endif %}
+    | <a href="{{ include.href }}">{{ include.text }}</a> |
+    {% if nexturl %}
+      <a href="{{nexturl}}" class="next_pagination"> Nächster beitrag {{nexttitle }} </a>
+    {% endif %}
+  </div>
+{% endif %}
