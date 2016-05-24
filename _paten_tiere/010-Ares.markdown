@@ -8,6 +8,7 @@ rasse: Info folgt
 alter:
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/Ares.jpg
+visible: true
 ---
 
 Infos folgen

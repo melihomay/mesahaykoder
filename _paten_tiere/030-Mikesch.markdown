@@ -8,6 +8,7 @@ rasse: Kater
 alter: ca. 1 Jahre
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/k-Mikesch.jpg
+visible: true
 ---
 
 Der kleine Kater ist zuckersüß und ganz lieb.

@@ -8,6 +8,7 @@ rasse: Labradormix
 alter: ca. 1 Jahre
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/Brenda.jpg
+visible: true
 ---
 
  Brenda ist total lieb und menschenbezogen. Sie liebt es, zu schmusen.
