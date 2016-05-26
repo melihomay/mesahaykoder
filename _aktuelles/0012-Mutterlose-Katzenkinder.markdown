@@ -12,4 +12,4 @@ hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 ---
 
-Unsere mutterlosen Katzenkinder gedeihen prächtig.
+Unsere mutterlosen Katzenkinder gedeihen prächtig. Dank eurer Hilfe können wir sie mit Nahrung versorgen.

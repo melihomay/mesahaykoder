@@ -1,8 +1,8 @@
 {% capture the_collection %}{{include.item.collection}}{% endcapture %}
 {% if include.item.collection %}
   {% assign  document = site[the_collection] | where: "visible", true %}
-
 {% endif %}
+
 
 {% for links in document  %}
   {% if links.url == include.item.url %}
@@ -23,12 +23,18 @@
 
 {% if prevurl or nexturl %}
   <div class="pagination">
-    {% if prevurl %}
-      <a href="{{prevurl}}" class="prev_pagination">voriger beitrag: {{ prevtitle }}</a>
-    {% endif %}
-    | <a href="{{ include.href }}">{{ include.text }}</a> |
+    
+   
     {% if nexturl %}
-      <a href="{{nexturl}}" class="next_pagination"> Nächster beitrag {{nexttitle }} </a>
+      <a href="{{nexturl}}" class="next_pagination">Vorheriger Beitrag</a>
     {% endif %}
+
+    {% if prevurl and nexturl %} | {% endif %}
+
+    {% if prevurl %}
+      <a href="{{prevurl}}" class="prev_pagination">Älterer Beitrag</a>
+    {% endif %}
+    </br></br><b><a href="{{ include.href }}">{{ include.text }}</a></b> 
+   
   </div>
 {% endif %}

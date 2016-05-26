@@ -4,11 +4,11 @@ category: gesucht
 title: Pate gesucht für Ares
 date: 16. April 2016
 hund: Ares
-rasse: Info folgt
-alter:
+rasse: Fino-Mix
+alter: Weibchen
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-image_hund: img/tiere/gesucht/Ares.jpg
+image_hund: img/tiere/gesucht/Ares_02.jpg
 visible: true
 ---
 
-Infos folgen
+
