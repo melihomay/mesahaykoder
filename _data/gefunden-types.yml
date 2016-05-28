@@ -40,22 +40,22 @@
   image_hund: Rudi-ChristineMutze.jpg
 
 - pate: Angela Demmig
-  pate_image: default.jpg
-  hund: Patenschaft für Elsa
-  image_hund: default.png
+  pate_image: 
+  hund: Patenschaft für Pon Pon
+  image_hund: PonPon-AngelaDemmig.jpg
 - pate: Judith Fritzsche
   pate_image: default.png
-  hund: Patenschaft 
+  hund: Patenschaft für Sari
   image_hund: Hundeseelen-JuldithFritzsche.jpg
-- pate: Renate Sampl
+- pate: Sabine Pralat
   pate_image: default.jpg
   hund: Patenschaft für Samira1
   image_hund: Samira1-RenateSampl.jpg
-- pate: Renate Sampl
+- pate: Monika Goldhorn
   pate_image: default.jpg
   hund: Patenschaft für Tessi
   image_hund: Tessi-MonikaGoldhorn.jpg
-- pate: Renate Sampl
+- pate: Christiane Hacker
   pate_image: default.jpg
   hund: Patenschaft für Alice
   image_hund: Alice-ChristianeHacker.jpg
@@ -90,15 +90,8 @@
   hund: Patenschaft für  Mr. Peabody
   image_hund: default.png
 
-- pate: Sabine Eroenal 
-  pate_image: default.jpg
-  verein: Tierhilfe Türkei e.V.
-  hund: Patenschaft für Yaman
-  image_hund: Yaman-SabineEronal.jpg
-- pate: Özlem Kesici 
-  pate_image: default.jpg
-  hund: Patenschaft für PonPon
-  image_hund: PonPon-AngelaDemmig.jpg
+
+
 - pate: Ramona Schaaf 
   pate_image: default.jpg
   hund: Patenschaft für Luminor
@@ -121,9 +114,9 @@
   image_hund: Linda_Toni-SabinePralat.jpg
 - pate: Monika Goldhorn 
   pate_image: default.jpg
-  hund: Patenschaft für Grizzly und Tessi
+  hund: Patenschaft für Grizzly 
   image_hund: Grizzly-MonikaGoldhorn.jpg
-- pate: Cathleen Spohr Besiktas
+- pate: Cathleen Spohr
   pate_image: default.jpg
   hund: Patenschaft für Besiktas
   image_hund: Besiktas-CathleenSpohr.jpg
@@ -151,14 +144,33 @@
   hund: Patenschaft für Nikita
   image_hund: Nikita-DorisMoessner.jpg
 
-
-
-
-
-
-- pate: Ebru Arikcan
+- pate: Juliane Maiberg
   pate_image: default.jpg
-  hund: Patenschaft für Karamel
-  image_hund: default.png
+  hund: Patenschaft für Harry
+  image_hund: Harry-JulianeMaiberg.jpg
+  
+- pate: Tubi Rubi
+  pate_image: default.jpg
+  hund: Patenschaft für Suse
+  image_hund: Suse-TubiRubi.jpg
+  
+- pate: Tina Holzhaus
+  pate_image: default.jpg
+  hund: Patenschaft für Benny
+  image_hund: Benny-Tina-Holzhaus.jpg
 
+- pate: Beate Müller
+  pate_image: default.jpg
+  hund: Patenschaft für Robin
+  image_hund: Robin-BeateMueller.jpg
+  
+- pate: Claudia Kreutz
+  pate_image: default.jpg
+  hund: Patenschaft für Ronja
+  image_hund: default.png
+  
+- pate: Brigitte Vetterl
+  pate_image: default.jpg
+  hund: Patenschaft für Peggy
+  image_hund: Peggy-BrigitteVetterl.jpg
 
