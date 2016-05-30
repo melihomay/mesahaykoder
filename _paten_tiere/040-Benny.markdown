@@ -8,7 +8,7 @@ rasse: Goldiemix
 alter: ca. 1 Jahre
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/Benny.jpg
-visible: true
+visible: false
 ---
 
 Dieser bildhübsche Kerl ist etwa 60 cm hoch und sehr lieb.
