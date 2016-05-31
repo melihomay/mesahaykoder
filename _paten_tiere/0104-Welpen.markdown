@@ -8,7 +8,7 @@ rasse: Rüden
 alter: ca. 3 Monate
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/104-namenlos.jpg
-visible: false
+visible: true
 ---
 
 Diese vier Welpen wurden im Tierheim Özdere abgegeben, weil die Mutter Anfang März überfahren wurde.
