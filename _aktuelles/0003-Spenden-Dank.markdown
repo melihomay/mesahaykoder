@@ -25,7 +25,7 @@ images:
   - path: img/sachspenden_02/SAM_4003.jpg
     title: Spende 5
   - path: img/sachspenden_02/SAM_4004.jpg
-    title: Spende 6 http://photoswipe.com/
+    title: Spende 6 http://unitegallery.net/index.php?page=documentation#documenter_cover
 ---
 
 In den letzten Tagen wurden wir überschüttet mit Sachspenden. Wir danken allen Beteiligten und unseren lieben Flugpaten.
