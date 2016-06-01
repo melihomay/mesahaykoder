@@ -6,6 +6,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     <ul class="post-list">
       {% include aktuelles_row.html aktuell=page%}
+      {% include grid_thumb.html item=page %}
        <li class="clear">
          {% include collection_pagination.html href='/aktuelles.html' item=page text='Aktuelles' %}
        </li>
