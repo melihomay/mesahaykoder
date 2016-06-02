@@ -4,8 +4,8 @@ category: gesucht
 title: Pate gesucht für Namenlos
 date: 30. Mai 2016
 hund: Namenlos
-rasse:
-alter:
+rasse: ''
+alter: ''
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/103-namenlos.jpg
 visible: true
