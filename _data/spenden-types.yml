@@ -1,9 +1,209 @@
-- datum: 2016 Mai
-  gesamt: EURO
+- datum: 2016 Juni
+  gesamt:  EURO
   spender:
   - betrag: 
     name: Veröffentlichung 
-    spende: Anfang Juni
+    spende: Anfang Juli
+
+
+
+- datum: 2016 Mai - Spendeneingänge über Sunnydays for Animals e.V.
+  gesamt: 680,00 EURO
+  spender:
+  - betrag: 500,00 €
+    name: Tierhilfe Türkei e.V.
+    spende: Kastrationen anteilig
+  - betrag: 60,00 €
+    name: Susanne Schnetz
+    spende: Spende
+  - betrag: 100,00 €
+    name: Cora Kitschmann
+    spende: Spende
+  - betrag: 20,00 €
+    name: Brigitte Vetterl
+    spende: Patenschaft Peggy
+    
+    
+   
+    
+    
+
+- datum: 2016 Mai
+  gesamt: 2.145,00 EURO
+  spender:
+  - betrag: 45,00 €
+    name:	Elke Holm
+    spende: Patenschaften Efe Can, Ipek & Uff
+  - betrag: 15,00 €
+    name:	Juliane Maiberg
+    spende: Patenschaft Harry
+  - betrag: 30,00 €
+    name:	Kartin Esen
+    spende: Patenschaften Tango & Kim
+  - betrag: 20,00 €
+    name:	Bruno Mangelmann
+    spende: Patenschaft Kara
+  - betrag: 15,00 €
+    name:	Angela Demmig 
+    spende: Patenschaft PonPon
+  - betrag: 60,00 €
+    name:	Renate Sampl
+    spende: Patenschaften Tessy, Samira & Alice
+  - betrag: 15,00 €
+    name:	Wenke Kleinert
+    spende: Patenschaft George
+  - betrag: 40,00 €
+    name:	Susanne Goldhorn 
+    spende: Patenschaften Fred & Bruni
+  - betrag: 30,00 €
+    name:	Judith Fritsche
+    spende: Patenschaft Sari
+  - betrag: 20,00 €
+    name:	Christine Mutze
+    spende: Patenschaft Rudi
+  - betrag: 15,00 €
+    name:	Nicole Maschmann
+    spende: Patenschaft Raffzahn
+  - betrag: 20,00 €
+    name:	Veronika Schilling
+    spende: Patenschaft Emma
+  - betrag: 15,00 €
+    name:	Claudia Kreutz
+    spende: Patenschaft Ronja 
+  - betrag: 15,00 €
+    name:	Iris Bagheri
+    spende: Patenschaft Frieda
+  - betrag: 15,00 €
+    name:	Felicitas Arkan
+    spende: Patenschaft Nevin
+  - betrag: 15,00 €
+    name:	Tugba Ellwanger
+    spende: Patenschaft Susi
+  - betrag: 15,00 €
+    name:	Beate Müller
+    spende: Patenschaft Robin
+  - betrag: 20,00 €
+    name:	Diana Roberts
+    spende: Patenschaft Cody & Berghündin
+  - betrag: 15,00 €
+    name:	Maren Rebentisch
+    spende: Patenschaft Maya
+  - betrag: 15,00 €
+    name:	Diana Schiller
+    spende: Patenschaft Luna
+  - betrag: 50,00 €
+    name:	Monika Brunhild Goldhorn
+    spende: Patenschaften Tessi & Grizzly
+  - betrag: 15,00 €
+    name:	Lisa Beyer
+    spende: Patenschaft Mr. Peabody
+  - betrag: 40,00 €
+    name:	Martina Heindorf
+    spende: Patenschaften Hamit 1 & 2
+  - betrag: 20,00 €
+    name:	Cathleen Spohr
+    spende: Patenschaft Besiktas
+  - betrag: 30,00 €
+    name:	Daniela Fehleisen
+    spende: Patenschaften Emely & Tomi
+  - betrag: 30,00 €
+    name:	Sandra Dipci
+    spende: Patenschaften Samira & Nikita
+  - betrag: 20,00 €
+    name:	Sabine Schwepe
+    spende: Patenschaft Alice
+  - betrag: 15,00 €
+    name:	Manuela Siller
+    spende: Patenschaft Silver
+  - betrag: 10,00 €
+    name:	Anja Spoerl 
+    spende: Spende
+  - betrag: 5,00 €
+    name:	Gabriele Mocker
+    spende: 1 Euro für Özdere
+  - betrag: 20,00 €
+    name:	Helena Sophie Schall
+    spende: Für die lieben Hunde und Katzen
+  - betrag: 5,00 €
+    name:	Hülya Aydemir
+    spende: Spende
+  - betrag: 50,00 €
+    name:	Renate Sampl
+    spende: Reparatur Dach
+  - betrag:   5,00 €
+    name:	Diana Kaufer
+    spende: Spende
+  - betrag: 10,00 €
+    name:	Kirsten Dorn
+    spende: allgemeine Spende
+  - betrag:   5,00 €
+    name:	Heinz Jürgen Max Schroer
+    spende: Tierheim Özdere
+  - betrag: 5,00 €
+    name:	Christine Kretschmann
+    spende: Tierheim Özdere
+  - betrag: 35,00 €
+    name:	Monika Tang/Moni Müller
+    spende: allgemeine Spende
+  - betrag: 5,00 €
+    name:	Petra Bruckhaus
+    spende: Aktion 1 Euro für Özdere
+  - betrag: 50,00 €
+    name:	Regina Michel
+    spende: MeSaHayKoDer
+  - betrag: 20,00 €
+    name:	Lisa Janku
+    spende: MeSaHayKoDer
+  - betrag:   5,00 €
+    name:	Ulrike Nonnenmann
+    spende: Tierspende
+  - betrag: 20,00 €
+    name:	Hannes Lückmann
+    spende: Spende
+  - betrag: 25,00 €
+    name:	Siegfried Weber
+    spende: MeSaHayKoDer
+  - betrag: 15,00 €
+    name:	Lisa Beyer
+    spende: 1 Sack Futter für Ayse Sibel Söylemezoglu
+  - betrag: 200,00 €
+    name:	Özden Omay
+    spende: Spenden Flugticket für Vera
+  - betrag: 45,00 €
+    name:	Sibel Omay
+    spende: Spende Fluckticket für Vera
+  - betrag: 15,00 €
+    name:	Julianne Botot-Ostertag
+    spende: Futterpatenschaft weiße Hündin von Ayse
+  - betrag: 695,00 €
+    name:	Sunnydays for Animals e.V.
+    spende: Weiterleitung Spende für neue Hundedächer
+  - betrag: 60,00 €
+    name:	Sabine Schwepe
+    spende: Spende
+  - betrag: 20,00 €
+    name:	Monika Thoma
+    spende: MeSaHayKoDer
+  - betrag: 50,00 €
+    name:	Marlene Hölscher
+    spende: Dächer
+  - betrag: 80,00 €
+    name:	Sabine Schwepe
+    spende: Behandlungskosten
+  - betrag: 20,00 €
+    name:	Melanie Meryem Kuhl
+    spende: Futterspende
+  
+
+
+
+
+
+
+
+
+
+
 
 - datum: 2016 April
   gesamt: 1.915,00 EURO
