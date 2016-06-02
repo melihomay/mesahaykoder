@@ -11,6 +11,7 @@ image_hund: img/tiere/gesucht/104-namenlos.jpg
 visible: true
 ---
 
+
 Diese vier Welpen wurden im Tierheim Özdere abgegeben, weil die Mutter Anfang März überfahren wurde.
 Die Welpen waren gerade zehn Tage alt. Ein Tierheim ist kein geeignete Ort für so junge Tiere.
 Wir haben die Welpen mit der Flasche grossgezogen. Sie sind entwurmt, geimpft und bei bester Gesundheit.
