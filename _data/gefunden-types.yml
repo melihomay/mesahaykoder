@@ -1,11 +1,13 @@
+- pate: Manuela Siller 	
+  pate_image: default.jpg
+  hund: Patenschaft für Silver
+  image_hund: k_silver.jpg
+
+
 - pate: Nicole Maschmann
   pate_image: default.jpg
   hund: Patenschaft für Raffzahn
   image_hund: Raffzahn-NicoleMaschmann.jpg
-- pate: Özlem Kesici 
-  pate_image: default.jpg
-  hund: Patenschaft für Masha
-  image_hund: Masha-OEzlemKesici.jpg
 - pate: Elke Holm
   pate_image: default.jpg
   hund: Patenschaft für Ipek, Can und Uff
@@ -47,15 +49,15 @@
   pate_image: default.png
   hund: Patenschaft für Sari
   image_hund: Hundeseelen-JuldithFritzsche.jpg
-- pate: Sabine Pralat
+- pate: Renate Sampl
   pate_image: default.jpg
   hund: Patenschaft für Samira1
   image_hund: Samira1-RenateSampl.jpg
-- pate: Monika Goldhorn
+- pate: Renate Sampl
   pate_image: default.jpg
   hund: Patenschaft für Tessi
   image_hund: Tessi-MonikaGoldhorn.jpg
-- pate: Christiane Hacker
+- pate: Renate Sampl & Sabine Schwebe
   pate_image: default.jpg
   hund: Patenschaft für Alice
   image_hund: Alice-ChristianeHacker.jpg
@@ -92,29 +94,20 @@
 
 
 
-- pate: Ramona Schaaf 
-  pate_image: default.jpg
-  hund: Patenschaft für Luminor
-  image_hund: Luminor-RamonaSchaaf.jpg
+
 - pate: Julianne Bototo-Ostertag 
   pate_image: default.jpg
   hund: Patenschaft für Ayse
   image_hund: default.png
-- pate: Claudi Voit
-  pate_image: default.jpg
-  hund: Patenschaft für  Chap
-  image_hund: Chap-ClaudiVoit.jpg
-- pate: Claudi Voit
-  pate_image: default.jpg
-  hund: Patenschaft für Chip
-  image_hund: Chip-ClaudiVoit.jpg
+
+
 - pate: Sabine Pralat
   pate_image: default.jpg
-  hund: Patenschaft für Linda und Tony
+  hund: Patenschaft für Arcon, Linda und Tony
   image_hund: Linda_Toni-SabinePralat.jpg
 - pate: Monika Goldhorn 
   pate_image: default.jpg
-  hund: Patenschaft für Grizzly 
+  hund: Patenschaft für Grizzly und Tessi
   image_hund: Grizzly-MonikaGoldhorn.jpg
 - pate: Cathleen Spohr
   pate_image: default.jpg
@@ -139,7 +132,7 @@
   
   
   
-- pate: Doris Mößner 
+- pate: Sandra Dipci 
   pate_image: default.jpg
   hund: Patenschaft für Nikita
   image_hund: Nikita-DorisMoessner.jpg
@@ -154,10 +147,7 @@
   hund: Patenschaft für Suse
   image_hund: Suse-TubiRubi.jpg
   
-- pate: Tina Holzhaus
-  pate_image: default.jpg
-  hund: Patenschaft für Benny
-  image_hund: Benny-Tina-Holzhaus.jpg
+
 
 - pate: Beate Müller
   pate_image: default.jpg
@@ -167,12 +157,17 @@
 - pate: Claudia Kreutz
   pate_image: default.jpg
   hund: Patenschaft für Ronja
-  image_hund: default.png
+  image_hund: 
   
 - pate: Brigitte Vetterl
   pate_image: default.jpg
   hund: Patenschaft für Peggy
   image_hund: Peggy-BrigitteVetterl.jpg
+  
+- pate: Liselotte Fehleisen
+  pate_image: default.jpg
+  hund: Patenschaft für Emely und Tomi
+  image_hund: default.png
   
 
 
