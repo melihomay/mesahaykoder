@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <span itemscope itemtype="http://schema.org/LocalBusiness">
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+    </span>
+  </body>
+  <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+  <script type='text/javascript' src="{{'/assets/ug/js/unitegallery.min.js' | prepend: site.baseurl }}" ></script>
+
+	<link rel='stylesheet' href="{{'/assets/ug/css/unite-gallery.css' | prepend: site.baseurl }}" type='text/css' />
+	<script type='text/javascript' src="{{'/assets/ug/themes/default/ug-theme-default.js' | prepend: site.baseurl }}"></script>
+  <script src="{{'/assets/ug/themes/tiles/ug-theme-tiles.js' | prepend: site.baseurl }}" type='text/javascript'></script>
+	<link rel='stylesheet' href="{{'/assets/ug/themes/default/ug-theme-default.css' | prepend: site.baseurl }}" type='text/css' />
+
+  <script>
+    {% include analytics_fb_twitter.js %}
+
+    jQuery(document).ready(function(){
+      jQuery("#gallery").unitegallery({
+        // theme_enable_fullscreen_button: true,
+        tiles_type: 'justified',
+        gallery_theme: 'tiles',
+        gallery_width: '100%',				//gallery width
+        // theme_auto_open: 1,				//auto open lightbox at start - if some number gived, like 0
+
+      });
+    });
+   </script>
+</html>

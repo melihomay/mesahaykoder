@@ -1,0 +1,14 @@
+{% if include.item.gallery.images and include.item.gallery.images.length != 0 %}
+{% for image in include.item.gallery.images %}
+
+{% endfor %}
+  <div id="gallery" style="display:none;">
+    {% for image in include.item.gallery.images %}
+      <img
+        alt="{{ image.title }}"
+        src="{{ site.baseurl }}/{{ include.item.gallery.thumb_path }}/small/{{ image.file }}"
+		    data-image="{{ site.baseurl }}/{{ include.item.gallery.thumb_path }}/{{ image.file }}"
+		    data-description="{{ image.title }}"/>
+    {% endfor %}
+  </div>
+{% endif %}
