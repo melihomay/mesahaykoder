@@ -67,11 +67,11 @@ end
 
 # build yaml file
 yaml_file = {}
-yaml_file[:gallery] = {}
-yaml_file[:gallery][:thumb_path] = commandos['images']
-yaml_file[:gallery][:images]= []
+yaml_file['gallery'] = {}
+yaml_file['gallery']['thumb_path'] = commandos['images']
+yaml_file['gallery']['images']= []
 filtered_images.each do | image_file |
-  yaml_file[:gallery][:images] << {file: image_file, title: '', alt: ''}
+  yaml_file['gallery']['images'] << {'file' => image_file, 'title' => '', 'alt' => ''}
 end
 
 File.open(File.join( commandos['images'], 'gallery_snippet.yml'), 'w') {|f| f.write yaml_file.to_yaml }
