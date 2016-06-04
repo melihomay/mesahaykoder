@@ -23,12 +23,7 @@ gallery:
   - file: SAM_4084.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: vergiftete_Hund_Zeytin.jpg
-    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: vergiftete_Hund_Zeytin01.jpg
-    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  
 
 ---
 
