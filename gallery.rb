@@ -35,13 +35,13 @@ validate_commandos.each do |command|
   end
 end
 
-optional_commands = %W(q width)
-optional_commands.each do | command |
+optional_commands = %w(q width)
+optional_commands.each do |command|
   value = commandos[command]
   if command == 'q' && value.nil?
-    commandos['q'] = 50
+    commandos['q'] = 35
   elsif command == 'width' && value.nil?
-    commandos['width'] = 250
+    commandos['width'] = 400
   end
 end
 
@@ -49,29 +49,34 @@ end
 small_path = File.join commandos['images'], 'small'
 
 filtered_images = ''
-unless File.directory?(small_path)
+if File.directory?(small_path)
+  puts "small folder exist in #{commandos['images']}"
+  exit
+else
   FileUtils.mkdir_p(small_path)
-  filtered_images = Dir.entries("#{commandos['images']}/.").select do |file_image|
+  filtered_images = Dir
+                    .entries("#{commandos['images']}/.")
+                    .select do |file_image|
     prefix = file_image.split('.').last
     prefix && %(png jpg)[file_image.split('.').last.downcase]
   end
-else
-  puts "small folder exist in #{commandos['images']}"
-  exit
 end
 
 system("cd #{commandos['images']}")
-filtered_images.each do | image_file |
+filtered_images.each do |image_file|
   system("sips --setProperty formatOptions #{commandos['q']} -Z #{commandos['width']} #{File.join( commandos['images'], image_file)} --out #{File.join( commandos['images'], 'small')}")
 end
 
+test = 'www.mesahaykoder.de - Tierschutzverein - Özdere Türkei'
 # build yaml file
 yaml_file = {}
-yaml_file[:gallery] = {}
-yaml_file[:gallery][:thumb_path] = commandos['images']
-yaml_file[:gallery][:images]= []
-filtered_images.each do | image_file |
-  yaml_file[:gallery][:images] << {file: image_file, title: '', alt: ''}
+yaml_file['gallery'] = {}
+yaml_file['gallery']['thumb_path'] = commandos['images']
+yaml_file['gallery']['images'] = []
+filtered_images.each do |image_file|
+  yaml_file['gallery']['images'] << { 'file' => image_file, 'title' => test, 'alt' => test }
 end
 
-File.open(File.join( commandos['images'], 'gallery_snippet.yml'), 'w') {|f| f.write yaml_file.to_yaml }
+File.open(File.join(commandos['images'], 'gallery_snippet.yml'), 'w') do |f|
+  f.write yaml_file.to_yaml
+end
