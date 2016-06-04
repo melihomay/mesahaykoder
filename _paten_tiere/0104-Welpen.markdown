@@ -9,6 +9,29 @@ alter: ca. 3 Monate
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/104-namenlos.jpg
 visible: true
+
+gallery:
+  thumb_path: img/tiere/patenschaften/p-0104-Welpen
+  images:
+  - file: SAM_3361.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_3464.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_3534.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4238.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4246.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4260.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
 ---
 
 Diese vier Welpen wurden im Tierheim Özdere abgegeben, weil die Mutter Anfang März überfahren wurde.

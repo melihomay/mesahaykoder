@@ -9,6 +9,23 @@ alter: ''
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/103-namenlos.jpg
 visible: true
+
+gallery:
+  thumb_path: img/tiere/patenschaften/p-0103-Namenlos
+  images:
+  - file: 13105983_1149269525094469_1842997062_o.jpg
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_3958.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4257.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4306.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
 ---
 
 Eine Frau brachte ihn in die Atlas Klinik mit schweren Bisswunden, er war gerade 2 Wochen alt. Der Kleine war voll mit Würmern.

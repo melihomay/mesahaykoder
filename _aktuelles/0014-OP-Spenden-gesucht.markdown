@@ -11,6 +11,20 @@ image_hund: img/tiere/aktuelles/0014.jpg
 image_hund_1: 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+
+gallery:
+  thumb_path: img/tiere/aktuelles/0014-OP-Spenden-gesucht
+  images:
+  - file: SAM_4249.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4250.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4251.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
 ---
 
 Verletzten Hund von Tierheim Özdere abgeholt und in die Urlavet Veteriner Poliklinik gebracht. Behandelt wird er zur Zeit von Erhan Gökdag.

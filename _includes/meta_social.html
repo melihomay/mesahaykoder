@@ -1,0 +1,7 @@
+<meta property="og:url"           content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="{{page.title}}" />
+<meta property="og:site_name"     content="www.{{site.domain_name}}" />
+<meta property="og:description"   content="{% if page.fb_share_description %} {{page.content}} {% else %}Ab einer Spende von 15€ pro Monat könnt ihr die Patenschaft von einem Hund oder einer Katze übernehmen.{%endif%}" />
+<meta property="og:image"         content="{{ page.image_hund | replace:'index.html','' | prepend:'/' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="fb:app_id"        content="{{site.fb_app_id}}"/>
