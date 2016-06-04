@@ -15,7 +15,7 @@ layout: post
 <ul class="post-list">
   {% for gesucht in site.paten_tiere reversed %}
     {% if gesucht.visible == true %}
-      {% include gesucht_row.html gesucht=gesucht%}
+      {% include gesucht_row.html gesucht=gesucht force=true%}
     {% endif %}
   {% endfor %}
 </ul>

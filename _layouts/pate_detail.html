@@ -16,10 +16,12 @@ layout: image_gallery
 
     <ul class="post-list">
       {% include gesucht_row.html gesucht=page%}
+      {% include gallery_thumbs.html item=page %}
       <li class="clear">
        <p>{% include collection_pagination.html href='/patenschaft/gesucht.html' item=page text='Patenschaft gesucht' %}</p>
       </li>
     </ul>
+
   </div>
 
 </article>

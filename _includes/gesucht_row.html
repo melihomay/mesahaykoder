@@ -1,8 +1,12 @@
 
   <li class="clear">
+
     <a href="{{site.baseurl}}{{include.gesucht.url}}">
-      <img src="{{site.baseurl}}/{{include.gesucht.image_hund }}" alt="{{include.gesucht.hund}}">
+      {% if include.gesucht.gallery == null or include.force %}
+        <img src="{{site.baseurl}}/{{include.gesucht.image_hund }}" alt="{{include.gesucht.hund}}">
+      {% endif %}
     </a>
+
     <h5 class="post-meta">{{include.gesucht.rasse}} {{include.gesucht.alter}}</h5>
     <h3>{{include.gesucht.hund}}</h3>
     <p> {{include.gesucht.content}}</p>
