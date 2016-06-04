@@ -39,7 +39,7 @@ optional_commands = %W(q width)
 optional_commands.each do | command |
   value = commandos[command]
   if command == 'q' && value.nil?
-    commandos['q'] = 50
+    commandos['q'] = 70
   elsif command == 'width' && value.nil?
     commandos['width'] = 250
   end
