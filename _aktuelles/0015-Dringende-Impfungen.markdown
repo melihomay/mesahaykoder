@@ -11,6 +11,23 @@ image_hund: img/tiere/aktuelles/0015.jpg
 image_hund_1: 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+
+gallery:
+  thumb_path: img/tiere/aktuelles/0015-Dringende-Impfungen
+  images:
+  - file: SAM_4298.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4300.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4326.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4327.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
 ---
 
 Diese kleinen Welpen wurden in einem Karton auf der Strasse entsorgt.
