@@ -2,7 +2,26 @@
   pate_image: default.jpg
   hund: Patenschaft für Silver
   image_hund: k_silver.jpg
-
+  
+- pate: Lisa Reh
+  hund: Patenschaft für Kepcekulak
+  image_hund: Kepcekulak.jpg
+  
+- pate: Marika Cumini 
+  hund: Patenschaft für Dolly
+  image_hund: default.png
+  
+- pate: Ramona Schaaf
+  hund: Patenschaft für Luminor
+  image_hund: Luminor-RamonaSchaaf.jpg
+  
+- pate: Daniela Kaplan 
+  hund: Patenschaft für Dede
+  image_hund: Opa_Dede-DanielaKaplan.jpg
+  
+- pate: Sabine Erönal 
+  hund: Patenschaft Yaman 
+  image_hund: Yaman-SabineEronal.jpg
 
 - pate: Nicole Maschmann
   pate_image: default.jpg
