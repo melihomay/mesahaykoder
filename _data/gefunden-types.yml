@@ -11,6 +11,12 @@
   hund: Patenschaft für Dolly
   image_hund: default.png
   
+- pate: Edith Fuchs
+  pate_image: default.jpg
+  hund: Patenschaft für Pitti und Cat
+  image_hund: Pitti_Cat-AndreaMohr.jpg
+
+  
 - pate: Ramona Schaaf
   hund: Patenschaft für Luminor
   image_hund: Luminor-RamonaSchaaf.jpg
@@ -85,10 +91,6 @@
   pate_image: default.jpg
   hund: Patenschaft für Nevin
   image_hund: Nevin-harry.jpg
-- pate: Andrea Mohr 
-  pate_image: default.jpg
-  hund: Patenschaft für Pitti und Cat
-  image_hund: Pitti_Cat-AndreaMohr.jpg
 
 - pate: Diana Roberts
   pate_image: default.jpg
