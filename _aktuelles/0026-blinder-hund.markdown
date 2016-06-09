@@ -10,7 +10,7 @@ alter: ''
 image_hund: img/tiere/aktuelles/0026.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-visible: true
+visible: false
 gallery:
   thumb_path: img/tiere/aktuelles/0026-blinder-hund
   images:
