@@ -25,6 +25,6 @@ gallery:
 ---
 
 Danke an Claudia Kreuz,
-sie hat die Erstimfung von vier Welpen übernommen. Wir hoffen, dass wir die Zweitimpfung auch bezahlen können. Wer will mit machen? Pro Welpe koste die Impfung ca. 13 Euro. 
+sie hat die Erstimpfung von vier Welpen übernommen. Wir hoffen, dass wir die Zweitimpfung auch bezahlen können. Wer will mit machen? Pro Welpe koste die Impfung ca. 13 Euro. 
 Ihre Leben liegt in unseren Händen. Danke!
 
