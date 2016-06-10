@@ -32,8 +32,8 @@ gallery:
 ---
 
 Eine an Reude erkrankte Hündin vom Tierheim Özdere
-haben wir heute aus ihrem winzigen Käfig befreit und sofort zur Klinik gebracht. Es ist ein sehr schlimmer Fall von Reude, dennnoch besteht Hoffnung.
-Sie hat sehr starke Reude, Demodex, Haarfolickel-Entzündüng am ganzen Körper, Drüsen sind geschwollen und einen Pilz, vermutlich Malessiea (Abstrich wurde genommen).
+haben wir heute aus ihrem winzigen Käfig befreit und sofort zur Klinik gebracht. Es ist ein sehr schlimmer Fall von Reude, dennoch besteht Hoffnung.
+Sie hat sehr starke Reude, Demodex, Haarfolickel-Entzündung am ganzen Körper, Drüsen sind geschwollen und einen Pilz, vermutlich Malessiea (Abstrich wurde genommen).
 Die Arme wird behandelt, erste Pilz-Spritze hat sie bekommen. Natürlich auch Antibiotika und die Reude-Behandlung. Wenn Gott will ist sie in sechs Monaten gesund :)
 Wir werden weiter berichten. Jede Behandlung, sauber machen und jedes Stück Futter kostet Geld, bitte helft uns. 
 Wir können nicht wegsehen bei so einem Elend.

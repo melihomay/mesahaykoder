@@ -10,7 +10,7 @@ alter: ''
 image_hund: img/tiere/aktuelles/0026.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-visible: false
+visible: true
 gallery:
   thumb_path: img/tiere/aktuelles/0026-blinder-hund
   images:
@@ -28,6 +28,6 @@ gallery:
 
 Beim Abholen des reudigen Hund vom Tierheim Özdere ist mir auch ein anderer Rüde aufgefallen.
 Er ist blind, schüttelt unentwegt den Kopf und beim Laufen hat er Koordinationsprobleme.
-Ohren sind sauber, keinelei Gerruch oder sonstiges. Hat 40 Grad Fieber, meine erste Vermutung ein Kopf-Trauma oder ein Gehirn-Tumor.
+Ohren sind sauber, keinelei Geruch oder sonstiges. Hat aber 40 Grad Fieber, meine erste Vermutung ein Kopf-Trauma oder ein Gehirn-Tumor.
 Erste Untersuchungen deutet auf einen Gehirn-Tumor.
-Samstag wird er grünlich geröngt, danach können wir eine Diagnose stellen. Bis dahin bleibt der Rüde zur Beobachtung in der Atlas Veteriner Klinik.
+Samstag wird er gründlich geröngt, danach können wir eine Diagnose stellen. Bis dahin bleibt der Rüde zur Beobachtung in der Atlas Veteriner Klinik.

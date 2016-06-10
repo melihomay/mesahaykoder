@@ -10,7 +10,7 @@ alter: ''
 image_hund: img/tiere/aktuelles/0025.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-visible: false
+visible: true
 gallery:
   thumb_path: img/tiere/aktuelles/0025-kranker-hund
   images:
@@ -25,8 +25,8 @@ gallery:
 
 ---
 
-Mitte Mai hatten wir diesen armen Hund mit anderen 6 Hunden vom Tierheim Özdere nach Payamli geholt. Alle waren etwas angeschlagen.
+Mitte Mai hatten wir diesen armen Hund mit anderen 6 Hunden vom Tierheim Özdere nach Payamli geholt. Alle waren angeschlagen.
 Nach langer intensiver Pflege trat leider bei dieser Boxser Hündin keine Besserung ein. Sie nahm nicht zu, trotz der unmengen Futter.
 Gestern habe ich sie in die Atlas Veteriner Klinigi mitgenommen. Nach eine umfassenden Untersuchung wurde bei ihr Ehrlichien Befall festgestellt. Blutwerte sehen nicht gut aus.
 Sie wird intensiv behandelt. Nach vier Wochen wissen wir mehr und werden weiter berichten.
-Wir hoffen sie findet einen Paten und auch einen Namen
+Wir hoffen sie findet einen Paten und auch einen Namen.
