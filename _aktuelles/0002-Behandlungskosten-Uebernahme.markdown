@@ -44,7 +44,7 @@ gallery:
 
 ---
 
-Beim Kontrollgang im Tierheim Özdere, fand ich eine neue Hündin. Der Hundefänger hat sie mit zwei ca.14 Tage alten Babys abgegeben.
+Beim Kontrollgang im Tierheim Özdere, fand ich eine neue Hündin. Der Hundefänger hat sie mit zwei ca. 14 Tage alten Babys abgegeben.
 Das Tierheim mit seinen überfüllten und dunkelen Ecken ist kein geeigneter Ort für eine Mama.
 Auf den ersten Blick sah ich, dass sie sehr krank ist und fast blind.
 Sie ist eine unglaublich liebe Hündin und eine sehr fürsorgliche Mama.

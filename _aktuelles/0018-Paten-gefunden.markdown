@@ -27,4 +27,4 @@ gallery:
 
 ---
 
-Wir hatten Besuch von Familie Lüdenscheit von Deutschland. Unsere kleine Dame hat es wohl dem Mattes angetan. Jetzt hat unser kleines Mädchen einen Paten und einen Namen "PIZZARIO" 
+Wir hatten Besuch von Familie Lüdenscheit aus Deutschland. Unsere kleine Dame hat es wohl dem Mattes angetan. Jetzt hat unser kleines Mädchen einen Paten und einen Namen "PIZZARIO" 

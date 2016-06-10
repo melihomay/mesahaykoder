@@ -24,7 +24,7 @@ gallery:
 
 ---
 
-Auch die arme blinde Mama sucht Impf-Paten für ihren zwei süßen Kinder.
+Auch die arme blinde Mama sucht Impf-Paten für ihre zwei süßen Kinder.
 Mama Hündin kam vom Özdere Tierheim, sie ist blind. Ehrlichien (Bakterien) haben ihr leider das Augenlicht genommen.
-Sie wird behandel, trotz ihrer schweren Krankheit kümmert sie sich liebevoll um ihre Welpen.
+Sie wird behandelt, trotz ihrer schweren Krankheit kümmert sie sich liebevoll um ihre Welpen.
 Es wäre schön, wenn wir die Welpen impfen können, damit sie gesund bleiben.

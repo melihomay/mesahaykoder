@@ -49,5 +49,5 @@ gallery:
 
 ---
 
-Wir bedanken uns bei allen Flugpaten, die uns die dringend benötigten Sachspenden von unseren Spendern mit gebracht haben.
+Wir bedanken uns bei allen Flugpaten, die uns die dringend benötigten Sachspenden von unseren Spendern mitgebracht haben.
 Gleichzeitig möchten wir uns auch bei allen Helfern bedanken, die die Spenden zum Flughafen gebracht haben.

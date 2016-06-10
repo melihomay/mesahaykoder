@@ -31,5 +31,5 @@ gallery:
 
 Diese kleinen Welpen wurden in einem Karton auf der Strasse entsorgt.
 Alle 3 haben wir in Payamli aufgenommen, plus die Mama.
-Die Welpen brauchen dringend die 5fach Imfungen, dafür sind 120 Euro notwendig. Die Tollwutimfungen zahlt Mesahaykoder.
+Die Welpen brauchen dringend die 5fach Impfungen, dafür sind 120 Euro notwendig. Die Tollwutimpfungen zahlt Mesahaykoder.
 Zwei Mädels, ein Junge warten auf eure Hilfe.
