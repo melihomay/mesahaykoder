@@ -13,7 +13,7 @@ hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 
 gallery:
-  thumb_path: img/tiere/aktuelles/0030-hund
+  thumb_path: img/tiere/aktuelles/0030-Hund
   images:
   - file: m0030_848026376_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
