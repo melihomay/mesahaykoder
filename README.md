@@ -22,3 +22,5 @@ werden die bilder in verkleinert und mit 30% verkleinert, die zahl kann angepass
     - **q=35**
   - beispiel:
   - `ruby gallery.rb images=img/bilder q=50 width=450`
+
+- starten von jekyll im developmet `jekyll serve  --watch`
