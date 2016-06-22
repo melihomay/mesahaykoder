@@ -10,18 +10,18 @@ alter: ''
 image_hund: img/tiere/aktuelles/0030.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-visible: true
+visible: false
 
 gallery:
-  thumb_path: img/tiere/aktuelles/0030-hund
+  thumb_path: img/tiere/aktuelles/0030-Hund
   images:
-  - file: 13441549_1176469392374482_848026376_o.jpg
+  - file: m0030_848026376_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: 13441965_1176469305707824_245397121_o.jpg
+  - file: m0030_245397121_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: 13461209_1176469449041143_1596363528_o.jpg
+  - file: m0030_1596363528_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
 
