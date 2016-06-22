@@ -29,8 +29,8 @@ gallery:
 
 Wieder Tierheim Özdere: seitdem die Kommune von Menderes alle Tiere im Umkreis von 100 KM einsammelt, haben wir zusehend Probleme.
 Der Amts-Vet Bilge Tasdelen bat uns, egal auf welche Weise diesem Hund zu helfen und lieferte ihn bei Vet Hüseyin in die Atlas Klinik ein.
-Die ganzen Verletzungen sind mindestens 10 Tage alt. Voll mit Würmern, das Bein hat schon eine sehr weit fortgeschrittene Gangrene, Geruch war unerträglich.
-Unser Vet Hüseyin hat alles versucht was in seiner Macht lag.
+Die ganzen Verletzungen sind mindestens 10 Tage alt gewesen. Voll mit Würmern, das Bein hatte schon eine sehr weit fortgeschrittene Gangrene, Geruch war unerträglich.
 Es sind sehr schwierige Momente, wenn der Hund dich anschaut und mit seinen Augen bettelt um sein Leben. Wedelt noch mit dem Schwanz um dir zu zeigen - Ich habe völliges Vertrauen zu dir.
-Aber sie war sehr schwach. Ruhe in Frieden, du hast endlich keine Schmerzen mehr.
-Verdammt sollen die Jenigen sein, die dich so lange liegen gelassen haben.
+
+Aber sie war zu schwach. Ruhe in Frieden, du hast endlich keine Schmerzen mehr.
+Leider hat man dich zu lange liegen gelassen.
