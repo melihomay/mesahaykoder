@@ -7,7 +7,7 @@ datum: 22. Juni 2016 - Özden Omay
 hund: ''
 rasse: ''
 alter: ''
-image_hund: img/tiere/aktuelles/0031.jpg
+image_hund: img/tiere/aktuelles/husky_0031.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
@@ -21,7 +21,7 @@ Unsere liebe, gute, schöne Husky Dame hat am Montag einen Schwächeanfall bekom
 Aber NEVIN wollte nicht mehr!
 
 Ich hoffe sie ist auf dem Weg zu den kühleren Orten wo du auch hin gehörst, Schlittenfahren, Schnee, Geniesen.
-Ich weiß nicht viel über dich, du kamst etwa vor zweieinhalb Jahren hier bei mir auf Payamli reudig und abgemagert an, du wunderschöne Nevin. 
+Ich weiß nicht viel über dich, du kamst etwa vor zweieinhalb Jahren hier bei mir auf Payamli reudig und abgemagert an, du wunderschöne Nevin.
 Ich habe oft gedacht dieses Klima ist nichts für dich, aber außer Schatten und Wasser zum Kühlen konnte ich dir nichts anbieten.
 Gute Reise mein wunderschönes Mädchen,
 Deine Mama Özden
