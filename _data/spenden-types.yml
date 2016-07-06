@@ -1,11 +1,188 @@
-- datum: 2016 Juni
+- datum: 2016 July
   gesamt:  EURO
   spender:
   - betrag: 
     name: Veröffentlichung 
-    spende: Anfang Juli
+    spende: Anfang August
+    
+- datum: 2016 Juni - Spendeneingänge über Sunnydays for Animals e.V.
+  gesamt: 1.752,00 EURO
+  spender:
+  - betrag: 15,00 €
+    name:	Holzhaus Tina	
+    spende: Patenschaft Benny
+  - betrag: 20,00 €
+    name:	Müller Beate	
+    spende: Patenschaft Robin
+  - betrag: 45,00 €
+    name:	Holm Elke	
+    spende: Patenschaft Efe, Can, Ipek, Uff
+  - betrag: 15,00 €
+    name:	Demmig Angela
+    spende: Patenschaft PonPon
+  - betrag: 15,00 €
+    name:	Kreutz Claudia
+    spende: egal für wen
+  - betrag: 20,00 €
+    name: Löckmann Hannes
+    spende: Patenschaft Sadik
+  - betrag: 30,00 €
+    name:	Esen Katrin	
+    spende: Patenschaft Tango, Kim
+  - betrag: 60,00 €
+    name: Pralat Sabine	
+    spende: Patenschaft Arcon, Samira, Linda, Toni
+  - betrag: 15,00 €
+    name:	Kleinert Wenke
+    spende: Patenschaft George
+  - betrag: 20,00 €
+    name:	Schilling	Veronika
+    spende: Patenschaft Lale
+  - betrag: 15,00 €
+    name:	Maschmann	Nicole
+    spende: Patenschaft Raffzahn
+  - betrag: 40,00 €
+    name:	Ebert-Goldhorn Susanne u. Claus
+    spende: Patenschaft	Fred, Mavis
+  - betrag: 15,00 €
+    name:	Bagheri	Iris
+    spende: Patenschaft Frieda
+  - betrag: 15,00 €
+    name:	Mutze	Christine
+    spende: Patenschaft Rudi
+  - betrag: 15,00 €
+    name:	Rebentisch	Maren
+    spende: Patenschaft Bruni
+  - betrag: 40,00 €
+    name:	Heindorf	Martina
+    spende: Patenschaft Hamit 1 + 2
+  - betrag: 15,00 €
+    name:	Arkan	Felicitas
+    spende: Patenschaft Nevin
+  - betrag: 30,00 €
+    name:	Dipci	Sandra
+    spende: Patenschaft Samira, Nikita
+  - betrag: 40,00 €
+    name:	Fuchs	Edith
+    spende: Patenschaft Pitti, Cat
+  - betrag: 15,00 €
+    name:	Lüttich	Mathias
+    spende: Patenschaft Pizzaro
+  - betrag: 15,00 €
+    name:	Beyer	Lisa
+    spende: Patenschaft Katze/Kater
+  - betrag: 50,00 €
+    name:	Goldhorn	Monika
+    spende: Patenschaft Tessi, Grizzli
+  - betrag: 20,00 €
+    name:	Vetterl	Brigitte
+    spende: Patenschaft Peggy
+  - betrag: 50,00 €
+    name:	Vetterl Brigitte
+    spende: Patenschaft Gismo
+  - betrag: 100,00 €
+    name:	Martin-Ernst Iris
+    spende: Patenschaft Katzen 
+  - betrag: 5,00 €
+    name:	Holzhaus Tina
+    spende: Spende
+  - betrag: 20,00 €
+    name:	Dorn	Kirsten
+    spende: Spende
+  - betrag:   5,00 €
+    name:	Omay Sibel
+    spende: Spende
+  - betrag: 15,00 €
+    name:	Schall	Helena Sophie	
+    spende: Spende
+  - betrag: 20,00 €
+    name:	Krala	Nicole	
+    spende: Spende
+  - betrag: 40,00 €
+    name:	Michel 	Regina	
+    spende: Spende
+  - betrag:   5,00 €
+    name:	Arnold	Ulrike	
+    spende: Spende
+  - betrag:   5,00 €
+    name:	Scholz Maria
+    spende: Spende
+  - betrag: 100,00 €
+    name:	Raczak Saskia
+    spende: Tomi 
+  - betrag: 20,00 €
+    name:	Meryem Kuhl	Melanie
+    spende: Futter
+  - betrag: 15,00 €
+    name:	Beyer	Lisa	
+    spende: Futter für Ayse
+  - betrag: 500,00 €
+    name:	Sunnydays for Animals e.V.
+    spende: Hunde-Kastrationen
+  - betrag: 30,00 €
+    name:	Arkan	Felicitas	
+    spende: Impfung 3 Welpen
+  - betrag: 50,00 €
+    name:	Kreutz	Claudia	
+    spende: für Welpen
+  - betrag: 150,00 €
+    name:	Arikcan	Ebru
+    spende: Impfung blinde Mama mit Welpen oder andere Tiere
+  - betrag: 32,00 €
+    name:	Zott	Susanne	
+    spende: Hundedächer
+  - betrag: 10,00 €
+    name:	Bulloweit	Monika	
+    spende: Vergifteter Hund
+  
 
 
+- datum: 2016 Juni - Spendeneingänge über Tierhilfe Türkei e.V.
+  gesamt: 505 EURO
+  spender:
+  - betrag: 130,00 €
+    name: Sabine Pralat
+    spende: Impfung 4 Zwerge
+  - betrag: 20,00 €
+    name: Ramona Schaaf
+    spende: Patenschaft Luminor 
+  - betrag: 20,00 €
+    name: Christiane Hacker
+    spende: Patenschaft Alice
+  - betrag: 30,00 €
+    name:  Andrea Mohr
+    spende: Patenschaft Pitti/Cat
+  - betrag: 15,00 €
+    name: Daniela Kaplan  
+    spende: Patenschaft Dede
+  - betrag: 20,00 €
+    name: Christina Gaubatz
+    spende: Patenschaft Dede
+  - betrag: 30,00 €
+    name: Marika Cumini 
+    spende: Patenschaft Dolly
+  - betrag: 15,00 €
+    name: Daniela Kaplan
+    spende:  Patenschaft Dede
+  - betrag: 15,00 €
+    name: Lisa Reh 
+    spende: Patenschaft Kepcekulak
+  - betrag: 20,00 €
+    name: Ramona Schaaf
+    spende: Patenschaft Luminor
+  - betrag: 30,00 €
+    name: Sabine Erönal  
+    spende: Patenschaft Yaman
+  - betrag: 100,00 €
+    name: Daniela Fehleisen 
+    spende: Blinde Hündin mit Welpen
+  - betrag: 30,00 €
+    name: Christine Sprenger
+    spende: OP-Kosten Mavis
+  - betrag: 30,00 €
+    name: Daniela Kaplan
+    spende: Urla
+    
 
 - datum: 2016 Mai - Spendeneingänge über Sunnydays for Animals e.V.
   gesamt: 680,00 EURO

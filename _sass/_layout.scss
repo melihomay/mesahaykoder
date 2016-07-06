@@ -4,16 +4,16 @@
 }
 
 .nav li{
-    display: inline;
-    padding-right:5px;
-    padding-left:5px;
+    display: inline-block;
+    padding-right:10px;
+    
     
 }
 
 ul.nav{
     margin-left: 0px;
-    margin-bottom: $spacing-unit;
     border-bottom: solid 1px $grey-color-light;
+   
     
 }
 ul.head{
@@ -22,7 +22,22 @@ ul.head{
     
 }
 
+.subnav li a{
+    display: inline-block;
+    padding:5px 10px;
+    background-color: $brand-color;
+    color: white;
+    margin-bottom: 2px;
+   
+}
 
+.subnav li a:hover{
+  background-color: $text-color-hover;
+}
+.subnav li a.current{
+  background-color: $text-color-hover;
+  
+}
  table.paten{
     width:100%;
     border-collapse:collapse;
