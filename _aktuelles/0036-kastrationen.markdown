@@ -3,7 +3,7 @@ layout: aktuelles_detail
 category: aktuelles
 title: Kastrationen
 fb_share_description: true
-datum: 6. Juni 2016 - Özden Omay
+datum: 6. Juli 2016 - Özden Omay
 hund: ''
 rasse: ''
 alter: ''
