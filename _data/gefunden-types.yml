@@ -1,7 +1,31 @@
-- pate: Manuela Siller 	
+- pate: Mathias Lüttich
   pate_image: default.jpg
-  hund: Patenschaft für Silver
-  image_hund: k_silver.jpg
+  hund: Patenschaft für Pizzaro
+  image_hund: default.png
+
+
+
+- pate: Susanne u. Claus Ebert-Goldhorn 
+  pate_image: default.jpg
+  hund: Patenschaft für Fred + Mavis
+  image_hund: Fred-SusanneGoldhorn.jpg
+  
+  
+- pate: Veronika Schilling	
+  pate_image: default.jpg
+  hund: Patenschaft für Lale
+  image_hund: Lale-VeronikaSchilling.jpg
+  
+
+- pate: Hannes Löckmann	
+  pate_image: default.jpg
+  hund: Patenschaft für Sadik
+  image_hund: default.png
+
+- pate: Tina Holzhaus 	
+  pate_image: default.jpg
+  hund: Patenschaft für Benny
+  image_hund: Benny-Tina-Holzhaus.jpg
   
 - pate: Lisa Reh
   hund: Patenschaft für Kepcekulak
@@ -11,17 +35,16 @@
   hund: Patenschaft für Dolly
   image_hund: Dolly.jpg
   
-- pate: Edith Fuchs
+- pate: Andrea Mohr + Edith Fuchs
   pate_image: default.jpg
   hund: Patenschaft für Pitti und Cat
   image_hund: Pitti_Cat-AndreaMohr.jpg
 
-  
 - pate: Ramona Schaaf
   hund: Patenschaft für Luminor
   image_hund: Luminor-RamonaSchaaf.jpg
   
-- pate: Daniela Kaplan 
+- pate: Daniela Kaplan + Christina Gaubatz
   hund: Patenschaft für Dede
   image_hund: Opa_Dede-DanielaKaplan.jpg
   
@@ -45,22 +68,12 @@
   pate_image: default.jpg
   hund: Patenschaft für Kim
   image_hund: Kim-KatrinEsen.jpg
-- pate: Bruno Mangelmann
-  pate_image: default.jpg
-  hund: Patenschaft für Kara
-  image_hund: Kara-BrunoMangelmann.jpg
-- pate: Susanne Goldhorn
-  pate_image: default.jpg
-  hund: Patenschaft für Fred
-  image_hund: Fred-SusanneGoldhorn.jpg
-- pate: Susanne Goldhorn
+
+- pate: Maren Rebentisch
   pate_image: default.jpg
   hund: Patenschaft für Bruni
   image_hund: Bruni-SusanneGoldhorn.jpg
-- pate: Veronika Schilling
-  pate_image: default.jpg
-  hund: Patenschaft für Emma
-  image_hund: default.png
+
 - pate: Christine Mutze
   pate_image: default.jpg
   hund: Patenschaft für Rudi 
@@ -70,19 +83,20 @@
   pate_image: 
   hund: Patenschaft für Pon Pon
   image_hund: PonPon-AngelaDemmig.jpg
-- pate: Judith Fritzsche
-  pate_image: default.png
-  hund: Patenschaft für Sari
-  image_hund: Hundeseelen-JuldithFritzsche.jpg
-- pate: Renate Sampl
+
+- pate: Sandra Dipci 
   pate_image: default.jpg
   hund: Patenschaft für Samira1
   image_hund: Samira1-RenateSampl.jpg
-- pate: Renate Sampl
+- pate: Sandra Dipci 
+  pate_image: default.jpg
+  hund: Patenschaft für Nikita
+  image_hund: Nikita-DorisMoessner.jpg
+- pate: Monika Goldhorn 
   pate_image: default.jpg
   hund: Patenschaft für Tessi
   image_hund: Tessi-MonikaGoldhorn.jpg
-- pate: Renate Sampl & Sabine Schwebe
+- pate: Christiane Hacker
   pate_image: default.jpg
   hund: Patenschaft für Alice
   image_hund: Alice-ChristianeHacker.jpg
@@ -92,48 +106,20 @@
   hund: Patenschaft für Nevin
   image_hund: Nevin-harry.jpg
 
-- pate: Diana Roberts
-  pate_image: default.jpg
-  hund: Patenschaft für  Cody
-  image_hund: Cody-DianaRoberts.jpg
-- pate: Diana Schiller 
-  pate_image: default.jpg
-  hund: Patenschaft für  Luna
-  image_hund: Luna-DianaSchiller.jpg
-- pate: Maren Rebentisch
-  pate_image: default.jpg
-  hund: Patenschaft für  Maya
-  image_hund: Maya-MarenRebentisch.jpg
 - pate: Martina Heindorf
   pate_image: default.jpg
   hund: Patenschaft für Hamit 1 und 2
   image_hund: Hamit-MartinaHeindorf.jpg
-- pate: Lisa Beyer 
-  pate_image: default.jpg
-  hund: Patenschaft für  Mr. Peabody
-  image_hund: default.png
-
-
-
-
-- pate: Julianne Bototo-Ostertag 
-  pate_image: default.jpg
-  hund: Patenschaft für Ayse
-  image_hund: default.png
-
 
 - pate: Sabine Pralat
   pate_image: default.jpg
-  hund: Patenschaft für Arcon, Linda und Tony
+  hund: Patenschaft für Arcon, Samira, Linda und Tony
   image_hund: Linda_Toni-SabinePralat.jpg
 - pate: Monika Goldhorn 
   pate_image: default.jpg
-  hund: Patenschaft für Grizzly und Tessi
+  hund: Patenschaft für Grizzly
   image_hund: Grizzly-MonikaGoldhorn.jpg
-- pate: Cathleen Spohr
-  pate_image: default.jpg
-  hund: Patenschaft für Besiktas
-  image_hund: Besiktas-CathleenSpohr.jpg
+
 - pate: Wenke Kleinert
   pate_image: default.jpg
   hund: Patenschaft für George
@@ -143,52 +129,23 @@
   pate_image: default.jpg
   hund: Patenschaft für Frieda
   image_hund: Frieda.jpg
-  
-- pate: Sandra Dipci
-  pate_image: default.jpg
-  hund: Patenschaft für Samira2
-  image_hund: Samira2-SandraDipci.jpg
-  
-  
-  
-  
-  
-- pate: Sandra Dipci 
-  pate_image: default.jpg
-  hund: Patenschaft für Nikita
-  image_hund: Nikita-DorisMoessner.jpg
-
-- pate: Juliane Maiberg
-  pate_image: default.jpg
-  hund: Patenschaft für Harry
-  image_hund: Harry-JulianeMaiberg.jpg
-  
-- pate: Tubi Rubi
-  pate_image: default.jpg
-  hund: Patenschaft für Suse
-  image_hund: Suse-TubiRubi.jpg
-  
-
 
 - pate: Beate Müller
   pate_image: default.jpg
   hund: Patenschaft für Robin
   image_hund: Robin-BeateMueller.jpg
   
-- pate: Claudia Kreutz, Lisa Beyer 
+- pate: Claudia Kreutz, Lisa Beyer, Martin-Ernst Iris
   pate_image: default.jpg
   hund: Futter-Patenschaften
   image_hund: futter.png
   
 - pate: Brigitte Vetterl
   pate_image: default.jpg
-  hund: Patenschaft für Peggy
+  hund: Patenschaft für Peggy + Gismo
   image_hund: Peggy-BrigitteVetterl.jpg
-  
-- pate: Liselotte Fehleisen
-  pate_image: default.jpg
-  hund: Patenschaft für Emely und Tomi
-  image_hund: default.png
+
+
   
 
 
