@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Neue Bewohnerin
 fb_share_description: true
-datum: 5. Juli 2016 - Özden Omay
+date: 2016-07-05
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

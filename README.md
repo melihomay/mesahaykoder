@@ -24,3 +24,4 @@ werden die bilder in verkleinert und mit 30% verkleinert, die zahl kann angepass
   - `ruby gallery.rb images=img/bilder q=50 width=450`
 
 - starten von jekyll im developmet `jekyll serve  --watch`
+https://www.facebook.com/794854883980129/videos/vb.794854883980129/869566303175653/?type=2&theater

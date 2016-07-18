@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Neuzugang
 fb_share_description: true
-datum: 5. Juni 2016 - Özden Omay
+date: 2016-06-05
+author: Özden Omay
 hund: 'Namenlos'
 rasse: ''
 alter: ''

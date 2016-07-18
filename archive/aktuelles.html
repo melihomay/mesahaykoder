@@ -1,0 +1,30 @@
+---
+layout: post
+---
+
+<ul class="post-list">
+  {% assign aktuelles = site.aktuelles | where: "visible", true  | sort: 'date' | reverse%}
+
+  {% assign current_month = "-1" %}
+  {% for aktuell in aktuelles offset:10  %}
+
+    {% assign month = aktuell.date | date: "%-m"%}
+    {% if month != current_month %}
+      {% assign current_month = month %}
+      <fieldset>
+        <legend>für den Zeitraum {% include data_converter_yyyy_m_g.html date=aktuell.date %}</legend>
+    {%endif%}
+
+
+    {% include archive_aktuelles_group.html aktuell=aktuell force=true%}
+
+    {%assign index = forloop.index | plus: 10 %}
+    {% assign next_aktuell = aktuelles[index]%}
+    {% assign next_month = next_aktuell.date | date: "%-m"%}
+
+    {% if current_month != next_month %}
+      </fieldset>
+      <p></p>
+    {%endif%}
+  {% endfor %}
+</ul>

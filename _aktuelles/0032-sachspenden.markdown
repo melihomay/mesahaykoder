@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Sachspenden und große Hilfe
 fb_share_description: true
-datum: 24. Juni 2016 - Özden Omay
+date: 2016-06-24
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
@@ -39,4 +40,3 @@ Unsere Paten-Tante Elke Holm ist zu Besuch gekommen. Vielen Dank für die mitgeb
 Vielen lieben Dank Elke, durch deine Hilfe kann ich wieder meine Berge genießen :-D
 
 Die Tiere und ich freuen uns, ich wusste nicht mehr ob die Berge noch da sind :-)
-

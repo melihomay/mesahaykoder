@@ -1,9 +1,10 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Spenden 
+title: Spenden
 fb_share_description: true
-datum: 9. Juni 2016 - Özden Omay
+date: 2016-06-09
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

@@ -3,12 +3,13 @@ layout: aktuelles_detail
 category: aktuelles
 title: Genesungs Spenden gesucht
 fb_share_description: true
-datum: 25. Mai 2016 - Özden Omay
+date: 2016-05-25
+author: Özden Omay
 hund:
 rasse:
 alter:
 image_hund: img/tiere/aktuelles/0014.jpg
-image_hund_1: 
+image_hund_1:
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 

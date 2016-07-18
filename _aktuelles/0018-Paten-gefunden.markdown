@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Paten gefunden
 fb_share_description: true
-datum: 6. Juni 2016 - Özden Omay
+date: 2016-06-06
+author: Özden Omay
 hund: 'Namenlos'
 rasse: ''
 alter: ''
@@ -27,4 +28,4 @@ gallery:
 
 ---
 
-Wir hatten Besuch von Familie Lüdenscheit aus Deutschland. Unsere kleine Dame hat es wohl dem Mattes angetan. Jetzt hat unser kleines Mädchen einen Paten und einen Namen "PIZZARIO" 
+Wir hatten Besuch von Familie Lüdenscheit aus Deutschland. Unsere kleine Dame hat es wohl dem Mattes angetan. Jetzt hat unser kleines Mädchen einen Paten und einen Namen "PIZZARIO"

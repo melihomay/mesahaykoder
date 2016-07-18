@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Behandlungskosten
 fb_share_description: true
-datum: 10. Juni 2016 - Özden Omay
+date: 2016-06-10
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

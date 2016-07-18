@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Peggy hat ein Sofa gefunden
 fb_share_description: true
-datum: 7. Juni 2016 - Özden Omay
+date: 2016-06-07
+author: Özden Omay
 hund: 'Peggy'
 rasse: ''
 alter: ''
@@ -17,5 +18,3 @@ visible: true
 
 Unsere liebe Peggy,
 hat ein Sofa gefunden. Ich wünsche alles Gute du schönes Mädchen. Du hast viel mitgemacht. Wir sind so glücklich, dass wir dir helfen konnten.
-
-

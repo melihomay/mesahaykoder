@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Waschmaschine von unserem Partner-Verein
 fb_share_description: true
-datum: 18. Mai 2016 - Özden Omay
+date: 2016-05-18
+author: Özden Omay
 hund:
 rasse:
 alter:

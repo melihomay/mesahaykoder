@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Hitzewelle
 fb_share_description: true
-datum: 12. Juli 2016 - Özden Omay
+date: 2016-07-12
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

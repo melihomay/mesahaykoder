@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Tierheim-Özdere
 fb_share_description: true
-datum: 16. Mai 2016 - Özden Omay
+date: 2016-05-16
+author: Özden Omay
 hund:
 rasse:
 alter:

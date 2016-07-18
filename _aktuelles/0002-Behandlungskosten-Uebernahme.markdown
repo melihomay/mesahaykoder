@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Behandlungskosten-Übernahme
 fb_share_description: true
-datum: 14. Mai 2016 - Özden Omay
+date: 2016-05-14
+author: Özden Omay
 hund: Namenlos
 rasse:
 alter:

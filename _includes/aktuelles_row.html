@@ -7,7 +7,7 @@
         <img src="{{site.baseurl}}/{{include.aktuell.image_hund_1 }}" alt="{{include.aktuell.hund}}">
       {% endif %}
     </a>
-    <h5 class="post-meta">{{include.aktuell.datum}}</h5>
+    <h5 class="post-meta">{%include date_converter_yyyy_m_dd_g.html date=include.aktuell.date%} - {{include.aktuell.author}}</h5>
     <h3>{{include.aktuell.title}}</h3>
     <p> {{include.aktuell.content}}</p>
     <a href="{{ site.baseurl }}/spenden/konten.html"> Jetzt spenden</a>

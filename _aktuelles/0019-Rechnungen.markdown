@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Rechnungen
 fb_share_description: true
-datum: 6. Juni 2016 - Özden Omay
+date: 2016-06-06
+author: Özden Omay
 hund: 'Namenlos'
 rasse: ''
 alter: ''
@@ -28,7 +29,7 @@ gallery:
 
 ---
 
-Ich musste heute leider alle offene Rechnungen bezahlen ;( 
+Ich musste heute leider alle offene Rechnungen bezahlen ;(
 
 Beim Vet Erhan Urla
 für Lale und Luna 4142,62 TL und für Mavi 1456 TL

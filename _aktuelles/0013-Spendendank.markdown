@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Spendendank
 fb_share_description: true
-datum: 22. Mai 2016 - Özden Omay
+date: 2016-05-22
+author: Özden Omay
 hund:
 rasse:
 alter:

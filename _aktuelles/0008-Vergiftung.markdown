@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Vergiftet
 fb_share_description: true
-datum: 18. Mai 2016 - Özden Omay
+date: 2016-05-18
+author: Özden Omay
 hund:
 rasse:
 alter:
@@ -23,7 +24,7 @@ gallery:
   - file: SAM_4084.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  
+
 
 ---
 

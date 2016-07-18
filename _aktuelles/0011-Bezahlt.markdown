@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Schulden bezahlt
 fb_share_description: true
-datum: 21. Mai 2016 - Özden Omay
+date: 2016-05-21
+author: Özden Omay
 hund:
 rasse:
 alter:

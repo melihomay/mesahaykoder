@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Gerettet
 fb_share_description: true
-datum: 20. Mai 2016 - Özden Omay
+date: 2016-05-20
+author: Özden Omay
 hund:
 rasse:
 alter:
