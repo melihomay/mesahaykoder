@@ -31,7 +31,6 @@ gallery:
   - file: SAM_4260.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
 ---
 
 Diese vier Welpen wurden im Tierheim Özdere abgegeben, weil die Mutter Anfang März überfahren wurde.

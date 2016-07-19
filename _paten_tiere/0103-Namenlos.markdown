@@ -25,7 +25,6 @@ gallery:
   - file: SAM_4306.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
 ---
 
 Eine Frau brachte ihn in die Atlas Klinik mit schweren Bisswunden, er war gerade 2 Wochen alt. Der Kleine war voll mit Würmern.

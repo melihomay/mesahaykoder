@@ -3,6 +3,13 @@
       {% if include.gesucht.gallery == null or include.force %}
         <img src="{{site.baseurl}}/{{include.gesucht.image_hund }}" alt="{{include.gesucht.hund}}">
       {% endif %}
+
+      {% if include.gesucht.gallery and page.url == '/patenschaft/gesucht.html'%}
+       <div class="position">
+         +{{include.gesucht.gallery.images | size | minus: 1}}
+      </div>
+      {%endif%}
+
   </a>
 
   <h5 class="post-meta">{{include.gesucht.rasse}} {{include.gesucht.alter}}</h5>
@@ -20,7 +27,7 @@
       class="twitter-share-button"
       data-url="{{site.url}}{{site.baseurl}}{{include.gesucht.url}}"
       tmp-data-via="OezdenOmay"
-      data-text="{{{{include.gesucht.title}}"
+      data-text="{{include.gesucht.title}}"
       tmp-data-related="OezdenOmay"
       {% if include.gesucht.hash_tag %} data-hashtags="{{include.gesucht.hash_tag}}" {% endif %}>
         Tweet
