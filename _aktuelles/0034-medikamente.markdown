@@ -13,8 +13,6 @@ image_hund: img/tiere/aktuelles/0034.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 
-
-
 ---
 Gestern haben wir Besuch von Sefer Hisar gehabt.
 

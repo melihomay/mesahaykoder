@@ -12,6 +12,8 @@ image_hund: img/tiere/aktuelles/0016.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+spenden: true
+
 gallery:
   thumb_path: img/tiere/aktuelles/0016-OP-Spenden-gesucht
   images:

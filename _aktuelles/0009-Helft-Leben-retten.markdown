@@ -11,6 +11,7 @@ alter:
 image_hund: img/tiere/aktuelles/0009.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+spenden: true
 ---
 
 

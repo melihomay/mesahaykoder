@@ -11,6 +11,7 @@ alter:
 image_hund: img/tiere/aktuelles/0011.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+spenden: true
 ---
 
 Ich habe gespart was das Zeug hält. Ein Dank an die Tierhilfe Türkei e.V. für den Futterzuschuss. Es ist mir gelungen 5.385 TL
