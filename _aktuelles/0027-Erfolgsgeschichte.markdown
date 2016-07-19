@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Erfolgsgeschichte
 fb_share_description: true
-datum: 12. Juni 2016 - Özden Omay
+date: 2016-06-12
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
@@ -33,6 +34,5 @@ gallery:
 
 ---
 
-Unser Erfolg mit Frida!  Vielen Dank auch an Iris Bagheri die sich sofort als Futterpatin gemeldet hat. 
+Unser Erfolg mit Frida!  Vielen Dank auch an Iris Bagheri die sich sofort als Futterpatin gemeldet hat.
 Hier seht ihr unseren Erfolg.
-

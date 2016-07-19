@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Hitze Tod
 fb_share_description: true
-datum: 22. Juni 2016 - Özden Omay
+date: 2016-06-22
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

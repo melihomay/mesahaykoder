@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Hund verstorben
 fb_share_description: true
-datum: 18. Juni 2016 - Özden Omay
+date: 2016-06-18
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

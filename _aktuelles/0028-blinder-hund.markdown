@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Blinder Hund
 fb_share_description: true
-datum: 13. Juni 2016 - Özden Omay
+date: 2016-06-13
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

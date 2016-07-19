@@ -6,7 +6,7 @@ _site/
 .tags*
 tags
 ./tags*/*
-
+tmp
 # system
 .DS_Store
 

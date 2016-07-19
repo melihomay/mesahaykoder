@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Medikamente
 fb_share_description: true
-datum: 26. Juni 2016 - Özden Omay
+date: 2016-06-26
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
@@ -17,6 +18,6 @@ visible: true
 ---
 Gestern haben wir Besuch von Sefer Hisar gehabt.
 
-Vielen Dank an Vet Sertan Büte und Vet Burcu Alakas. Wir haben viele nützliche Medikamente bekommen, auch ich wurde verwöhnt. 
+Vielen Dank an Vet Sertan Büte und Vet Burcu Alakas. Wir haben viele nützliche Medikamente bekommen, auch ich wurde verwöhnt.
 
 Vielen lieben Dank! Eure Özden

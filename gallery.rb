@@ -7,7 +7,7 @@ if ARGV.empty?
   puts 'aufgabe ist es den ordner nach images zu suchen, einen weiteren ordner mit dem name small anzulegen'
   puts 'die bilder zu konvertieren in kleinere mit nideriger kompression'
   puts 'es legt auch einen markdown file an, um tipperei zu vermeiden'
-  exit 1
+  abort
 end
 
 # parse comandos
@@ -26,12 +26,11 @@ validate_commandos.each do |command|
 
   if command == 'images' && value
     unless File.directory?(value)
-      puts "folder not exist #{value}"
-      exit 1
+      abort "folder not exist #{value}"
+
     end
   else
-    puts "command #{command} not found, script end here"
-    exit 1
+    abort "command #{command} not found, script end here"
   end
 end
 
@@ -50,8 +49,7 @@ small_path = File.join commandos['images'], 'small'
 
 filtered_images = ''
 if File.directory?(small_path)
-  puts "small folder exist in #{commandos['images']}"
-  exit
+  abort "small folder exist in #{commandos['images']}"
 else
   FileUtils.mkdir_p(small_path)
   filtered_images = Dir

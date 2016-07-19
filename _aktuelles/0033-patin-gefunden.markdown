@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Patin gefunden
 fb_share_description: true
-datum: 25. Juni 2016 - Özden Omay
+date: 2016-06-25
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
@@ -25,6 +26,6 @@ gallery:
 
 ---
 
-Elke Holm hat für unsere liebe graue Maus jetzt die Patenschaft übernommen und die graue Maus hat auch einen Namen bekommen "SEYTAN". 
+Elke Holm hat für unsere liebe graue Maus jetzt die Patenschaft übernommen und die graue Maus hat auch einen Namen bekommen "SEYTAN".
 
 Ipek, Efecan, Uff und jetzt auch Seytan sind ihre Schützlinge. Vielen Dank an Elke Holm.

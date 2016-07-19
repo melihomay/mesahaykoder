@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Dringende Impfungen
 fb_share_description: true
-datum: 30. Mai 2016 - Özden Omay
+date: 2016-05-30
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''

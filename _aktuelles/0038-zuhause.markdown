@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Zuhause im Glück
 fb_share_description: true
-datum: 12. Juli 2016 - Özden Omay
+date: 2016-07-12
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
@@ -28,4 +29,3 @@ Marla wurde in Urlavet Veteriner Poliklinik behandelt, leider musste  das Bein a
 
 Lange war sie in Payamli und mein Sorgenkind.
 Jetzt lebt sie in Deutschland, Danke an deine Frauchen.
-

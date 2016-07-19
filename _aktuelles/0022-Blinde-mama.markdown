@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Impfungskosten gesucht
 fb_share_description: true
-datum: 8. Juni 2016 - Özden Omay
+date: 2016-06-08
+author: Özden Omay
 hund: 'Peggy'
 rasse: ''
 alter: ''

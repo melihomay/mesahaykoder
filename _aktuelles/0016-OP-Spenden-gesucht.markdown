@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: OP-Spenden gesucht
 fb_share_description: true
-datum: 4. Juni 2016 - Özden Omay
+date: 2016-06-04
+author: Özden Omay
 hund: 'Mavi'
 rasse: ''
 alter: ''

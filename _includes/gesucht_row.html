@@ -1,33 +1,28 @@
-
-  <li class="clear">
-
-    <a href="{{site.baseurl}}{{include.gesucht.url}}">
+<li class="clear">
+  <a href="{{site.baseurl}}{{include.gesucht.url}}">
       {% if include.gesucht.gallery == null or include.force %}
         <img src="{{site.baseurl}}/{{include.gesucht.image_hund }}" alt="{{include.gesucht.hund}}">
       {% endif %}
-    </a>
+  </a>
 
-    <h5 class="post-meta">{{include.gesucht.rasse}} {{include.gesucht.alter}}</h5>
-    <h3>{{include.gesucht.hund}}</h3>
-    <p> {{include.gesucht.content}}</p>
-    <h5><a href="{{ site.baseurl }}/spenden/konten.html">Patenschaft von {{ include.gesucht.hund }} übernehmen</a></h5>
-  </li>
+  <h5 class="post-meta">{{include.gesucht.rasse}} {{include.gesucht.alter}}</h5>
+  <h3>{{include.gesucht.hund}}</h3>
+  <p> {{include.gesucht.content}}</p>
+  <h5><a href="{{ site.baseurl }}/spenden/konten.html">Patenschaft von {{ include.gesucht.hund }} übernehmen</a></h5>
+</li>
 
-  <li class="clear">
+<li class="clear">
     <div class="fb-share-button"
           data-href="{{ include.gesucht.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
           data-layout="button_count">
     </div>
-
-    <a
-    href="https://twitter.com/share"
-    class="twitter-share-button"
-    data-url="{{site.url}}{{site.baseurl}}{{include.gesucht.url}}"
-    tmp-data-via="OezdenOmay"
-    data-text="{{{{include.gesucht.title}}"
-    tmp-data-related="OezdenOmay"
-    {% if include.gesucht.hash_tag %} data-hashtags="{{include.gesucht.hash_tag}}" {% endif %}>
-      Tweet
-    </a>
-
-  </li>
+  <a href="https://twitter.com/share"
+      class="twitter-share-button"
+      data-url="{{site.url}}{{site.baseurl}}{{include.gesucht.url}}"
+      tmp-data-via="OezdenOmay"
+      data-text="{{{{include.gesucht.title}}"
+      tmp-data-related="OezdenOmay"
+      {% if include.gesucht.hash_tag %} data-hashtags="{{include.gesucht.hash_tag}}" {% endif %}>
+        Tweet
+  </a>
+</li>

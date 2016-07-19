@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Unfall Katze
 fb_share_description: true
-datum: 17. Juni 2016 - Özden Omay
+date: 2016-06-17
+author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
@@ -39,5 +40,5 @@ Dies sind keine schönen Bilder, aber dies ist leider die Realität der Tiersch�
 Wir haben uns entschlossen dieser Katze zu helfen, weil sie eine gute Chance hat. Für ca. 350 TL (110 Euro) löscht man kein Leben aus.
 Das Schicksal von dieser armen Katze liegt in unserer Hand.
 
-Finden ist gut, behandeln ist gut, aber es müssen die Behandlungen auch bezahlt werden. 
+Finden ist gut, behandeln ist gut, aber es müssen die Behandlungen auch bezahlt werden.
 Empfehlt uns weiter und teilt es mit euren Freunden, damit wir noch mehr Leute erreichen können. Danke :)

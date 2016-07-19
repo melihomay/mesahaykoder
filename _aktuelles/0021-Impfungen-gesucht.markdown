@@ -3,7 +3,8 @@ layout: aktuelles_detail
 category: aktuelles
 title: Impfungskosten gesucht
 fb_share_description: true
-datum: 8. Juni 2016 - Özden Omay
+date: 2016-06-08
+author: Özden Omay
 hund: 'Peggy'
 rasse: ''
 alter: ''
@@ -25,6 +26,5 @@ gallery:
 ---
 
 Danke an Claudia Kreuz,
-sie hat die Erstimpfung von vier Welpen übernommen. Wir hoffen, dass wir die Zweitimpfung auch bezahlen können. Wer will mitmachen? Pro Welpe kostet die Impfung ca. 13 Euro. 
+sie hat die Erstimpfung von vier Welpen übernommen. Wir hoffen, dass wir die Zweitimpfung auch bezahlen können. Wer will mitmachen? Pro Welpe kostet die Impfung ca. 13 Euro.
 Ihre Leben liegen in unseren Händen. Danke!
-
