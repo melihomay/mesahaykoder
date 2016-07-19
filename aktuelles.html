@@ -1,9 +1,9 @@
 ---
 layout: post
 ---
-<p>
-  <a href="{{sibte.baseurl}}/archive/aktuelles.html">Archive</a>
-</p>
+
+{% include nav_archiv.html %}
+
 
 <ul class="post-list">
   {% assign aktuelles = site.aktuelles | sort: 'date' | reverse %}
@@ -14,8 +14,6 @@ layout: post
   {% endfor %}
 </ul>
 
-<hr>
 
-<p>
-  <a href="{{sibte.baseurl}}/archive/aktuelles.html">Archive</a>
-</p>
+
+{% include nav_archiv.html %}

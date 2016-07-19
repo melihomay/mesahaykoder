@@ -1,11 +1,6 @@
 <li class="clear">
-
-    <h5 class="post-meta">{{include.aktuell.datum}}</h5>
-    <h3>{{include.aktuell.title}}</h3>
-    <p>
-      {{include.aktuell.content | truncatewords: 10 }}
-      <a href="{{site.baseurl}}{{include.aktuell.url}}">weiter
-    </p>
-
-  </a>
+  <h6>{%include date_converter_yyyy_m_dd_g.html date=include.aktuell.date%}</h6>
+  <b>{{include.aktuell.title}}</b></br>
+  <a href="{{site.baseurl}}{{include.aktuell.url}}">  
+  {{include.aktuell.content | truncatewords: 10 }} &#187;</a>
 </li>

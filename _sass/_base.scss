@@ -86,8 +86,24 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
+fieldset{
+        
+        border: 1px solid $grey-color-light;
+        margin-bottom: 30px;
+        padding:20px;
+        
+        h6{
+         margin-bottom: 0px;
+}
 
+    }
 
+fieldset legend{
+        color:white;
+        background: $grey-color-dark;
+        padding: 3px 10px;
+    }
+    .post-content {width:100%; }
 /**
  * Links
  */
@@ -215,7 +231,7 @@ pre {
 /**
  * Wrapper
  */
-.wrapper {
+.wrapper{
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
