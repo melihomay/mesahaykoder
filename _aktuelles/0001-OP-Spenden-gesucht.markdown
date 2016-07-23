@@ -11,6 +11,7 @@ alter:
 image_hund: img/tiere/aktuelles/0001.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+spenden: true
 ---
 
 Eine Hündin wurde im Tierheim Özdere abgegeben. Sie befand sich in einem entsetzlichem Zustand.

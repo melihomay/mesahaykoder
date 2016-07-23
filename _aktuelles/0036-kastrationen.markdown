@@ -12,6 +12,7 @@ image_hund: img/tiere/aktuelles/0036.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+spenden: true
 
 ---
 Kastrationen sind sehr wichtig für den Tierschutz. Unser Tierschutzverein - MeSaHayKoDer kastriert Tiere kontinuierlich jeden Monat. Im Juni wurden 9 Hunde und 20 Katzen kastriert.

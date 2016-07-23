@@ -22,7 +22,6 @@ gallery:
   - file: SAM_4053.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
 ---
 
 Anruf kam von Özdere: "Es wurde eine kleine Hündin mit ihren drei Welpen in einem Karton auf der Strasse entsorgt."
