@@ -12,6 +12,7 @@ image_hund: img/tiere/aktuelles/0039.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
+spenden: true
 
 gallery:
   thumb_path: img/tiere/aktuelles/0039-autounfall
