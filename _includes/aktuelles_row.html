@@ -1,39 +1,42 @@
-  <li class="clear">
-    <a href="{{site.baseurl}}{{include.aktuell.url}}">
-     
-      {% if include.aktuell.gallery == null or include.force %}
-        <img src="{{site.baseurl}}/{{include.aktuell.image_hund }}" alt="{{include.aktuell.hund}}" class="img_min">
-      {% endif %}
-      {% if include.aktuell.image_hund_1 %}
-        <img src="{{site.baseurl}}/{{include.aktuell.image_hund_1 }}" alt="{{include.aktuell.hund}}">
-      {% endif %}
-     
-       <div class="position">
-         +7
-      </div>
-    </a>
-   
-    <h5 class="post-meta">{%include date_converter_yyyy_m_dd_g.html date=include.aktuell.date%} - {{include.aktuell.author}}</h5>
-    <h3>{{include.aktuell.title}}</h3>
-    <p> {{include.aktuell.content}}</p>
-    <a href="{{ site.baseurl }}/spenden/konten.html"> Jetzt spenden</a>
- 
-  </li>
+<li class="clear">
+  <a href="{{site.baseurl}}{{include.aktuell.url}}">
 
-  <li class="clear">
-    <div class="fb-share-button"
-          data-href="{{ include.aktuell.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
-          data-layout="button_count">
+    {% if include.aktuell.gallery == null or include.force %}
+      <img src="{{site.baseurl}}/{{include.aktuell.image_hund }}" alt="{{include.aktuell.hund}}">
+    {% endif %}
+    {% if include.aktuell.image_hund_1 %}
+      <img src="{{site.baseurl}}/{{include.aktuell.image_hund_1 }}" alt="{{include.aktuell.hund}}">
+    {% endif %}
+    {% if include.aktuell.gallery.images and page.url == '/aktuelles.html'%}
+     <div class="position">
+       +{{include.aktuell.gallery.images | size | minus: 1}}
     </div>
+    {%endif%}
+  </a>
 
-    <a
-    href="https://twitter.com/share"
-    class="twitter-share-button"
-    data-url="{{site.url}}{{site.baseurl}}{{include.gesucht.url}}"
-    tmp-data-via="OezdenOmay"
-    data-text="{{include.aktuell.title}}"
-    tmp-data-related="OezdenOmay" {% if include.aktuell.hash_tag %}data-hashtags="{{include.aktuell.hash_tag}}" {% endif %}>
-      Tweet
-    </a>
+  <h5 class="post-meta">{%include date_converter_yyyy_m_dd_g.html date=include.aktuell.date%} - {{include.aktuell.author}}</h5>
+  <h3>{{include.aktuell.title}}</h3>
+  <p> {{include.aktuell.content}}</p>
+  {% if include.aktuell.spenden %}
+    <a href="{{ site.baseurl }}/spenden/konten.html"> Jetzt spenden</a>
+  {% endif %}
 
-  </li>
+</li>
+
+<li class="clear">
+  <div class="fb-share-button"
+        data-href="{{ include.aktuell.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+        data-layout="button_count">
+  </div>
+
+  <a
+  href="https://twitter.com/share"
+  class="twitter-share-button"
+  data-url="{{site.url}}{{site.baseurl}}{{include.gesucht.url}}"
+  tmp-data-via="OezdenOmay"
+  data-text="{{include.aktuell.title}}"
+  tmp-data-related="OezdenOmay" {% if include.aktuell.hash_tag %}data-hashtags="{{include.aktuell.hash_tag}}" {% endif %}>
+    Tweet
+  </a>
+
+</li>
