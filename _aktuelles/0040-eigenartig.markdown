@@ -20,14 +20,12 @@ gallery:
   - file: 13833043_1201436919877729_1564755761_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: 13833167_1201436913211063_1584823900_o (1).jpg
+  - file: 13833167_1201436913211063_1584823900_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
   - file: 13836036_1201436943211060_1103007435_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
-
 ---
 
 Vorgestern gegen 11:30 kam ein Anruf von einer Frau Sevcan Lenallutzke: in Demirer Sitesi schreit und jammert ein Hund und er kann nicht aufstehen.
@@ -42,4 +40,4 @@ Der Hund wird z. Zt. behandelt, Lage ist unklar, wir werden weiter berichten. Hu
 
 Leider ist der Rüde von Demirer Sitesi gestern Nacht über die Regenbogen-Brücke gegangen :-(
 Vielen Dank an Sevcam Hanim Und Atlas Vet Birgül Turan.
-Es ist ziemlich unklar warum der Hund gestorben ist, es wurde alles getan. Leider vergebens. 
+Es ist ziemlich unklar warum der Hund gestorben ist, es wurde alles getan. Leider vergebens.

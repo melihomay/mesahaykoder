@@ -22,8 +22,6 @@ gallery:
   - file: 13838050_1202841326403955_139134003_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
-
 ---
 Dieser wunderschöne Rüde wurde gestern Abend von einem Auto erfasst. Passanten haben ihn in Atlas Vet gebracht.
 Es ist auch bekannt, dass der Hund einen Besitzer hat, aber er sagt es sei nicht sein Hund :-(
