@@ -36,4 +36,4 @@ gallery:
 Unfall Hund ist jetzt in Payamli! 
 So was Liebes und Süßes :-) Er muss ca. 3 bis 4 Wochen allein in einem Gehege gepflegt werden.
 Zum Glück ein unkomplizierter Vorderbeinbruch, glatter Femur-Bruch.
-Das Bein wurde bandagiert. Wir hoffen das in ca. 3 Wochen wieder heilen wird.
+Das Bein wurde bandagiert. Wir hoffen, dass es in ca. 3 Wochen wieder heilen wird.
