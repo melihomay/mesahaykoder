@@ -1,7 +1,7 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Erfolgsgeschichte
+title: Tierhilfe Türkei e.V. Danke
 fb_share_description: true
 date: 2016-07-31
 author: Özden Omay
@@ -11,8 +11,8 @@ alter: ''
 image_hund: img/tiere/aktuelles/0045.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-visible: false
-spenden: false
+visible: true
+spenden: true
 
 gallery:
   thumb_path: img/tiere/aktuelles/0045-futter
@@ -27,10 +27,13 @@ gallery:
 
 ---
 
-Über diese kleine Katze hatten wir schon berichtet. Unsere Katzenmama Saadet brachte sie zum einschläfern, es sah alles so schlimm aus.
-Genaue Ursache wussten wir nicht, war aber eine Kieferbruch genau in der Mitte. Vet Hüseyin sah aber eine Chance bei der Kleinen und weigerte sich die Katze einzuschläfern.
-Wie recht er hatte! Er hat den Kiefer verdrahtet und lange wurde die kleine Katze in der Klinik behandelt.
+Einen ganz großen Dank an unser Partnerverien Tierhilfe Türkei e.V. von Ulrike Arnold.
+Worttreu wie immer, stets immer an unserer Seite.
 
-Leben ist kostbar für jedes Lebewesen und sie lebt :)
+Für 200 Euro wurde Futter geliefert, das macht 672 TL. Werde es an Vet Hüseyin weitergeben.
+
+
+
+
 
 

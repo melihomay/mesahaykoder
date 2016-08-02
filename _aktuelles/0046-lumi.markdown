@@ -1,0 +1,39 @@
+---
+layout: aktuelles_detail
+category: aktuelles
+title: Lumi ist wieder gesund
+fb_share_description: true
+date: 2016-08-02
+author: Özden Omay
+hund: ''
+rasse: ''
+alter: ''
+image_hund: img/tiere/aktuelles/0046.jpg
+
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+visible: true
+spenden: true
+
+gallery:
+  thumb_path: img/tiere/aktuelles/0046-lumi
+  images:
+  - file: SAM_4877.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_5056.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_5059.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
+
+---
+
+Wir können aufatmen, Lumi hat die Krankheit überwunden, es waren sehr viele sorgenvolle Tage die hinter uns liegen.
+Lumi hatte 41° Fieber und ein sehr dickes Bein voller Eiter, also Blutvergiftung. Er ist ein Problem-Hund, er lässt sich nicht anfassen, wir können nur im sedierten Zustand an ihm arbeiten.
+Auch so hat er viele Probleme, er verträgt sich nicht mit anderen Hunden, aber er kann sich auch nicht verteidigen, so wird er zum Prügelknabe. Er wurde richtig verprügelt, dabei ist der Abszess erstanden. Vor ca. 2 Jahren 
+hatte ich ihn aus dem Tierheim Özdere geholt, er sollte eingeschläfert werden, da er nirgendwo hinein passte.
+Lumi hat ein zweites Leben bekommen. Er ist isoliert und wir versuchen ihn zu erziehen.
+Ich hoffe, dass es uns gelingt. Streicheln erlaubt er uns mittlerweile :)
+

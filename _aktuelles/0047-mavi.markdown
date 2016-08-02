@@ -1,0 +1,44 @@
+---
+layout: aktuelles_detail
+category: aktuelles
+title: Mavi kann wieder laufen
+fb_share_description: true
+date: 2016-08-02
+author: Özden Omay
+hund: ''
+rasse: ''
+alter: ''
+image_hund: img/tiere/aktuelles/0047.jpg
+
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+visible: true
+spenden: true
+
+gallery:
+  thumb_path: img/tiere/aktuelles/0047-mavi
+  images:
+  - file: IMG-20160519-WA0004.jpg
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: IMG-20160519-WA0005.jpg
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4597.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_4599.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_5085.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
+
+
+---
+
+Mavi habe ich im Mai im Tierheim Özdere entdeckt. Er lag in einem kleinen Käfig vor dem Tierheim mit einen alten und offenen Hinterbein-Bruch. Weil das Tierheim voll war konnte er nicht reingenommen werden.
+Ich nahm ihn mit und habe ihn sofort in zu Urla Vet gefahren. Er wurde sofort operiert, aber die Knochenentzündung wollte nicht heilen.
+Es verschlechterte sich so, dass er nicht mehr stehen konnte.
+Aber Vet Hüseyin wollte nicht aufgeben, er sagte: wenn die Knochenentzündug heilt, kann man das Bein retten.
+Heute steht er wieder auf alle Vieren, Behandlung geht noch weiter, aber wir haben es glaube ich geschafft. 
