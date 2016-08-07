@@ -21,6 +21,11 @@
     <a href="{{ site.baseurl }}/spenden/konten.html"> Jetzt spenden</a>
   {% endif %}
 
+  {% if include.aktuell.spenden_ansicht_link %}
+    {% capture month = %} 2030-{{include.aktuell.spenden_ansicht_link}}-1 {% endcapture %}
+    <a href="{{ site.baseurl }}/spenden/spender.html" ><b>Spenden für {% include date_converter_m.html date=month %}</b></a>
+  {% endif %}
+
 </li>
 
 <li class="clear">
