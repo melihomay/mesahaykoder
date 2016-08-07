@@ -13,15 +13,11 @@ image_hund: img/tiere/aktuelles/danke.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 spenden: false
+spenden_ansicht_link: 7
 ---
-
-
 
 Liebe Spenderin und lieber Spender,
 herzlichen Dank für deine Spende, die du uns für unsere Arbeit zur Verfügung gestellt hast. Du leistest damit einen wirklich wichtigen Beitrag, damit wir Strassentiere in schwierigen Lebenssituationen retten und begleiten können.
 
 Danke nochmals
 eure Özden
-
-
-<a href="{{ site.baseurl }}/spenden/spender.html" ><b>Spenden für Juli</b></a>
