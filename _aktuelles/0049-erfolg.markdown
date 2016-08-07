@@ -18,7 +18,7 @@ spenden: false
 
 
 Liebe Spenderin und lieber Spender,
-herzlichen Dank für deine Spende, die du uns für unsere Arbeit zur Verfügung gestellt haben. Du leistest damit einen wirklich wichtigen Beitrag, damit wir Strassentiere in schwierigen Lebenssituationen retten und begleiten können.
+herzlichen Dank für deine Spende, die du uns für unsere Arbeit zur Verfügung gestellt hast. Du leistest damit einen wirklich wichtigen Beitrag, damit wir Strassentiere in schwierigen Lebenssituationen retten und begleiten können.
 
 Danke nochmals
 eure Özden
