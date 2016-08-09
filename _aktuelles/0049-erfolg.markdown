@@ -24,4 +24,4 @@ Danke nochmals
 eure Özden
 
 
-<a href="{{ site.baseurl }}/spenden/spender.html" ><b>Spenden für Juli</b></a>
+<a href="{{ site.baseurl }}/spenden/spender.html"><b>Spenden für Juli</b></a>
