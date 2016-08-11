@@ -1,202 +1,201 @@
 - datum: 2016 August
   gesamt: EURO
   spender:
-  - betrag: 
-    name: Nächste Veröffentlichung 
+  - betrag:
+    name: Nächste Veröffentlichung
     spende: Anfang September
 
 - datum: 2016 Juli - Tierhilfe Türkei e.V. über das Paypal-Konto von MeSaHayKoDer
   gesamt: 615,00 EUR
   spender:
-  
+
   - betrag: 140,00 €
     name:	 Martina Riemer
     spende: Spendenhaus Freibad Bennigsen
   - betrag: 75,00 €
     name:	Martina Riemer
     spende: Voodoopuppen
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Ramona Schaaf
     spende: Patenschaft Luminor für Juni
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Christiane Hacker
     spende: Patenschaft Alice für Juni
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Daniela Kaplan
     spende: Patenschaft Dede für Juni
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Lisa Reh
     spende: Patenschaft Kepcekulak  für Juni
-  - betrag: 30,00 €	
-    name: Daniela Fehleisen 
+  - betrag: 30,00 €
+    name: Daniela Fehleisen
     spende: Futter
-  - betrag: 100,00 € 
-    name: Sabine Schwepe 
+  - betrag: 100,00 €
+    name: Sabine Schwepe
     spende: Tierpflege
-  - betrag: 100,00 € 
-    name: Sabine Schwepe 
+  - betrag: 100,00 €
+    name: Sabine Schwepe
     spende: Tierpflege
-  - betrag: 100,00 € 
-    name: Christiane Hacker 
+  - betrag: 100,00 €
+    name: Christiane Hacker
     spende: Tierpflege
-    
-    
+
+
 - datum: 2016 Juli - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
   gesamt: 140,00 EUR
   spender:
-  
+
   - betrag: 40,00 €
     name:	Renate Sampl
     spende: Für Kastration
   - betrag: 100,00 €
-    name:	Cathleen Spohr 
+    name:	Cathleen Spohr
     spende: Spende
 
 - datum: 2016 Juli - Spendeneingänge über Tierhilfe Türkei e.V.
   gesamt: 515,00 EUR
   spender:
-  
+
   - betrag: 60,00 €
-    name:	Ulrich Pralat 
-    spende: Patenschaft Linda, Toni, Samara, Arcon 
+    name:	Ulrich Pralat
+    spende: Patenschaft Linda, Toni, Samara, Arcon
   - betrag: 15,00 €
-    name:	Lisa Reh 
+    name:	Lisa Reh
     spende: Patenschaft Kepcekulak
   - betrag: 40,00 €
-    name:	Edith Fuchs  
+    name:	Edith Fuchs
     spende:  Patenschaft Pitti + Cat
   - betrag: 60,00 €
-    name:	Ulrich Pralat 
-    spende:  Patenschaft Linda, Toni, Samara, Arcon 
+    name:	Ulrich Pralat
+    spende:  Patenschaft Linda, Toni, Samara, Arcon
   - betrag: 30,00 €
-    name:	Daniela Fehleisen 
+    name:	Daniela Fehleisen
     spende:  Futterpatenschaft Lotta + Emely
   - betrag: 30,00 €
-    name:	Tugba Ellwanger 
+    name:	Tugba Ellwanger
     spende:  Futterpatenschaft Suse Juni + Juli
   - betrag: 20,00 €
-    name:	Ertik, Sibel Sandra  
+    name:	Ertik, Sibel Sandra
     spende:  Futter Frieda
   - betrag: 10,00 €
-    name:	Anja Spoerl 
+    name:	Anja Spoerl
     spende:  Spende
   - betrag: 30,00 €
-    name:	Liane Speckhahn 
+    name:	Liane Speckhahn
     spende:  Spende
   - betrag: 20,00 €
-    name:	Lisa Beyer 
+    name:	Lisa Beyer
     spende:  Spende
   - betrag: 200,00 €
-    name:	Ulrich Pralat 
+    name:	Ulrich Pralat
     spende:  Spende
-    
-    
+
+
 - datum: 2016 Juli - Spendeneingänge über Sunnydays for Animals e.V.
   gesamt: 1.065,00 EURO
-  spender: 
+  spender:
   - betrag: 460,00 €
     name: Sunnydays for Animals e. V.
-    spende:  Kastrationen Hunde
+    spende: Kastrationen Hunde
   - betrag: 15,00 €
-    name: Beate Müller	
-    spende: Patenschaft für Robin	
+    name: Beate Müller
+    spende: Patenschaft für Robin
   - betrag: 45,00 €
-    name: Elke	Holm	
-    spende: Patenschaft für Efe, Can, Ipek, Uff	
-  - betrag:  15,00 €
-    name: Angela	Demmig	
-    spende: Patenschaft für PonPon	
+    name: Elke Holm
+    spende: Patenschaft für Efe, Can, Ipek, Uff
   - betrag: 15,00 €
-    name: Claudia	Kreutz 	
-    spende: Patenschaft für egal für wen	
-  - betrag:  15,00 €
-    name: Tina	Holzhaus	
-    spende: Patenschaft für Benny	
+    name: Angela Demmig
+    spende: Patenschaft für PonPon
+  - betrag: 15,00 €
+    name: Claudia	Kreutz
+    spende: Patenschaft für egal für wen
+  - betrag: 15,00 €
+    name: Tina Holzhaus
+    spende: Patenschaft für Benny
   - betrag: 20,00 €
-    name: Hannes	Löckmann	
-    spende: Patenschaft für Sadik	
-  - betrag:  15,00 €
-    name: Wenke	Kleinert	
-    spende: Patenschaft für George	
+    name: Hannes Lückmann
+    spende: Patenschaft für Sadik
+  - betrag: 15,00 €
+    name: Wenke	Kleinert
+    spende: Patenschaft für George
   - betrag: 20,00 €
-    name: Veronika	Schilling	
-    spende: Patenschaft für Lale	
-  - betrag: 	40,00 €
-    name: Susanne u. Claus Ebert-Goldhorn	
+    name: Veronika	Schilling
+    spende: Patenschaft für Lale
+  - betrag: 40,00 €
+    name: Susanne u. Claus Ebert-Goldhorn
     spende: Patenschaft für Fred, Mavis
   - betrag: 30,00 €
-    name: Judith	Fritzsche	
-    spende: Patenschaft 	
+    name: Judith	Fritzsche
+    spende: Patenschaft
   - betrag: 40,00 €
-    name: Martina	Heindorf	
-    spende: Patenschaft für Hamit 1 + 2	
-  - betrag:  15,00 €
-    name: Maren	Rebentisch	
-    spende: Patenschaft für Bruni	
-  - betrag: 	50,00 €
-    name: Elke	Holm	
-    spende: Kastration für Seytan und Impfung 
-  - betrag:  15,00 €
-    name: Christine	Mutze	
-    spende: Patenschaft für Rudi	
+    name: Martina	Heindorf
+    spende: Patenschaft für Hamit 1 + 2
   - betrag: 15,00 €
-    name: Lisa	Beyer	
-    spende: Patenschaft für Katze/Kater	
+    name: Maren	Rebentisch
+    spende: Patenschaft für Bruni
+  - betrag: 50,00 €
+    name: Elke Holm
+    spende: Kastration für Seytan und Impfung
   - betrag: 15,00 €
-    name: Sandra	Dipci	
+    name: Christine	Mutze
+    spende: Patenschaft für Rudi
+  - betrag: 15,00 €
+    name: Lisa Beyer
+    spende: Patenschaft für Katze/Kater
+  - betrag: 15,00 €
+    name: Sandra Dipci
     spende: Patenschaft für Nikita
   - betrag: 15,00 €
-    name: Mathias	Lüttich	
-    spende: Patenschaft für Pizzaro	
+    name: Mathias	Lüttich
+    spende: Patenschaft für Pizzaro
   - betrag: 15,00 €
-    name: Sandra	Dipci	
-    spende: Patenschaft für Samira	
+    name: Sandra Dipci
+    spende: Patenschaft für Samira
   - betrag: 50,00 €
-    name: Monika	Goldhorn 	
-    spende: Patenschaft für Tessi + Grizzli	
-  - betrag: 	40,00 €
-    name: Edith	Fuchs 	
-    spende: Patenschaft  
-  - betrag: 5,00 € 
-    name: Tina	Holzhaus		
+    name: Monika Goldhorn
+    spende: Patenschaft für Tessi + Grizzli
+  - betrag: 40,00 €
+    name: Edith	Fuchs
+    spende: Patenschaft
+  - betrag: 5,00 €
+    name: Tina Holzhaus
     spende: Spende
-  - betrag:  	15,00 €
-    name: Helena Sophie	Schall	
+  - betrag: 15,00 €
+    name: Helena Sophie	Schall
     spende: Spende
-  - betrag: 40,00 € 
-    name: Regina	Michel 		
+  - betrag: 40,00 €
+    name: Regina Michel
     spende: Spende
-  - betrag:  20,00 €
-    name: Nicole	Krala		
+  - betrag: 20,00 €
+    name: Nicole	Krala
     spende: Spende
-  - betrag: 15,00 € 
-    name: Lisa	Beyer		
+  - betrag: 15,00 €
+    name: Lisa Beyer
     spende: 1 Sack Futter für Ayse
   - betrag: 30,00 €
     name: Claudia	Kreutz
-    spende: Räudehund	
-  
-    
-    
-    
+    spende: Räudehund
+
+
+
 - datum: 2016 Juni - Spendeneingänge über Tierhilfe Türkei e.V.
   gesamt: 785 EURO
   spender:
-  - betrag: 20,00 € 
+  - betrag: 20,00 €
     name: Lisa Beyer
-    spende: Tierpflege 
+    spende: Tierpflege
   - betrag: 30,00 €
     name: Liane Speckhahn
     spende: Tierpflege
   - betrag: 230,00 €
-    name: Christiane Hacker 
+    name: Christiane Hacker
     spende: Tierpflege
   - betrag: 130,00 €
     name: Sabine Pralat
     spende: Impfung 4 Zwerge
   - betrag: 20,00 €
     name: Ramona Schaaf
-    spende: Patenschaft Luminor 
+    spende: Patenschaft Luminor
   - betrag: 20,00 €
     name: Christiane Hacker
     spende: Patenschaft Alice
@@ -204,28 +203,28 @@
     name: Andrea Mohr
     spende: Patenschaft Pitti/Cat
   - betrag: 15,00 €
-    name: Daniela Kaplan  
+    name: Daniela Kaplan
     spende: Patenschaft Dede
   - betrag: 20,00 €
     name: Christina Gaubatz
     spende: Patenschaft Dede
   - betrag: 30,00 €
-    name: Marika Cumini 
+    name: Marika Cumini
     spende: Patenschaft Dolly
   - betrag: 15,00 €
     name: Daniela Kaplan
-    spende:  Patenschaft Dede
+    spende: Patenschaft Dede
   - betrag: 15,00 €
-    name: Lisa Reh 
+    name: Lisa Reh
     spende: Patenschaft Kepcekulak
   - betrag: 20,00 €
     name: Ramona Schaaf
     spende: Patenschaft Luminor
   - betrag: 30,00 €
-    name: Sabine Erönal  
+    name: Sabine Erönal
     spende: Patenschaft Yaman
   - betrag: 100,00 €
-    name: Daniela Fehleisen 
+    name: Daniela Fehleisen
     spende: Blinde Hündin mit Welpen
   - betrag: 30,00 €
     name: Christine Sprenger
@@ -233,19 +232,19 @@
   - betrag: 30,00 €
     name: Daniela Kaplan
     spende: Urla
-    
-    
+
+
 - datum: 2016 Juni - Spendeneingänge über Sunnydays for Animals e.V.
   gesamt: 992,00 EURO
   spender:
   - betrag: 15,00 €
-    name:	Holzhaus Tina	
+    name:	Holzhaus Tina
     spende: Patenschaft Benny
   - betrag: 20,00 €
-    name:	Müller Beate	
+    name:	Müller Beate
     spende: Patenschaft Robin
   - betrag: 45,00 €
-    name:	Holm Elke	
+    name:	Holm Elke
     spende: Patenschaft Efe, Can, Ipek, Uff
   - betrag: 15,00 €
     name:	Demmig Angela
@@ -254,13 +253,13 @@
     name:	Kreutz Claudia
     spende: egal für wen
   - betrag: 20,00 €
-    name: Löckmann Hannes
+    name: Lückmann Hannes
     spende: Patenschaft Sadik
   - betrag: 30,00 €
-    name:	Esen Katrin	
+    name:	Esen Katrin
     spende: Patenschaft Tango, Kim
   - betrag: 60,00 €
-    name: Pralat Sabine	
+    name: Pralat Sabine
     spende: Patenschaft Arcon, Samira, Linda, Toni
   - betrag: 15,00 €
     name:	Kleinert Wenke
@@ -312,54 +311,54 @@
     spende: Patenschaft Gismo
   - betrag: 100,00 €
     name:	Martin-Ernst Iris
-    spende: Patenschaft Katzen 
+    spende: Patenschaft Katzen
   - betrag: 5,00 €
     name:	Holzhaus Tina
     spende: Spende
   - betrag: 20,00 €
     name:	Dorn	Kirsten
     spende: Spende
-  - betrag:   5,00 €
+  - betrag: 5,00 €
     name:	Omay Sibel
     spende: Spende
   - betrag: 15,00 €
-    name:	Schall	Helena Sophie	
+    name:	Schall	Helena Sophie
     spende: Spende
   - betrag: 20,00 €
-    name:	Krala	Nicole	
+    name:	Krala	Nicole
     spende: Spende
   - betrag: 40,00 €
-    name:	Michel 	Regina	
+    name:	Michel Regina
     spende: Spende
-  - betrag:   5,00 €
-    name:	Arnold	Ulrike	
+  - betrag: 5,00 €
+    name:	Arnold	Ulrike
     spende: Spende
-  - betrag:   5,00 €
+  - betrag: 5,00 €
     name:	Scholz Maria
     spende: Spende
-  
+
   - betrag: 20,00 €
     name:	Meryem Kuhl	Melanie
     spende: Futter
   - betrag: 15,00 €
-    name:	Beyer	Lisa	
+    name:	Beyer	Lisa
     spende: Futter für Ayse
   - betrag: 30,00 €
-    name:	Arkan	Felicitas	
+    name:	Arkan	Felicitas
     spende: Impfung 3 Welpen
   - betrag: 50,00 €
-    name:	Kreutz	Claudia	
+    name:	Kreutz Claudia
     spende: für Welpen
   - betrag: 150,00 €
     name:	Arikcan	Ebru
     spende: Impfung blinde Mama mit Welpen oder andere Tiere
   - betrag: 32,00 €
-    name:	Zott	Susanne	
+    name:	Zott Susanne
     spende: Hundedächer
   - betrag: 10,00 €
-    name:	Bulloweit	Monika	
+    name:	Bulloweit	Monika
     spende: Vergifteter Hund
-  
+
 
 
 
@@ -379,11 +378,11 @@
   - betrag: 20,00 €
     name: Brigitte Vetterl
     spende: Patenschaft Peggy
-    
-    
-   
-    
-    
+
+
+
+
+
 
 - datum: 2016 Mai
   gesamt: 2.145,00 EURO
@@ -401,7 +400,7 @@
     name:	Bruno Mangelmann
     spende: Patenschaft Kara
   - betrag: 15,00 €
-    name:	Angela Demmig 
+    name:	Angela Demmig
     spende: Patenschaft PonPon
   - betrag: 60,00 €
     name:	Renate Sampl
@@ -410,7 +409,7 @@
     name:	Wenke Kleinert
     spende: Patenschaft George
   - betrag: 40,00 €
-    name:	Susanne Goldhorn 
+    name:	Susanne Goldhorn
     spende: Patenschaften Fred & Bruni
   - betrag: 30,00 €
     name:	Judith Fritsche
@@ -426,7 +425,7 @@
     spende: Patenschaft Emma
   - betrag: 15,00 €
     name:	Claudia Kreutz
-    spende: Patenschaft Ronja 
+    spende: Patenschaft Ronja
   - betrag: 15,00 €
     name:	Iris Bagheri
     spende: Patenschaft Frieda
@@ -473,7 +472,7 @@
     name:	Manuela Siller
     spende: Patenschaft Silver
   - betrag: 10,00 €
-    name:	Anja Spoerl 
+    name:	Anja Spoerl
     spende: Spende
   - betrag: 5,00 €
     name:	Gabriele Mocker
@@ -487,13 +486,13 @@
   - betrag: 50,00 €
     name:	Renate Sampl
     spende: Reparatur Dach
-  - betrag:   5,00 €
+  - betrag: 5,00 €
     name:	Diana Kaufer
     spende: Spende
   - betrag: 10,00 €
     name:	Kirsten Dorn
     spende: allgemeine Spende
-  - betrag:   5,00 €
+  - betrag: 5,00 €
     name:	Heinz Jürgen Max Schroer
     spende: Tierheim Özdere
   - betrag: 5,00 €
@@ -511,7 +510,7 @@
   - betrag: 20,00 €
     name:	Lisa Janku
     spende: MeSaHayKoDer
-  - betrag:   5,00 €
+  - betrag: 5,00 €
     name:	Ulrike Nonnenmann
     spende: Tierspende
   - betrag: 20,00 €
@@ -550,7 +549,7 @@
   - betrag: 20,00 €
     name:	Melanie Meryem Kuhl
     spende: Futterspende
-  
+
 
 
 
@@ -565,201 +564,201 @@
 - datum: 2016 April
   gesamt: 1.915,00 EURO
   spender:
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Martina Riemer
     verein: Spendendose Berlin
     spende: Spende
-  - betrag: 25,00 €	
+  - betrag: 25,00 €
     name: Elif Cengiz
     spende: Fürs Gehege erneuern
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Marlene Hölscher
     spende: Dächer
-  - betrag: 100,00 €	
+  - betrag: 100,00 €
     name: Susanne Goldhorn
     spende: Tierarztkosten allgemein
-  - betrag: 100,00 €	
+  - betrag: 100,00 €
     name: Elif Cengiz
     spende: OP Dede
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Monika Thoma
     spende: Für Dede
-  - betrag: 10,00 €	
+  - betrag: 10,00 €
     name: Kerstin Dorn
     spende: Spende
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Sandra Kaesmann
     spende: Hunde
-  - betrag: 5,00 €	
+  - betrag: 5,00 €
     name: Hülya Aydemir
     spende: Spende
-  - betrag: 5,00 €	
+  - betrag: 5,00 €
     name: Gabriele Mocker
     spende: 1 Euro für Özdere
-  - betrag: 5,00 €	
+  - betrag: 5,00 €
     name: Heinz-Jürgen Schroer
     spende: Tierheim Özdere
-  - betrag: 5,00 €	
+  - betrag: 5,00 €
     name: Diana Käufer
     spende: Spende
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Helena Sophie Schall
     spende: Spende
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Lisa Janku
     spende: Spende
-  - betrag: 5,00 €	
-    name: Christine Kretschmann 
+  - betrag: 5,00 €
+    name: Christine Kretschmann
     spende: Tierheim Özdere
-  - betrag: 35,00 €	
+  - betrag: 35,00 €
     name: Monika Tang/Moni Müller
     spende: Spende
-  - betrag: 5,00 €	
+  - betrag: 5,00 €
     name: Petra Bruckhaus
     spende: Aktion 1 Euro für Özdere
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Regina Michel
     spende: MeSaHayKoDer
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Anja Spörl
     spende: Spende
-  - betrag: 5,00 €	
+  - betrag: 5,00 €
     name: Ulrike Nonnenmann
     spende: Tierspende
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Dagmar Pühler
     spende: Spende
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Hannes Lückmann
     spende: Spende
-  - betrag: 100,00 €	
+  - betrag: 100,00 €
     name: Martina Schenkewitzt
     spende: Für die Dächer
-  - betrag: 15,00 €	
-    name: Sandra Kaesmann 
+  - betrag: 15,00 €
+    name: Sandra Kaesmann
     spende: Hunde
-  - betrag: 45,00 €	
+  - betrag: 45,00 €
     name: Elke Holm
     spende: Patenschaft Ipek, Can und Uff
-  - betrag: 30,00 €	
+  - betrag: 30,00 €
     name: Katrin Esen
     spende: Patenschaft Tango und Kim
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Bruno Mangelmann
     spende: Patenschaft Kara
-  - betrag: 40,00 €	
+  - betrag: 40,00 €
     name: Susanne Goldhorn
     spende: Patenschaft Fred und Bruni
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Christine Mutze
     spende: Patenschaft Rudi
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Nicole Maschmann
     spende: Patenschaft Raffzahn
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Angela Demmig
     spende: Patenschaft Pon Pon
-  - betrag: 30,00 €	
+  - betrag: 30,00 €
     name: Judith Fritzsche
     spende: Patenschaft Sari
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Felicitas Arkan
     spende: Patenschaft Nevin
-  - betrag: 60,00 €	
+  - betrag: 60,00 €
     name: Andrea Mohr
     verein: Tierhilfe Türkei e.V.
     spende: Patenschaft Pitti und Cat
-  - betrag: 15,00 €	
-    name: Özlem Kesici 
+  - betrag: 15,00 €
+    name: Özlem Kesici
     verein: Tierhilfe Türkei e.V.
-    spende: Patenschaft Masha 
-  - betrag: 20,00 €	
+    spende: Patenschaft Masha
+  - betrag: 20,00 €
     name: Diana Roberts
     spende: Patenschaft Berghündin & Cody
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Diana Schiller
     spende: Patenschaft Luna
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Maren Rebentisch
     spende: Patenschaft Maya
-  - betrag: 40,00 €	
+  - betrag: 40,00 €
     name: Martina Heindorf
     spende: Patenschaft Hamit 1 und 2
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Lisa Beyer
     spende: Patenschaft Mr. Peabody
-  - betrag: 45,00 €	
+  - betrag: 45,00 €
     name: Christiane Hacker
     spende: Tierhilfe Türkei e.V.
-    spende: Patenschaft Alice 
-  - betrag: 20,00 €	
+    spende: Patenschaft Alice
+  - betrag: 20,00 €
     name: Ramona Schaaf
     spende: Tierhilfe Türkei e.V.
     spende: Patenschaft Luminor
-  - betrag: 120,00 €	
+  - betrag: 120,00 €
     name: Sabine Pralat
     spende: Patenschaft Arcon, Samir, Linda und Tony
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Monika Goldhorn
     spende: Patenschaft Grizzly und Tessi
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Cathleen Spohr
     spende: Patenschaft Besiktas
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Wenke Kleinert
     spende: Patenschaft George
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Julianne Bototo-Ostertag
     spende: Patenschaft weiße Hündin Ayse
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Brigitte Vetterl
     spende: Patenschaft Peggy
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Juliane Maiberg
     spende: Patenschaft Harry
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Tugba Ellwanger
     spende: Patenschaft Susi von Tubi Rubi
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Baete Müller
-    spende: Patenschaft 
-  - betrag: 15,00 €	
+    spende: Patenschaft
+  - betrag: 15,00 €
     name: Claudia Kreutz
     spende: Patenschaft Ronja
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Tina Holzhaus
     spende: Patenschaft Benny
-  - betrag: 20,00 €	
+  - betrag: 20,00 €
     name: Veronika Schilling
     spende: Patenschaft Emma
-  - betrag: 30,00 €	
+  - betrag: 30,00 €
     name: Sandra Dipci
     spende: Patenschaft Samira & Nikita
-  - betrag: 100,00 €	
+  - betrag: 100,00 €
     name: Martina Heindorf
     spende: OP Dede
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Martina Schenkewitz
     spende: Für Pon Pon & Arcon
-  - betrag: 40,00 €	
+  - betrag: 40,00 €
     name: Renate Sampl
     spende: Impfung für die Zwerge
-  - betrag: 25,00 €	
+  - betrag: 25,00 €
     name: Siegfried Weber
     spende: Tierheim Özdere Heide Eder
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Saadet Sezer Suna
     spende: Für die kranken Hunde
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Lisa Beyer
     spende: 1 Sack Futter für Ayse Sibel Söylemezoglu
-  - betrag: 30,00 €	
+  - betrag: 30,00 €
     name: Daniela Fehleisen
     spende: Futtergeld Tomy V Emely
-  - betrag: 15,00 €	
+  - betrag: 15,00 €
     name: Zeren Ahmet Selim
     spende: Futter für Tierheim Özdere
-  - betrag: 50,00 €	
+  - betrag: 50,00 €
     name: Martina Schenkewitz
     spende: Futtergeld
 
@@ -769,71 +768,71 @@
 - datum: 2016 März
   gesamt: 1.483,00 EURO
   spender:
-  - name: Sabine Pralat 
-    betrag: 50,00 € 
+  - name: Sabine Pralat
+    betrag: 50,00 €
     spende: Kastration
   - name: Sabine Schwepe
-    betrag: 50,00 € 
+    betrag: 50,00 €
     spende: Behandlungsk. Atlas Klinik
-  - name: Elli Cengiz 
-    betrag: 50,00 € 
+  - name: Elli Cengiz
+    betrag: 50,00 €
     spende: Kastration 1 Kater
   - name:  Mark-Peter Althausen
     spende: Spende
-    betrag: 5,00 €  
+    betrag: 5,00 €
   - name:  Isolde Lietz
     spende: Spende
-    betrag: 8,00 €  
+    betrag: 8,00 €
   - name:  Sandy Nic
     spende: Spende
-    betrag: 15,00 € 
+    betrag: 15,00 €
   - name:  Gabriele Mocker
     spende: Spende
-    betrag: 5,00 €  
+    betrag: 5,00 €
   - name:  Hülya Aydemir
     spende: Spende
-    betrag: 5,00 € 
-  - name:  Helena Sophie Schall 
+    betrag: 5,00 €
+  - name:  Helena Sophie Schall
     spende: Spende
-    betrag: 20,00 €  
+    betrag: 20,00 €
   - name:  Kirsten Dorn
     spende: Spende
-    betrag: 10,00 € 
+    betrag: 10,00 €
   - name:  Diana Kaufer
     spende: Spende
-    betrag: 5,00 € 
+    betrag: 5,00 €
   - name:  Heinz-Jürgen Schroer
     spende: Spende
-    betrag: 5,00 € 
+    betrag: 5,00 €
   - name:  Andrea Kessel Klạssenlehrerin
     verein: 9b der Don Bosco-Schule/Künzell
     spende: Spende
-    betrag: 120,00 € 
+    betrag: 120,00 €
   - name:  Lothar Pichler
     spende: Spende
-    betrag: 60,00 €  
+    betrag: 60,00 €
   - name:  Siegfried Weber
     spende: Spende
-    betrag: 25,00 €  
+    betrag: 25,00 €
   - name:  Heinz-Jürgen Schroer
     spende: Spende
-    betrag: 5,00 €  
+    betrag: 5,00 €
   - name:  Moni Müller
     spende: Spende
-    betrag: 35,00 €  
+    betrag: 35,00 €
   - name:  Lisa Janku
     spende: Spende
-    betrag: 20,00 € 
+    betrag: 20,00 €
   - name:  Regina Michel
     spende: Spende
-    betrag: 50,00 € 
+    betrag: 50,00 €
   - name: Petra Bruckhaus
     spende: Spende
-    betrag: 5,00 € 
-  - name:  Sabine Pralat    
+    betrag: 5,00 €
+  - name:  Sabine Pralat
     spende: Spende
-    betrag: 30,00 € 
-  - name: Özlem Kesici 
+    betrag: 30,00 €
+  - name: Özlem Kesici
     betrag:  15,00 €
     spende: Patenschaft für Masha
   - name: Elke Holm
@@ -862,25 +861,25 @@
     spende: Patenschaft für Elsa
   - name: Judith Fritzsche
     betrag: 30,00 €
-    spende: Patenschaft 
+    spende: Patenschaft
   - name: Renate Sampl
     betrag: 60,00 €
     spende: Patenschaft für Tessi, Samira und Alice
   - name: Felicitas Arkan
     betrag: 15,00 €
     spende: Patenschaft für Nevin
-  - name: Andrea Mohr 
+  - name: Andrea Mohr
     betrag: 30,00 €
     verein: Tierhilfe Türkei e.V.
     spende: Patenschaft für Pitti und Cat
   - name: Özlem Kesici
     betrag: 15,00 €
     verein: Tierhilfe Türkei e.V.
-    spende: Patenschaft für  Masha 
+    spende: Patenschaft für  Masha
   - name: Diana Roberts
     betrag: 20,00 €
     spende: Patenschaft für  Cody
-  - name: Diana Schiller 
+  - name: Diana Schiller
     betrag: 15,00 €
     spende: Patenschaft für  Luna
   - name: Maren Rebentisch
@@ -889,22 +888,22 @@
   - name: Martina Heindorf
     betrag: 40,00 €
     spende: Patenschaft für Hamit 1 und 2
-  - name: Lisa Beyer 
+  - name: Lisa Beyer
     betrag: 15,00 €
     spende: Patenschaft für  Mr. Peabody
-  - name: Andrea Mohr  
+  - name: Andrea Mohr
     betrag: 30,00 €
     verein: Tierhilfe Türkei e.V.
-    spende: Patenschaft für Pitti und Cat 
-  - name: Sabine Eroenal 
+    spende: Patenschaft für Pitti und Cat
+  - name: Sabine Eroenal
     betrag: 30,00 €
     verein: Tierhilfe Türkei e.V.
     spende: Patenschaft für  Yaman
-  - name: Özlem Kesici 
+  - name: Özlem Kesici
     betrag: 45,00 €
     verein: Tierhilfe Türkei e.V.
     spende: Patenschaft für Masha, PonPon
-  - name: Ramona Schaaf 
+  - name: Ramona Schaaf
     betrag: 80,00 €
     verein: Tierhilfe Türkei e.V.
     spende: Patenschaft für Luminor
@@ -914,7 +913,7 @@
   - name: Sabine Pralat
     betrag: 30,00 €
     spende: Patenschaft für Linda und Tony
-  - name: Monika Goldhorn 
+  - name: Monika Goldhorn
     betrag: 50,00 €
     spende: Patenschaft für Grizzly und Tessi
   - name: Cathleen Spohr Besiktas
@@ -923,16 +922,16 @@
   - name: Wenke Kleinert
     betrag: 15,00 €
     spende: Patenschaft für George
-  - name: Julianne Bototo-Ostertag 
+  - name: Julianne Bototo-Ostertag
     betrag: 15,00 €
     spende: Patenschaft für Ayse
   - name: Iris Bagheri
     betrag: 15,00 €
     spende: Patenschaft für Frieda
-  - name: Lisa Beyer 
+  - name: Lisa Beyer
     spende: Futtersack für Ayse Sibmezoglu
     betrag: 15,00 €
-  - name: Ulrike Nonnenmann 
+  - name: Ulrike Nonnenmann
     spende: Spende
     betrag: 5,00 €
 
@@ -942,93 +941,93 @@
   gesamt: 1.410,00 EURO
   spender:
   - name: Martina Riemer
-    betrag: 250,00 € 
-    spende: Spende  
+    betrag: 250,00 €
+    spende: Spende
     verein: Engel helfen durch Spenden
   - name: Edith Fuchs
-    betrag: 100,00 € 
+    betrag: 100,00 €
     spende: Spende
   - name: Susanne Goldhorn
-    betrag: 100,00 € 
-    spende: Spende  
-  
+    betrag: 100,00 €
+    spende: Spende
+
   - name: Sandy Nic
-    betrag: 15,00 € 
+    betrag: 15,00 €
     spende: Spende
   - name: Gabriele Mocker
-    betrag: 5,00 € 
+    betrag: 5,00 €
     spende: Spende
   - name: Hülya Aydemir
-    betrag: 5,00 € 
+    betrag: 5,00 €
     spende: Spende
   - name: Helena Sophie Schall
-    betrag: 20,00 € 
+    betrag: 20,00 €
     spende: Spende
   - name: Kirsten Dorn
-    betrag: 10,00 € 
+    betrag: 10,00 €
     spende: Spende
   - name: Diana Kaufer
-    betrag: 5,00 € 
+    betrag: 5,00 €
     spende: Spende
   - name: Heinz-Jürgen Schroer
-    betrag: 5,00 € 
+    betrag: 5,00 €
     spende: Spende
   - name: Nazire Maris
-    betrag: 50,00 € 
+    betrag: 50,00 €
     spende: Spende
   - name: Siegfried Weber
-    betrag: 25,00 € 
+    betrag: 25,00 €
     spende: Spende
   - name: Moni Müller
-    betrag: 35,00 € 
+    betrag: 35,00 €
     spende: Spende
   - name: Lisa Janku
-    betrag: 20,00 € 
+    betrag: 20,00 €
     spende: Spende
   - name: Christine Kretschmann
-    betrag: 5,00 € 
+    betrag: 5,00 €
     spende: Spende
   - name: Regina Michel
-    betrag: 50,00 € 
+    betrag: 50,00 €
     spende: Spende
   - name: Petra Bruckhaus
-    betrag: 5,00 € 
+    betrag: 5,00 €
     spende: Spende
   - name: Anja Blomeyer
     betrag: 50,00 €
     spende: Spende
-  - name: Sandra Dipci 
+  - name: Sandra Dipci
     betrag:  30,00 €
     spende: Patenschaft für Samira
-  - name: Doris Mößner 
+  - name: Doris Mößner
     betrag: 30,00 €
     spende: Patenschaft für Nikita
 
-  - name: Elke Holm  
+  - name: Elke Holm
     betrag:  5,00 €
     spende: Patenschaft für Ipek, Can und Uff
-  - name: Susanne Goldhorn 
+  - name: Susanne Goldhorn
     betrag: 40,00 €
     spende: Patenschaft für Fred und Bruni
-  - name: Katrin Esen 
+  - name: Katrin Esen
     betrag: 30,00 €
     spende: Patenschaft für Tango und Kim
-  - name: Bruno Mangelmann 
+  - name: Bruno Mangelmann
     betrag: 20,00 €
     spende: Patenschaft für Kara
-  - name: Veronika Schilling  
+  - name: Veronika Schilling
     betrag: 20,00 €
     spende: Patenschaft für Emma
-  - name: Angela Demmig 
+  - name: Angela Demmig
     betrag: 15,00 €
     spende: Patenschaft für Elsa
   - name: Judith Fritzsche
     betrag: 30,00 €
     spende: Patenschaft
-  - name: Iris Bagheri  
+  - name: Iris Bagheri
     betrag: 15,00 €
-    spende: Patenschaft für Frieda 
-  - name: Renate Sampl 
+    spende: Patenschaft für Frieda
+  - name: Renate Sampl
     betrag: 60,00 €
     spende: Patenschaft für  Tessi, Samira und Alice
   - name: Felicitas Arkan
@@ -1040,19 +1039,19 @@
   - name: Christine Mutze
     betrag: 20,00 €
     spende: Patenschaft für Rudi
-  - name: Diana Roberts  
+  - name: Diana Roberts
     betrag: 20,00 €
     spende: Patenschaft für Cody
   - name: Maren Rebentisch
     betrag: 15,00 €
     spende: Patenschaft für Maya
-  - name: Diana Schiller 
+  - name: Diana Schiller
     betrag: 15,00 €
     spende: Patenschaft für  Luna
   - name: Martina Heindorf
     betrag: 40,00 €
     spende: Patenschaft für Hamit und !
-  - name: Lisa Beyer 
+  - name: Lisa Beyer
     betrag: 15,00 €
     spende: Patenschaft für Mr. Peabody
   - name: Claudi Voit
@@ -1070,24 +1069,24 @@
   - name: Julianne Bototo-Ostertag
     betrag: 15,00 €
     spende: Patenschaft für Ayse
-  - name: Iris Bagheri 
+  - name: Iris Bagheri
     betrag: 15,00 €
-    spende: Patenschaft für  Frieda 
+    spende: Patenschaft für  Frieda
   - name: Gülay Cataltepe
     spende: Futter
     betrag: 10,00 €
-  - name: Lisa Beyer 
+  - name: Lisa Beyer
     spende: Futtersack für Ayse Sibmezoglu
     betrag: 15,00 €
-  - name: Ulrike Nonnenmann 
+  - name: Ulrike Nonnenmann
     spende: Spende
     betrag: 5,00 €
 
 
 
-- datum: 2016 Januar 
+- datum: 2016 Januar
   gesamt: 1.898,53 EURO
-  spender: 
+  spender:
   - name: Sabine Pralat
     spende: Spende
     betrag: 165,63 €
@@ -1136,7 +1135,7 @@
   - name: Petra Bruckhaus
     spende: Spende
     betrag: 165,63 €
-  - name: Elisabeth Friederike Elke H. 
+  - name: Elisabeth Friederike Elke H.
     spende: Spende
     betrag: 480,00 €
   - name: Sabine Schwepe
@@ -1155,7 +1154,7 @@
   - name: Nicole Maschmann
     spende: Patenschaft für Raffzahn
     betrag: 15,00 €
-  
+
   - name: Nicole Maschmann
     spende: Patenschaft für Raffzahn
     betrag: 15,00 €
@@ -1231,7 +1230,7 @@
   - name: Julianne Bototo-Ostertag
     spende: Patenschaft für Ayse
     betrag: 15,00 €
-  
+
   - name: Sabine Eroenal
     verein: Tierhilfe Türkei e.V
     spende: Patenschaft für Yaman
@@ -1244,38 +1243,36 @@
     verein: Tierhilfe Türkei e.V
     spende: Patenschaft für Masha
     betrag: 15,00 €
-    
+
   - name: Gülay Cataltepe
     spende: Futter
     betrag: 10,00 €
-  - name: Lisa Beyer 
+  - name: Lisa Beyer
     spende: Futtersack für Ayse Sibmezoglu
     betrag: 15,00 €
   - name: Veronika Schilling
     spende: Für Hund Emma
     betrag: 20,00 €
-  - name: Ulrike Nonnenmann 
+  - name: Ulrike Nonnenmann
     spende: Spende
     betrag: 5,00 €
-    
+
   - name: Daniela Kaplan
     verein: Häkeln für Özdere
     spende: Spende
     betrag: 10,00 €
-    
+
   - name: Felicitas Arkan
     verein: Häkeln für Özdere
     spende: Spende
     betrag: 25,00 €
-  
-  - name: Sarah-Angela Brooks 
+
+  - name: Sarah-Angela Brooks
     verein: Häkeln für Özdere
     spende: Spende
     betrag: 5,90 €
-  
+
   - name: Marcus Lorenz
     verein: Häkeln für Özdere
     spende: Spende
     betrag: 60,00 €
-    
-    
