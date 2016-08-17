@@ -33,8 +33,8 @@ gallery:
 
 ---
 
-Ich weiß nicht mehr wie lange ich es schon mache? Mein erster Gang bevor die Sonne hoch kommt sind die Gehege.
-Die Hunde brauchen ihre Medikamente und unser Vet Hüseyin braucht die täglichen Berichte zwei mal am Tag, morgens und abends.
-
-George, Flecki, Besiktas, Mavi, Krebs Mama, Nr. 245, Lumi, Zeytin, Blinde Mama,  Raffzahn, Frida und die 7 Jünglinge brauchen viel Fürsorge.
+Gestern kam unsere wöchentliche Futterlieferung, unsere Lieferant hat auch das Nassfutter mitgeliefert = 13 X 24 Dosen plus 72 Dosen vom letzten Mal, so haben wir insgesamt 360 Dosen Futter bekommen.
+Vielen lieben Dank an alle, die dies möglich gemacht haben :)
+Unser Lieferant ist echt ein feiner Kerl! Ich habe ihn gefragt, ob das Geld gekommen ist? Er sagte: "Geld werde ich schon bekommen, Hauptsache die Tiere sind versorgt"
+Ich finde es echt ganz toll von ihm, Danke Muhsin Gökyildiz :-)
 
