@@ -19,4 +19,4 @@ Sie verweigert seit gestern Abend das Futter, sie will gehen :'(  Eigentlich mus
 Ich bin auch sehr viel bei ihr, ich liebe sie.
 Aber letztendlich wusste ich, dass es keine lange Zeit mit ihr wird. Sie war schon dem Tote geweiht, wie sie hier bei mir ankam.
 Ich wollte ihr ja auch nur eine schöne Zeit schenken, was mir auch gelungen ist. Diese Zeit hat sie mit vollen Zügen genossen, sie war die Rudelführerin. Alle hatten Respekt vor ihr.
-Ich werde mit Dock Hüseyin reden :-(
+Ich werde mit Dock Hüseyin reden.
