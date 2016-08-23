@@ -3,7 +3,7 @@ layout: aktuelles_detail
 category: aktuelles
 title: Arztrechnung
 fb_share_description: true
-date: 2016-08-17
+date: 2016-08-23
 author: Özden Omay
 hund: ''
 rasse: ''
