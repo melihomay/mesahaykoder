@@ -39,7 +39,7 @@ gallery:
 Zeytin macht uns Sorgen, wir sind schon Tage mit ihr zugange. Diesen Sommer haben viele Tiere sehr gelitten, ich hoffe es wird langsam besser.
 Zeytin hatte plötzlich Durchfall bekommen und sehr viel Blut verloren. Es war kein Parwo oder so was, natürlich haben wir sehr viel Angst gehabt. 
 Er hat das Rattengift überlebt, wir hatten aber Angst, dass mit seiner Leber irgendwas ist.
-Aber Entwarnung es waren Giardien, nach den Intensivbehandlungen hat der Durchfall aufgehört und er hat sehr guten Apetit.
+Aber Entwarnung es waren Giardien, nach den Intensivbehandlungen hat der Durchfall aufgehört und er hat sehr guten Appetit.
 
 
 
