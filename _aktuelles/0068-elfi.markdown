@@ -1,0 +1,35 @@
+---
+layout: aktuelles_detail
+category: aktuelles
+title: Elfi hat neue Pateneltern
+fb_share_description: true
+date: 2016-09-06
+author: Özden Omay
+hund: ''
+rasse: ''
+alter: ''
+image_hund: img/tiere/aktuelles/0068.jpg
+
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+visible: true
+spenden: true
+
+gallery:
+  thumb_path: img/tiere/aktuelles/0068-elfi
+  images:
+  - file: SAM_5381.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+  - file: SAM_5383.JPG
+    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
+
+
+---
+Die neuen Eltern von Elfi sind zu Besuch gekommen mit vollen Händen.
+Danke Sally und Muhterem wir haben uns sehr gefreut.
+Ihr seit jederzeit herzlich Willkommen.
+
+
+
