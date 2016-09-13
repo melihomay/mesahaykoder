@@ -1,9 +1,188 @@
-- datum: 2016 August
+- datum: 2016 September
   gesamt: EURO
   spender:
   - betrag:
     name: Nächste Veröffentlichung
-    spende: Anfang September
+    spende: Anfang Oktober
+
+
+
+
+- datum: 2016 August - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
+  gesamt: 60,00 EUR
+  spender:
+  - betrag: 20,00 €
+    name:	Sabrina Künzel
+    spende: Allgemeine Spende
+  - betrag: 40,00 €
+    name:	Renate Sampl
+    spende: Tierpflege
+
+- datum: 2016 August - Spendeneingänge über Tierhilfe Türkei e.V.
+  gesamt: 560,00 EUR
+  spender:
+  - betrag: 20,00 €
+    name:	Ramona Schaaf
+    spende: Patenschaft Luminor August
+  - betrag: 15,00 €
+    name:	Daniela Kaplan	
+    spende: Patenschaft Dede
+  - betrag: 30,00 €
+    name:	Marika Cumini
+    spende: Patenschaft Dolly Juli/August
+  - betrag: 20,00 €
+    name:	Christiane Hacker
+    spende: Patenschaft Alice August
+  - betrag: 15,00 €
+    name: Tugba Ellwanger
+    spende: Patenschaft Suse
+  - betrag: 30,00 €
+    name:	Sabine Jasmin Erönal
+    spende: Patenschaft Yaman Juni /Juli
+  - betrag: 15,00 €
+    name: Lisa Reh
+    spende: Patenschaft Kepcekulak
+  - betrag: 25,00 €
+    name: Maren Rebentisch
+    spende: Frida
+  - betrag: 20,00 €
+    name: Sibel Ertik
+    spende: Frida
+  - betrag: 10,00 €
+    name: Sabine Haake
+    spende: Frida
+  - betrag: 50,00 €
+    name: Claudia Barsig
+    spende: Frida
+  - betrag: 10,00 €
+    name: Sabine Leppert
+    spende: Frida
+  - betrag: 50,00 €
+    name: Sabine Pralat
+    spende: Frida
+  - betrag: 50,00 €
+    name:	Nazire Maris
+    spende: Frida
+  - betrag: 10,00 €
+    name:	Sylvia Bothe
+    spende: Futter Ayse
+  - betrag: 10,00 €
+    name: Anja Spoerl
+    spende: Tierpflege
+  - betrag: 30,00 €
+    name: Liane Speckhahn
+    spende: Tierpflege
+  - betrag: 20,00 €
+    name: Lisa Beyer
+    spende: Tierpflege
+  - betrag: 100,00 €
+    name: Sabine Schwepe
+    spende: Tierpflege
+  - betrag: 30,00 €
+    name: Martina Heindorf
+    spende: Tierpflege
+  
+ 
+
+
+- datum: 2016 August - Spendeneingänge über Sunnydays for Animals e.V.
+  gesamt: 695,00 EURO
+  spender:
+  - betrag:  5,00 €
+    name: Tina Holzhaus
+    spende: Allgemeine Spende
+  - betrag: 40,00 €
+    name:	Regina Michel
+    spende: Allgemeine Spende
+  - betrag: 30,00 €
+    name: Nicole Krala
+    spende: Allgemeine Spende
+  - betrag: 20,00 €
+    name: Nicole Krala
+    spende: Allgemeine Spende
+  - betrag: 20,00 €
+    name: Lisa Janku
+    spende: Allgemeine Spende
+  - betrag: 20,00 €
+    name: Beate Müller
+    spende: Patenschaft Robin 
+  - betrag: 60,00 €
+    name: Elke Holm
+    spende: Patenschaften Efe, Can, Ipek, Uff, Sytan
+  - betrag: 15,00 €
+    name:	Angela Demmig
+    spende: Patenschaft PonPon 
+  - betrag: 15,00 €
+    name: Tina Holzhaus
+    spende: Patenschaft Benny 
+  - betrag: 20,00 €
+    name: Hannes Lückmann
+    spende: Patenschaft Sadik
+  - betrag: 15,00 €
+    name: Wenke Kleinert
+    spende: Patenschaft George 
+  - betrag: 20,00 €
+    name: Veronika Schilling	
+    spende: Patenschaft Lale
+  - betrag: 15,00 €
+    name: Nicole Maschmann
+    spende: Patenschaft Raffzahn 
+  - betrag: 40,00 €
+    name: Susanne u. Claus Ebert-Goldhorn	
+    spende: Patenschaften Fred, Mavis
+  - betrag: 40,00 €
+    name: Martina Heindorf
+    spende: Patenschaften Hamit 1 + 2 
+  - betrag: 15,00 €
+    name: Maren Rebentisch
+    spende: Patenschaft Bruni 
+  - betrag: 15,00 €
+    name: Helena Sophie Schall
+    spende: Patenschaft Hunde und Katzen
+  - betrag: 30,00 €
+    name: Judith Fritzsche
+    spende: Patenschaft allgemein
+  - betrag: 20,00 €
+    name: Christine Mutze
+    spende: Patenschaft Rudi
+  - betrag: 15,00 €
+    name: Sandra Dipci
+    spende: Patenschaft Nikita
+  - betrag: 15,00 €
+    name: Mathias Lüttich
+    spende: Patenschaft Pizzaro
+  - betrag: 50,00 €
+    name: Monika Goldhorn	
+    spende: Patenschaften Tessi + Grizzly
+  - betrag: 15,00 €
+    name: Lisa Beyer
+    spende: Patenschaft Katze/Kater
+  - betrag: 15,00 €
+    name: Susanne Schnetz
+    spende: Patenschaft Frida
+  - betrag: 15,00 €
+    name: Lisa Beyer
+    spende: 1 Sack Futter für Ayse
+  - betrag: 15,00 €
+    name: Brigitte Vetterl
+    spende: Futter
+  - betrag: 100,00 €
+    name: Iris und Wolfgang Martin-Ernst
+    spende: Kastration Katzen
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 - datum: 2016 Juli - Tierhilfe Türkei e.V. über das Paypal-Konto von MeSaHayKoDer
   gesamt: 615,00 EUR

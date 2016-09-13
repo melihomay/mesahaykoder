@@ -1,39 +1,32 @@
-- pate: Elke Holm
-  pate_image: default.jpg
-  hund: Patenschaft für Şeytan
-  image_hund: 106.jpg
 
 
-- pate: Daniela Fehleisen
-  pate_image: default.jpg
-  hund: Patenschaft für Blinde Mama
-  image_hund: 110.jpg
+- pate: Marika Cumini 
+  hund: Patenschaft für Dolly
+  image_hund: Dolly.jpg
 
-- pate: Ulrich Pralat
+- pate: Christiane Hacker
   pate_image: default.jpg
-  hund: Patenschaft für Linda und Toni, Samara, Arcon
-  image_hund: Linda_Toni-SabinePralat.jpg
+  hund: Patenschaft für Alice
+  image_hund: Alice-ChristianeHacker.jpg
 
-- pate: Ulrich Pralat
-  pate_image: default.jpg
-  hund: Patenschaft für Samara und Arcon
-  image_hund: Arcor-SabinePralat.jpg
+
 
 - pate: Tugba Ellwanger
   pate_image: default.jpg
   hund: Patenschaft für Suse
   image_hund: Suse-TubiRubi.jpg
 
-- pate: Daniela Fehleisen
-  pate_image: default.jpg
-  hund: Patenschaft für Lotta und Emely
-  image_hund: Emely-LiselotteFehleisen.jpg
+
+
+- pate: Sabine Jasmin Erönal
+  hund: Patenschaft Yaman 
+  image_hund: Yaman-SabineEronal.jpg
 
 - pate: Daniela Kaplan
   hund: Patenschaft für Dede
   image_hund: Opa_Dede-DanielaKaplan.jpg
 
-- pate: Helena Sophie Schall, Judith Fritzsche, Lisa Beyer
+- pate: Lisa Beyer, Judith Fritzsche
   pate_image: default.jpg
   hund: Patenschaft für Hund oder Katze
   image_hund: default.png
@@ -72,10 +65,7 @@
   hund: Patenschaft für Kepcekulak
   image_hund: Kepcekulak.jpg
 
-- pate: Edith Fuchs
-  pate_image: default.jpg
-  hund: Patenschaft für Pitti und Cat
-  image_hund: Pitti_Cat-AndreaMohr.jpg
+
 
 - pate: Elke Holm
   pate_image: default.jpg
@@ -97,10 +87,7 @@
   hund: Patenschaft für Pon Pon
   image_hund: PonPon-AngelaDemmig.jpg
 
-- pate: Sandra Dipci
-  pate_image: default.jpg
-  hund: Patenschaft für Samira1
-  image_hund: Samira1-RenateSampl.jpg
+
 
 - pate: Sandra Dipci
   pate_image: default.jpg
@@ -113,10 +100,6 @@
   image_hund: Tessi-MonikaGoldhorn.jpg
 
 
-- pate: Felicitas Arkan
-  pate_image: default.jpg
-  hund: Patenschaft für Nevin
-  image_hund: Nevin-harry.jpg
 
 - pate: Martina Heindorf
   pate_image: default.jpg
@@ -133,9 +116,9 @@
   hund: Patenschaft für George
   image_hund: George-WenKe.jpg
 
-- pate: Sibel Sandra Ertik
+- pate: Susanne Schnetz
   pate_image: default.jpg
-  hund: Patenschaft für Frieda
+  hund: Patenschaft für Frida
   image_hund: Frieda.jpg
 
 - pate: Beate Müller
@@ -143,7 +126,7 @@
   hund: Patenschaft für Robin
   image_hund: Robin-BeateMueller.jpg
 
-- pate: Lisa Beyer, Daniela Fehleisen
+- pate: Lisa Beyer, Sylvia Bothe, Brigitte Vetterl
   pate_image: default.jpg
   hund: Futter-Patenschaften
   image_hund: futter.png
