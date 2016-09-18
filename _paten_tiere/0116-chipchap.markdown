@@ -1,7 +1,7 @@
 ---
 layout: pate_detail
 category: gesucht
-hund: Chi und Chap
+hund: Chip und Chap
 rasse:
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 image_hund: img/tiere/gesucht/0116.jpg
