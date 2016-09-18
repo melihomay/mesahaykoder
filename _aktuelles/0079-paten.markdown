@@ -1,10 +1,20 @@
 ---
-layout: pate_detail
-category: gesucht
-hund: Findlinge
-rasse: Katzen-Kinder
-hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+layout: aktuelles_detail
+category: aktuelles
+title: JUHHUUUUUUUUUUUU
+fb_share_description: true
+date: 2016-09-18
+author: Özden Omay
+hund: ''
+rasse: ''
+alter: ''
 image_hund: img/tiere/gesucht/114.jpg
+
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+visible: true
+spenden: true
+
+
 visible: true
 
 gallery:
@@ -21,4 +31,7 @@ gallery:
 
 ---
 
-Natürlich suchen unsere lieben kleinen Katzenkinder auch dringend einen Paten/in und Namen.
+
+
+Unsere Findlinge haben eine Paten-Tante gefunden. Sie heißen ab jetzt Lizzy - mit der weissen Nase und Lotti - mit dem schwarzen Näschen. 
+Vielen Dank an Nicole.
