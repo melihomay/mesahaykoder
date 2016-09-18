@@ -1,8 +1,8 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-04-16
 title: Pate gesucht für Brenda
-date: 16. April 2016
 hund: Brenda
 rasse: Labradormix
 alter: ca. 1 Jahre

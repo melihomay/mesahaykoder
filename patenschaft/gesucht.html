@@ -13,10 +13,8 @@ layout: post
 </hr>
 
 <ul class="post-list">
-  {% assign paten_schaften = site.paten_tiere | where:"visible", true | sort: 'date'  %}
-  {% for gesucht in paten_schaften reversed %}
-    {% if gesucht.visible == true %}
-      {% include gesucht_row.html gesucht=gesucht force=true%}
-    {% endif %}
+  {% assign paten_tiere = site.paten_tiere | where:"visible", true | sort: 'date' | reverse %}
+  {% for gesucht in paten_tiere %}
+    {% include gesucht_row.html gesucht=gesucht force=true%}
   {% endfor %}
 </ul>

@@ -1,6 +1,7 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-09-16
 hund: Namenlos
 rasse: Hündin
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay

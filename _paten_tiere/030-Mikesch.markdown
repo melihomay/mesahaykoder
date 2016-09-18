@@ -1,8 +1,8 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-04-16
 title: Pate gesucht für Mikesch
-date: 16. April 2016
 hund: Mikesch
 rasse: Kater
 alter: ca. 1 Jahre

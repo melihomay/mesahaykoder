@@ -1,8 +1,8 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-05-31
 title: Paten gesucht für namenlose Welpen
-date: 31. Mai 2016
 hund: Namenlose Welpen
 rasse: Rüden
 alter: ca. 3 Monate
