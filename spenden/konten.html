@@ -11,8 +11,8 @@ layout: default
 <h3>Unsere neuen Konten</h3>
 
 <div class="border clear">
- 
-  
+
+
 <h4>Dieses PayPal Treuhandkonto gehört dem Tierschutzverein MeSaHayKoDer</h4>
   <a href="https://www.paypal.com/signin/" target="_blank" >
     <img src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_SM.gif" width="100px" height="auto" alt="De Paypal Logo " >
@@ -21,26 +21,28 @@ layout: default
   <h4 class="clear">Bitte an
     <b><span id="cc" onclick="copyToClipboard(document.getElementById('cc').innerHTML)">
   <script type="text/javascript">
-    
+
     var xpnma = "{{site.email_paypal}}";
     var xsnd = "{{site.domain_name}}";
     document.write(xpnma+ "@" + xsnd );
     function copyToClipboard(text) {
       window.prompt("Copy to clipboard: Ctrl+C, Enter", xpnma+ "@" + xsnd );
     }
-   
+
     </script>
 
     </b>
      einzahlen, mit dem Hinweis "<b>MeSaHayKoDer</b>".</br>
    </h4>
    <h4>Vergesst nicht "Geld an Freunde und Verwandte senden" auswählen, damit keine Gebühren anfallen.</h4>
-</div> 
+</div>
 
 <div class="border clear">
    <h4>NEU über BitCoin spenden</h4>
      <div class="col-left">
-       <input type="image" src="https://chart.googleapis.com/chart?chs=225x225&chld=L|2&cht=qr&chl=bitcoin:{{site.btc_address}}?label={{site.facebook_title}}%26message=Donation"/>
+       <a href="bitcoin:{{site.btc_address}}?label={{site.facebook_title}}">
+         <input type="image" src="https://chart.googleapis.com/chart?chs=225x225&chld=L|2&cht=qr&chl=bitcoin:{{site.btc_address}}?label={{site.facebook_title}}"/>
+       </a>
      </div>
 
      <div class="col-left">
@@ -66,7 +68,7 @@ layout: default
   <p><a href="{{ site.baseurl }}/spenden/info-konten.html" >Mehr Infos gibt es hier &#8674;</a></p>
 
   <p>
-    
+
 
   Das unten stehende Konto in der Türkei ist das offizielle Vereinskonto und wird vom Gouverneur von Izmir und vom Finanzamt überwacht.</p>
 
