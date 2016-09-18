@@ -12,7 +12,7 @@ image_hund: img/tiere/gesucht/114.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
-spenden: true
+
 
 
 visible: true
