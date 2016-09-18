@@ -15,7 +15,7 @@ visible: true
 
 
 gallery:
-  thumb_path: img/tiere/patenschaften/0078-ponpon
+  thumb_path: img/tiere/aktuelles/0078-ponpon
   images:
   - file: SAM_5529.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
@@ -39,4 +39,3 @@ Unser Zucker - Pon Pon habe ich gestern an eine sehr liebevolle Familie vermitte
 Sie war schon mit ihm Restaurant, hatte ihr eigenes Fleisch und wolte bei dem Hausherrn schlafen, darüber war der Papa sehr glücklich. Heute morgen haben sie die Rückreise nach Istanbul angetreten.
 
 Viel Glück wünsche ich allen Vieren.
-

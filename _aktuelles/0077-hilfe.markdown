@@ -29,9 +29,6 @@ gallery:
   - file: 14393302_1244968672191220_1441599534_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: 14393908_1244968695524551_1088148908_o (1).jpg
-    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
   - file: 14393908_1244968695524551_1088148908_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
@@ -57,8 +54,5 @@ Unsere Spenden reichen gerade für Futter und Arbeiter. Womit sollen wir die Beh
 Bitte helft uns die Tiere dürfen nicht leiden.
 
 Hamit meine treue Seele hat mir erzählt: er hätte Schmerzen!
-Ich habe ihn und Betti gestern zur Klinik geschickt. Danke Hamit, dass du es mir gesagt hast. 
+Ich habe ihn und Betti gestern zur Klinik geschickt. Danke Hamit, dass du es mir gesagt hast.
 Es war höchste Eisenbahn! Sein Gebiss sah schlimm aus, er hat eine Gingivitis (Zahnfleischeintzündung). Alles wurde gesäubert und die Beide bekommen eine medikamentöse Behandlung.
-
-
-

@@ -20,9 +20,6 @@ gallery:
   - file: 14341365_1241487809205973_1994816276_n.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: 14341551_1241486245872796_1578304951_n (1).jpg
-    title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-    alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
   - file: 14341551_1241486245872796_1578304951_n.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
@@ -38,9 +35,6 @@ gallery:
   - file: SAM_5418.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
-
-
 ---
 
 
@@ -50,6 +44,3 @@ MESAHAYKODER kastriert schon seit 6 Jahren ununterbrochen, aber wir brauchen Hil
 Verwendungzweck "Mesahaykoderoder Özden"
 
 DANKE in Namen aller Tiere
-
-
-
