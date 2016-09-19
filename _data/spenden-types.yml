@@ -19,8 +19,11 @@
     spende: Tierpflege
 
 - datum: 2016 August - Spendeneingänge über Tierhilfe Türkei e.V.
-  gesamt: 560,00 EUR
+  gesamt: 920,00 EUR
   spender:
+  - betrag: 360,00 €
+    name:	Tierhilfe Türkei e.V.
+    spende: Kastrationen
   - betrag: 20,00 €
     name:	Ramona Schaaf
     spende: Patenschaft Luminor August
@@ -108,7 +111,7 @@
     spende: Patenschaft Robin 
   - betrag: 60,00 €
     name: Elke Holm
-    spende: Patenschaften Efe, Can, Ipek, Uff, Sytan
+    spende: Patenschaften Efecan, Ipek, Uff, Sytan
   - betrag: 15,00 €
     name:	Angela Demmig
     spende: Patenschaft PonPon 
@@ -281,7 +284,7 @@
     spende: Patenschaft für Robin
   - betrag: 45,00 €
     name: Elke Holm
-    spende: Patenschaft für Efe, Can, Ipek, Uff
+    spende: Patenschaft für Efecan, Ipek, Uff
   - betrag: 15,00 €
     name: Angela Demmig
     spende: Patenschaft für PonPon
@@ -424,7 +427,7 @@
     spende: Patenschaft Robin
   - betrag: 45,00 €
     name:	Holm Elke
-    spende: Patenschaft Efe, Can, Ipek, Uff
+    spende: Patenschaft Efecan, Ipek, Uff
   - betrag: 15,00 €
     name:	Demmig Angela
     spende: Patenschaft PonPon
@@ -568,7 +571,7 @@
   spender:
   - betrag: 45,00 €
     name:	Elke Holm
-    spende: Patenschaften Efe Can, Ipek & Uff
+    spende: Patenschaften Efecan, Ipek & Uff
   - betrag: 15,00 €
     name:	Juliane Maiberg
     spende: Patenschaft Harry

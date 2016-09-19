@@ -41,6 +41,6 @@ gallery:
 Die Philosophie von MESAHAYKODER ist kastrieren, kastrieren, kastrieren.... Wir glauben der einzige nachhaltige Weg ist die Kastration der Tiere, damit die Populationen sich vermindern.
 Dadurch wird auch das Elend auf den Strassen verringert.
 MESAHAYKODER kastriert schon seit 6 Jahren ununterbrochen, aber wir brauchen Hilfe. Bitte helft uns.
-Verwendungzweck "Mesahaykoderoder Özden"
+Verwendungzweck "Mesahaykoder oder Özden"
 
 DANKE in Namen aller Tiere

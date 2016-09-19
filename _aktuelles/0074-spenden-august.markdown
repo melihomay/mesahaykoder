@@ -1,7 +1,7 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Spendendank für August - 1.315 Euro
+title: Spendendank für August - 1.675 Euro
 fb_share_description: true
 date: 2016-09-13
 author: Özden Omay
