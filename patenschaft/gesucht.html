@@ -9,13 +9,12 @@ layout: post
    Wir haben im Moment so viele Tiere im Tierheim und auf Payamli, dass wir Probleme haben sie alle satt zu bekommen.
    Für alle Tiere, die noch keinen Namen haben, könnt ihr als Pate einen schönen Namen aussuchen.
  </p>
- 
+
 </hr>
 
 <ul class="post-list">
-  {% for gesucht in site.paten_tiere reversed %}
-    {% if gesucht.visible == true %}
-      {% include gesucht_row.html gesucht=gesucht force=true%}
-    {% endif %}
+  {% assign paten_tiere = site.paten_tiere | where:"visible", true | sort: 'date' | reverse %}
+  {% for gesucht in paten_tiere %}
+    {% include gesucht_row.html gesucht=gesucht force=true%}
   {% endfor %}
 </ul>

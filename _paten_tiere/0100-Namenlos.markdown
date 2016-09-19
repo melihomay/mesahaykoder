@@ -1,8 +1,8 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-05-15
 title: Pate gesucht für Namenlose
-date: 15. Mai 2016
 hund: Namenlose
 rasse: Hündin und 3 Welpen
 alter: ''

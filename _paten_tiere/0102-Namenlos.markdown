@@ -1,8 +1,8 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-05-26
 title: Pate gesucht für Namenlos
-date: 26. Mai 2016
 hund: Namenlos
 rasse: Weibchen
 alter: ''

@@ -11,8 +11,8 @@ werden die bilder in verkleinert und mit 30% verkleinert, die zahl kann angepass
 
 
 # Galarie generator
-- zweck ist es nahezu automatisch eine galarie aufzubauen
-  - maruft ruft den generator auf mit <br/>
+- zweck ist es nahezu automatisch eine galarie aufzubauen:
+  - man ruft ruft den generator auf mit <br/>
     `ruby gallery.rb images=img/bilder` <br/>
     es wird im pfad **"img/bilder"** ein ordner mit small erstellt da werden die bilder für die thumb ansicht erstellt <br>
     zudem wird ein file names **"gallery_snippet.yml"** erstellt, die man öffnen kann und dann die einträge kopiert und in die richtige markdown einfügt.
@@ -24,4 +24,3 @@ werden die bilder in verkleinert und mit 30% verkleinert, die zahl kann angepass
   - `ruby gallery.rb images=img/bilder q=50 width=450`
 
 - starten von jekyll im developmet `jekyll serve  --watch`
-https://www.facebook.com/794854883980129/videos/vb.794854883980129/869566303175653/?type=2&theater

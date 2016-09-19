@@ -1,8 +1,8 @@
 ---
 layout: pate_detail
 category: gesucht
+date: 2016-04-16
 title: Pate gesucht für Suse
-date: 16. April 2016
 hund: Suse
 rasse: Terriermix - Hündin
 alter: ca. 1,5 Jahre
