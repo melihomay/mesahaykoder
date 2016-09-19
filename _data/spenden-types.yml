@@ -19,11 +19,9 @@
     spende: Tierpflege
 
 - datum: 2016 August - Spendeneingänge über Tierhilfe Türkei e.V.
-  gesamt: 920,00 EUR
+  gesamt: 560,00 EUR
   spender:
-  - betrag: 360,00 €
-    name:	Tierhilfe Türkei e.V.
-    spende: Kastrationen
+  
   - betrag: 20,00 €
     name:	Ramona Schaaf
     spende: Patenschaft Luminor August
@@ -89,8 +87,11 @@
 
 
 - datum: 2016 August - Spendeneingänge über Sunnydays for Animals e.V.
-  gesamt: 695,00 EURO
+  gesamt: 1055,00 EURO
   spender:
+  - betrag: 360,00 €
+    name:	Sunnydays for Animals e.V.
+    spende: Kastrationen
   - betrag:  5,00 €
     name: Tina Holzhaus
     spende: Allgemeine Spende
