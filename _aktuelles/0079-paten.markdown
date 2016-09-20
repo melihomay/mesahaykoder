@@ -13,10 +13,6 @@ image_hund: img/tiere/gesucht/114.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 
-
-
-visible: true
-
 gallery:
   thumb_path: img/tiere/patenschaften/p-0114-katzen
   images:
@@ -26,8 +22,6 @@ gallery:
   - file: SAM_5399.JPG
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-
-
 
 ---
 
