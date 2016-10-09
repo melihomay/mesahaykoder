@@ -57,6 +57,6 @@ gallery:
 
 ---
 
-Hitze-Monate haben wir hinter uns. Die Tiere und auch ich freuen uns auf ein schöne Zeit. Die Krankheiten sind nicht auch nicht mehr so schlimm.
+Hitze-Monate haben wir hinter uns. Die Tiere und auch ich freuen uns auf eine schöne Zeit. Die Krankheiten sind auch nicht mehr so schlimm.
 
 Wir müssen uns allerdings vorbereiten auf den Winter. Die kalte Jahreszeit hat selten Gutes. Wir brauchen reichlich Futter, damit die Tiere im Winter nicht frieren.
