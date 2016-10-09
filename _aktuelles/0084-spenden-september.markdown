@@ -1,7 +1,7 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Spendendank für September - 1.245 Euro
+title: Spendendank für September - 1.235 Euro
 fb_share_description: true
 date: 2016-10-05
 author: Özden Omay
