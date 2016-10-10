@@ -3,7 +3,7 @@ layout: aktuelles_detail
 category: aktuelles
 title: Tiere in der Wildnis
 fb_share_description: true
-date: 2016-10-12
+date: 2016-10-10
 author: Özden Omay
 hund: ''
 rasse: ''
