@@ -37,6 +37,6 @@ gallery:
 ---
 
 Es ist Herbst und alle Hotels machen zu.
-Als Erstes müssen die kleinen und hilflosen Katzen dranglauben.  Alle werden eingesammelt und irgendwo weggechmissen.
+Als Erstes müssen die kleinen und hilflosen Katzen dran glauben.  Alle werden eingesammelt und irgendwo weggeschmissen.
 Die sind noch zu klein alleine in der Wildnis zu überleben. Ein Gast vom  Hotel Doganbey hat 5 Katzen Kinder zur Atlas Vet gebracht. Natürlich haben wir sie aufgenommen. Eine ist süsser als die Andere.
 Alle unsere Neuankömmlinge brauchen Paten. Katzen sind im Unterhalt sehr teuer, sie brauchen Kitty Futter, Sand und und ...
