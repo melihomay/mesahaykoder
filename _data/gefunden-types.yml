@@ -1,11 +1,37 @@
-
-- pate: Michaela Thieme
-  hund: Patenschaft für Fluffy
+- pate: Beate Schröder	
+  hund: Patenschaft Bernie
   image_hund: default.png
+  
+- pate: Angela Demmig	
+  hund: Patenschaft Lakota
+  image_hund: default.png
+  
+- pate: Janet Michaelis-Leichsenring	
+  hund: Patenschaft Barak
+  image_hund: default.png
+  
+- pate: Nicole Grimmestein	
+  hund: Patenschaft Lizzy, Lotti
+  image_hund: default.png
+  
+- pate: Cathleen Spor	
+  hund: Patenschaft Besiktas
+  image_hund: Besiktas-CathleenSpohr.jpg
+  
+- pate: Sandra Dipci	
+  hund: Patenschaft Nikita
+  image_hund: Nikita-DorisMoessner.jpg
+  
+- pate: Frank Beckmann
+  image_hund: default.png
+  hund: Beagle
+  
+- pate: Daniela Fehleisen
+  image_hund: default.png
+  hund: Emely, Charlotta
 
-- pate: Ramona Schaaf
-  hund: Patenschaft für Luminor
-  image_hund: Luminor-RamonaSchaaf.jpg
+
+
 
 
 - pate: Marika Cumini 
@@ -22,9 +48,7 @@
   hund: Patenschaft für Suse
   image_hund: Suse-TubiRubi.jpg
 
-- pate: Sabine Jasmin Erönal
-  hund: Patenschaft Yaman 
-  image_hund: Yaman-SabineEronal.jpg
+
 
 - pate: Daniela Kaplan
   hund: Patenschaft für Dede
@@ -51,15 +75,11 @@
   hund: Patenschaft für Fred + Mavis
   image_hund: Fred-SusanneGoldhorn.jpg
 
-- pate: Nicole Maschmann + Marika Cumini 
+- pate: Marika Cumini 
   pate_image: default.jpg
   hund: Patenschaft für Raffzahn
   image_hund: Raffzahn-NicoleMaschmann.jpg
 
-- pate: Ulrich Pralat
-  pate_image: default.jpg
-  hund: Patenschaft für Linda und Toni, Samara, Arcon
-  image_hund: Linda_Toni-SabinePralat.jpg
 
 
 - pate: Veronika Schilling
@@ -91,15 +111,9 @@
   hund: Patenschaft für Bruni
   image_hund: Bruni-SusanneGoldhorn.jpg
 
-- pate: Christine Mutze
-  pate_image: default.jpg
-  hund: Patenschaft für Rudi
-  image_hund: Rudi-ChristineMutze.jpg
 
-- pate: Angela Demmig
-  pate_image:
-  hund: Patenschaft für Pon Pon
-  image_hund: PonPon-AngelaDemmig.jpg
+
+
 
 - pate: Mathias Lüttich
   pate_image: default.jpg
@@ -143,7 +157,7 @@
   image_hund: Frieda.jpg
 
 
-- pate: Lisa Beyer, Sylvia Bothe, Brigitte Vetterl
+- pate: Lisa Beyer
   pate_image: default.jpg
   hund: Futter-Patenschaften
   image_hund: futter.png
