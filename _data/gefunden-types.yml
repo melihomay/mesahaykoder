@@ -1,36 +1,59 @@
+- pate: Sabine Pralat
+  hund: Patenschaft für Josie
+  image_hund: josie.jpg
+  
+- pate: Sabine Pralat
+  hund: Patenschaft für Toni
+  image_hund: toni.jpg
+
+- pate: Sabine Pralat
+  hund: Patenschaft für Samira 1
+  image_hund: samira.jpg
+
+- pate: Sabine Pralat
+  hund: Patenschaft für Arcon
+  image_hund: acron.jpg
+
+- pate: Sabine Pralat
+  hund: Patenschaft für Kim
+  image_hund: kim.jpg
+
+
 - pate: Beate Schröder	
-  hund: Patenschaft Bernie
-  image_hund: default.png
+  hund: Patenschaft für Bernie
+  image_hund: bernie.jpg
   
 - pate: Angela Demmig	
-  hund: Patenschaft Lakota
+  hund: Patenschaft für Lakota
   image_hund: default.png
   
 - pate: Janet Michaelis-Leichsenring	
-  hund: Patenschaft Barak
-  image_hund: default.png
+  hund: Patenschaft für Maylo (Barak)
+  image_hund: barak.jpg
   
 - pate: Nicole Grimmestein	
-  hund: Patenschaft Lizzy, Lotti
-  image_hund: default.png
+  hund: Patenschaft für Lizzy und Lotti
+  image_hund: lizzy_lotti.jpg
   
 - pate: Cathleen Spor	
-  hund: Patenschaft Besiktas
+  hund: Patenschaft für Besiktas
   image_hund: Besiktas-CathleenSpohr.jpg
   
 - pate: Sandra Dipci	
-  hund: Patenschaft Nikita
+  hund: Patenschaft für Nikita
   image_hund: Nikita-DorisMoessner.jpg
   
 - pate: Frank Beckmann
-  image_hund: default.png
-  hund: Beagle
+  image_hund: beagle_linchen.jpg
+  hund: Patenschaft für Beagle-linchen
   
 - pate: Daniela Fehleisen
-  image_hund: default.png
-  hund: Emely, Charlotta
+  image_hund: emely.jpg
+  hund: Patenschaft für Emely
 
-
+- pate: Liselotte Fehleisen
+  image_hund: lotta.jpg 
+  hund: Patenschaft für Lotta
 
 
 
@@ -63,7 +86,7 @@
 - pate: Lisa Beyer, Judith Fritzsche, Helena Sophie Schall 
   pate_image: default.jpg
   hund: Patenschaft für Hund oder Katze
-  image_hund: default.png
+  image_hund: hund_katze.jpg
 
 - pate: Beate Müller
   pate_image: default.jpg
@@ -118,7 +141,7 @@
 - pate: Mathias Lüttich
   pate_image: default.jpg
   hund: Patenschaft für Pizzaro
-  image_hund: default.png
+  image_hund: pizzaro.jpg
 
 - pate: Sandra Dipci
   pate_image: default.jpg
@@ -138,8 +161,13 @@
 
 - pate: Martina Heindorf
   pate_image: default.jpg
-  hund: Patenschaft für Hamit 1 und 2
+  hund: Patenschaft für Hamit 1
   image_hund: Hamit-MartinaHeindorf.jpg
+  
+- pate: Martina Heindorf
+  pate_image: default.jpg
+  hund: Patenschaft für Hamit 2
+  image_hund: hamit2.jpg
 
 - pate: Monika Goldhorn
   pate_image: default.jpg
@@ -153,11 +181,8 @@
 
 - pate: Sibel Ertik
   pate_image: default.jpg
-  hund: Frida
+  hund: Patenschaft für Frida
   image_hund: Frieda.jpg
 
 
-- pate: Lisa Beyer
-  pate_image: default.jpg
-  hund: Futter-Patenschaften
-  image_hund: futter.png
+

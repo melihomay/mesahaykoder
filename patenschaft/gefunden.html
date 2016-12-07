@@ -5,16 +5,18 @@ layout: default
 
  <p>Hier findet Ihr die vielen Patenschaften die schon geschlossen wurden. Einen herzlichen Dank an alle Paten! 
  </br></br>
-   Patenschaften bis Ende Oktober 2016 <small>Nächste Aktualisierung Anfang Dezember</small></p>
+   Patenschaften bis Ende November 2016 <small>Nächste Aktualisierung Anfang Januar 2017</small></p>
 
-{% for gefunden in site.data.gefunden-types %}
-  <table class="paten">
-    <tr>
-      <td>
+
+
+   
+      {% for gefunden in site.data.gefunden-types %}
+      <div class="paten">
         <h3><i>{{ gefunden.hund }}</i> </h3>
         <p><img src="{{site.baseurl}}/img/tiere/patenschaften/{{gefunden.image_hund}}" alt="{{gefunden.hund}}"></p>
          {{ gefunden.pate }}
-      </td>
-    </tr>
-   </table>
- {% endfor %}
+      </div>
+       {% endfor %}
+  
+  
+
