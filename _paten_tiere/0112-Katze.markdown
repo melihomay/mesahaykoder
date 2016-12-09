@@ -2,10 +2,10 @@
 layout: pate_detail
 category: gesucht
 date: 2016-09-18
-hund: Hauskatze
+hund: Namenlos 9
 rasse: Katze
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
-image_hund: img/tiere/gesucht/112.jpg
+image_hund: img/tiere/gesucht/cat.jpg
 visible: true
 
 

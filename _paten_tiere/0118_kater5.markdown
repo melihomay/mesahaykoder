@@ -1,0 +1,15 @@
+---
+layout: pate_detail
+category: gesucht
+date: 2016-09-24
+hund: Namenlos 5
+rasse: Kater
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+image_hund: img/tiere/gesucht/kater_5.jpg
+visible: true
+
+
+
+---
+
+Mehr Informationen folgen!

@@ -1,0 +1,19 @@
+---
+layout: pate_detail
+category: gesucht
+date: 2016-09-19
+hund: Chip
+rasse: Rüde
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+image_hund: img/tiere/gesucht/chip.jpg
+visible: true
+
+
+
+---
+
+Unsere langjährige Patin von Chip und Chap, Claudia Voit kann aus privaten Gründen die Patenschaft nicht mehr weiter übernehmen. 
+Vielen Dank für die langjährige Patenschaft.
+Chip und Chap kamen als winzige Welpen mit ihrer Mutter nach Payamli. Die Mama wurde nach Deutschland an Frau Kerstin Ringel vermittelt.
+Wir hofften aber auch, dass wir ihre beiden Kinder vermitteln können. Sie haben genau die gleichen Eigenschaften wie ihre Mama: lieb und anhänglich. Sie sind klein. Ca. 35 cm Schulterhöhe und ca. 12 Kg schwer.
+Chap hat eine Patin gefunden, jetzt suchen wir nur noch für Chip einen Paten. Wer möchte den Napf füllen ?

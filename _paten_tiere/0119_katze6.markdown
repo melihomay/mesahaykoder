@@ -1,0 +1,15 @@
+---
+layout: pate_detail
+category: gesucht
+date: 2016-09-25
+hund: Namenlos 6
+rasse: Katze
+hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
+image_hund: img/tiere/gesucht/katze_6.jpg
+visible: true
+
+
+
+---
+
+Mehr Informationen folgen!
