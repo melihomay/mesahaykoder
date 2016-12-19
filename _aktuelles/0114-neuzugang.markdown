@@ -49,5 +49,5 @@ Wir wissen leider nicht was sie erlebt hat und warum sie keine Welpen mehr hat.
 
 Dieses sehr ruhige Mädchen ist kastriert und man sieht ihr an, dass es ihr nicht gut geht.
 Sie ist sehr abgemagert und die Zähne sind in einem schlechten Zustand, daher 
-wurde alles gereinigt. Sie ist ca. 2 Jahre alt, ein Malteser Mischling?, stubenrein und sie hatte mal sehr gute Tage, dass sehe ich ihr an.
+wurde alles gereinigt. Sie ist ca. 2 Jahre alt, ein Malteser Mischling?, stubenrein und sie hatte mal sehr gute Tage, das sehe ich ihr an.
 Gott sei Dank haben wir gutes Nassfutter und Vitamine. Wir peppeln sie wieder auf, dann wird sie wieder stark und gesund sein.
