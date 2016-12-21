@@ -3,7 +3,7 @@ layout: aktuelles_detail
 category: aktuelles
 title: DANKE SCHÖN!
 fb_share_description: true
-date: 2016-12-19
+date: 2016-12-21
 author: Özden Omay
 hund: ''
 rasse: ''
@@ -20,9 +20,14 @@ spenden: false
 
 "Die Zukunft hängt davon ab was wir heute tun." - Mahatma Gandhi
 
-Vielen Dank an dieser Stelle an all meine Helferinnen, Helfer, Spenderinnen, Spender, Unterstützerinnen und Unterstützer
-für die gute Zusammenarbeit und die Hilfe in diesem Jahr!
+Ganz herzlichen Dank an alle 
+Förderer und Unterstützer, die sowohl mit ihrem großartigen Engagement als auch mit großzügiger finanzieller Unterstützung den 
+Tierschutz hier mit ermöglicht haben! 
 
 Ein besinnliches Weihnachtsfest und ein gesundes neues Jahr wünscht euch allen von Herzen
 
-eure Özden
+Eure Özden
+
+VIELEN HERZLICHEN DANK AN ALLE DIE SICH HIER MIT SO VIEL ENGAGEMENT EINBRINGEN!
+
+OHNE EUCH GEHT ES NICHT!
