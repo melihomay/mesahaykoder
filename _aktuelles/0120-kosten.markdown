@@ -8,7 +8,7 @@ author: Özden Omay
 hund: ''
 rasse: ''
 alter: ''
-image_hund: img/tiere/aktuelles/0120.jpg
+image_hund: img/tiere/aktuelles/0120a.jpg
 
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
