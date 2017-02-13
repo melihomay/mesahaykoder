@@ -1,10 +1,66 @@
-
-- datum: 2017 Januar
+- datum: 2017 Februar
   gesamt: EURO
   spender:
   - betrag:
     name: Nächste Veröffentlichung
-    spende: Anfang Februar 2017
+    spende: Anfang März 2017
+
+- datum: 2017 Januar - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
+  gesamt: 115,00 EURO
+  spender:
+  - betrag: 25,00 €	
+    name: Michael Albrich 	
+    spende: allgemeine Spende
+  - betrag: 10,00 €	
+    name: Kati Mundt 	
+    spende: allgemeine Spende
+  - betrag:   5,00 €	
+    name: Markus Locher	
+    spende: Spende MeSaHayKoDer
+  - betrag: 20,00 €	
+    name: Beate Schröder	
+    spende: Patenschaft Bernie
+  - betrag: 50,00 €	
+    name: Özlem Kesici	
+    spende: Hütte
+  - betrag:   5,00 €	
+    name: Sigrid Williams	
+    spende: Rest von Kalenderaktion
+  
+  
+  
+  
+
+- datum: 2017 Januar - Spendeneingänge über Sunnydays for Animals e.V.
+  gesamt: 840,00 EURO
+  spender:
+  - betrag: 5,00 €
+    name: Tina Holzhaus
+    spende: allgemeine Spende
+  
+  
+  
+
+- datum: 2017 Januar - Spendeneingänge über Tierhilfe Türkei e.V.
+  gesamt: 455,00 EUR
+  spender:
+    - betrag: 100,00 €
+      name: Brigitte Paul
+      spende: allgemeine Spende
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 - datum: 2016 Dezember - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
   gesamt: 487,00 EURO
