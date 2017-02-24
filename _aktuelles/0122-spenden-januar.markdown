@@ -1,7 +1,7 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Spendendank für Dez. - 1.410,00 Euro
+title: Spendendank für Jan.17 - 1.410,00 Euro
 fb_share_description: true
 date: 2017-02-13
 author: Özden Omay
