@@ -13,7 +13,7 @@ image_hund: img/tiere/aktuelles/danke.jpg
 hash_tag: Tierschutzverein, MeSaHayKoDer, ÖzdereTürkei, ÖzdenOmay
 visible: true
 spenden: false
-spenden_ansicht_link: 12
+spenden_ansicht_link: 01
 ---
 
 Liebe Spenderin und lieber Spender,
