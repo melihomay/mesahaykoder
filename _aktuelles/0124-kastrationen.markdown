@@ -20,7 +20,7 @@ gallery:
   - file: 14341365_1241487809205973_1994816276_n.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
-  - file: 14341551_1241486245872796_1578304951_n (1).jpg
+  - file: 14341551_1241486245872796_1578304951_n.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
   - file: 14466305_1254980867856667_18923316_o.jpg
@@ -32,6 +32,7 @@ gallery:
   - file: 14466967_1254980891189998_1953658259_o.jpg
     title: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
     alt: www.mesahaykoder.de - Tierschutzverein - Özdere Türkei
+
 
 ---
 
