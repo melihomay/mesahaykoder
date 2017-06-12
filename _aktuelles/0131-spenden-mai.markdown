@@ -1,7 +1,7 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Spendendank für Mai 17 - 1.460,00 Euro
+title: Spendendank für Mai 17 - 1.225,00 Euro
 fb_share_description: true
 date: 2017-06-12
 author: Özden Omay
