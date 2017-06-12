@@ -16,7 +16,7 @@ spenden: false
 spenden_ansicht_link: 05
 ---
 
-Liebe Spenderin und lieber Spender,
+Liebe Spenderin und lieber Spender,  
 herzlichen Dank für deine Spende, die du uns für unsere Arbeit zur Verfügung gestellt hast. Du leistest damit einen wirklich wichtigen Beitrag, damit wir Strassentiere in schwierigen Lebenssituationen retten und begleiten können.
 
 Danke nochmals
