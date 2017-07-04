@@ -1,10 +1,178 @@
-- datum: 2017 Juni
+- datum: 2017 Juli
   gesamt: EURO
   spender:
   - betrag:
     name: Nächste Veröffentlichung
-    spende: Anfang Juli 2017
+    spende: Anfang August 2017
+    
+    
+    
+- datum: 2017 Juni - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
+  gesamt: 480,00 EURO
+  spender:
+  - betrag: 30,00 €
+    name:	Renate Sampl	
+    spende: Tierpflege
+  - betrag: 20,00 €
+    name:	Beate Schröder	
+    spende: Patenschaft Bernie
+  - betrag: 15,00 €
+    name:	Kerstin Schmidt	
+    spende: Patenschaft Lotta
+  - betrag: 20,00 €
+    name:	Engel für Tiere in Not e.V.	
+    spende: Patenschaft Odesso für April
+  - betrag: 80,00 €
+    name:	Engel für Tiere in Not e.V.	
+    spende: Patenschaften Odesso & Sookie für Mai & Juni
+  - betrag: 50,00 €
+    name:	Gabiele Hopf	
+    spende: Allgemeine Spende
+  - betrag: 80,00 €
+    name:	Stefanie Götz	
+    spende: Allgemeine Spende
+  - betrag: 10,00 €
+    name:	Claudia Kreutz	
+    spende: Allgemeine Spende
+  - betrag: 60,00 €
+    name:	Martina Riemer	
+    spende: Spendenhausleerung
+  - betrag: 60,00 €
+    name:	Martina Riemer	
+    spende: Engel helfen durch Spenden
+  - betrag: 55,00 €
+    name:	Engel für Tiere in Not e.V.	
+    spende: Behandlungskosten Räude Welpe
+    
+    
+- datum: 2017 Juni - Spendeneingänge über Sunnydays for Animals e.V.
+  gesamt: 635,00 EURO
+  spender:
+  - betrag: 60,00 €
+    name:	Elke Holm	
+    spende: Patenschaften Efecan, Ipek, Uff, Sextan
+  - betrag: 15,00 €
+    name:	Tina Holzhaus	
+    spende: Patenschaft Benny
+  - betrag: 15,00 €
+    name:	Wenke Kleinert	
+    spende: Patenschaft George
+  - betrag: 20,00 €
+    name:	Veronika Schilling	
+    spende: Patenschaft Lale
+  - betrag: 40,00 €
+    name:	Susanne u Claus Ebert-Goldhorn	
+    spende: Patenschaften Fred & Mavis
+  - betrag: 15,00 €
+    name:	Maren Rebentisch	
+    spende: Patenschaft Bruni
+  - betrag: 20,00 €
+    name:	Frank Beckmann	
+    spende: Patenschaft Beagle
+  - betrag: 25,00 €
+    name:	Cathleen Spohr	
+    spende: Patenschaft Besiktas
+  - betrag: 20,00 €
+    name:	Janet Michaelis-Leichsenring	
+    spende: Patenschaft Barak
+  - betrag: 15,00 €
+    name:	Lisa Beyer	
+    spende: Patenschaft Kater/Katze
+  - betrag: 15,00 €
+    name:	Sandra Dipci	
+    spende: Patenschaft Samira
+  - betrag: 50,00 €
+    name:	Monika Goldhorn	
+    spende: Patenschaft Tessi & Grizzly
+  - betrag: 30,00 €
+    name:	Judith Fritsche	
+    spende: Patenschaft
+  - betrag: 15,00 €
+    name:	Helena Sophie Schall	
+    spende: Patenschaft Hund oder Katze
+  - betrag: 45,00 €
+    name:	Iris & Martin Ernst	
+    spende: Patenschaft Mikesch Mai – Juni
+  - betrag: 15,00 €
+    name:	Lisa Beyer	
+    spende: Futter Ayse
+  - betrag: 40,00 €
+    name:	Regina Michel	
+    spende: Allgemeine Spende
+  - betrag: 20,00 €
+    name:	Lisa Janku	
+    spende: Allgemeine Spende
+  - betrag: 5,00 €    
+    name:	Ulrike Nonnemann	
+    spende: Allgemeine Spende
+  - betrag: 5,00 €
+    name:	Tina Holzhaus	
+    spende: Allgemeine Spende
+  - betrag: 30,00 €
+    name:	Jörg Martin	
+    spende: Allgemeine Spende
+  - betrag: 20,00 €
+    name:	Susanne Schnetz	
+    spende: Allgemeine Spende
+  - betrag: 100,00 €
+    name:	Iris & Martin Ernst	
+    spende: Allgemeine Spende
+    
+    
+  
+  
 
+
+- datum: 2017 Juni - Spendeneingänge über Tierhilfe Türkei e.V.
+  gesamt: 1085,00 EUR
+  spender:
+  - betrag: 20,00 €
+    name:	Ramona Schaaf	
+    spende: Patenschaft Luminor
+  - betrag: 15,00 €
+    name:	Daniela Kaplan	
+    spende: Patenschaft Dede
+  - betrag: 75,00 €
+    name:	Sabine Pralat	
+    spende: Patenschaften Josie, Asco, toni, Samara 1 & Arcon 3
+  - betrag: 40,00 €
+    name:	Edith Fuchs	
+    spende: Patenschaft Pitty u. Cat
+  - betrag: 30,00 €
+    name:	Tugba Ellwanger	
+    spende: Patenschaft Suse und Welpe
+  - betrag: 30,00 €
+    name:	Martina Heindorf	
+    spende: Patenschaften Hamit 1+2 (Hamdiye)
+  - betrag: 15,00 €
+    name:	Eroenal Sabine-Jasmin	
+    spende: Patenschaft Yaman
+  - betrag: 30,00 €
+    name:	Daniela Fehleisen	
+    spende: Patenschaft Lotta u. Emelie
+  - betrag: 15,00 €
+    name:	Marika Cumini	
+    spende: Patenschaft Luna
+  - betrag: 550,00 €
+    name:	Sibel Omay	
+    spende: Kastration für Monat Mai
+  - betrag: 20,00 €
+    name:	Lisa Beyer	
+    spende: Tierpflege
+  - betrag: 30,00 €
+    name:	Martina Heindorf	
+    spende: Tierpflege
+  - betrag: 40,00 €
+    name:	Sabine Schwepe	
+    spende: Tierpflege
+  - betrag: 50,00 €
+    name:	Renate Sampl	
+    spende: Behandlung von Ürkemz Oglan
+  - betrag: 125,00 €
+    name:	Sabine Pralat	
+    spende: Erlös Flohmarkt
+    
+    
 - datum: 2017 Mai - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
   gesamt: 90,00 EURO
   spender:
