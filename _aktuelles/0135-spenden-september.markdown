@@ -1,7 +1,7 @@
 ---
 layout: aktuelles_detail
 category: aktuelles
-title: Spendendank für September 17 - 1305,00 Euro
+title: Spendendank für September 17 - 730,00 Euro
 fb_share_description: true
 date: 2017-10-11
 author: Özden Omay
