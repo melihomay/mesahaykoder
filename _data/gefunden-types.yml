@@ -1,156 +1,16 @@
-- pate: Christine Mutze
-  hund: Patenschaft für Rudi
-  image_hund: rudi.jpg
-
-  
-  
-- pate: Ramona Schaaf
-  hund: Patenschaft für  Luminor
-  image_hund: luminor.jpg
-  
-  
-- pate: Sabine Yasmin Eronal
-  hund: Patenschaft für  Yaman
-  image_hund: yaman.jpg
-  
-
-
-  
-  
-- pate: Özlem Kesici
-  hund: Patenschaft für  Masha
-  image_hund: masha.jpg
-
-
-
-- pate: Felix Hepp
-  hund: Patenschaft für  Lucky und Lucy
-  image_hund: lucky_luci.jpg
-
-
-
-- pate: Sabine Pralat
-  hund: Patenschaft für Josie
-  image_hund: josie.jpg
-  
-- pate: Sabine Pralat
-  hund: Patenschaft für Toni
-  image_hund: toni.jpg
-
-- pate: Sabine Pralat
-  hund: Patenschaft für Samira 1
-  image_hund: samira.jpg
-
-- pate: Sabine Pralat
-  hund: Patenschaft für Arcon
-  image_hund: acron.jpg
-
-- pate: Sabine Pralat
-  hund: Patenschaft für Kim
-  image_hund: kim.jpg
-
-
-- pate: Beate Schröder	
-  hund: Patenschaft für Bernie
-  image_hund: bernie.jpg
-  
-- pate: Angela Demmig	
-  hund: Patenschaft für Chap
-  image_hund: chap.jpg
-  
-- pate: Janet Michaelis-Leichsenring	
-  hund: Patenschaft für Maylo (Barak)
-  image_hund: barak.jpg
-  
-- pate: Nicole Grimmestein	
-  hund: Patenschaft für Lizzy und Lotti
-  image_hund: lizzy_lotti.jpg
-  
-- pate: Cathleen Spor	
-  hund: Patenschaft für Besiktas
-  image_hund: Besiktas-CathleenSpohr.jpg
-  
-- pate: Sandra Dipci	
-  hund: Patenschaft für Nikita
-  image_hund: Nikita-DorisMoessner.jpg
-  
-- pate: Frank Beckmann
-  image_hund: beagle_linchen.jpg
-  hund: Patenschaft für Beagle-linchen
-  
 - pate: Daniela Fehleisen
   image_hund: emely.jpg
   hund: Patenschaft für Emely
 
-- pate: Liselotte Fehleisen
-  image_hund: lotta.jpg 
-  hund: Patenschaft für Lotta
-
-
-
-- pate: Marika Cumini 
-  hund: Patenschaft für Dolly
-  image_hund: Dolly.jpg
-
-- pate: Christiane Hacker
+- pate: Martina Heindorf
   pate_image: default.jpg
-  hund: Patenschaft für Alice
-  image_hund: Alice-ChristianeHacker.jpg
-
-- pate: Tugba Ellwanger
-  pate_image: default.jpg
-  hund: Patenschaft für Suse
-  image_hund: Suse-TubiRubi.jpg
-
-
-
-- pate: Daniela Kaplan
-  hund: Patenschaft für Dede
-  image_hund: Opa_Dede-DanielaKaplan.jpg
+  hund: Patenschaft für Hamit 1
+  image_hund: hamit1.jpg
   
-- pate: Edith Fuchs
+- pate: Martina Heindorf
   pate_image: default.jpg
-  hund: Patenschaft für Pitti und Cat
-  image_hund: Pitti_Cat-AndreaMohr.jpg
-
-
-- pate: Lisa Beyer, Judith Fritzsche, Helena Sophie Schall 
-  pate_image: default.jpg
-  hund: Patenschaft für Hund oder Katze
-  image_hund: hund_katze.jpg
-
-- pate: Beate Müller
-  pate_image: default.jpg
-  hund: Patenschaft für Robin
-  image_hund: Robin-BeateMueller.jpg
-
-- pate: Susanne u. Claus Ebert-Goldhorn
-  pate_image: default.jpg
-  hund: Patenschaft für Fred
-  image_hund: Fred-SusanneGoldhorn.jpg
-
-- pate: Susanne u. Claus Ebert-Goldhorn
-  pate_image: default.jpg
-  hund: Patenschaft für Mavi
-  image_hund: mavi.jpg
-
-- pate: Marika Cumini 
-  pate_image: default.jpg
-  hund: Patenschaft für Raffzahn
-  image_hund: Raffzahn-NicoleMaschmann.jpg
-
-
-
-- pate: Veronika Schilling
-  pate_image: default.jpg
-  hund: Patenschaft für Lale
-  image_hund: Lale-VeronikaSchilling.jpg
-
-
-
-- pate: Lisa Reh
-  hund: Patenschaft für Kepcekulak
-  image_hund: Kepcekulak.jpg
+  hund: Patenschaft für Hamit 2
+  image_hund: hamit2.jpg
 
 - pate: Elke Holm
   pate_image: default.jpg
@@ -166,62 +26,100 @@
   pate_image: default.jpg
   hund: Patenschaft für Şeytan
   image_hund: 106.jpg
+  
+  
+- pate: Tugba Ellwanger
+  pate_image: default.jpg
+  hund: Patenschaft für Suse
+  image_hund: Suse-TubiRubi.jpg  
 
 
 - pate: Maren Rebentisch
+  hund: Patenschaft für Kim
+  image_hund: kim.jpg
+  
+- pate: Wolfgang u. Iris Ernst
+  hund: Patenschaft für Mikesch
+  image_hund: k-Mikesch.jpg
+
+- pate: Edith Fuchs
+  hund: Patenschaft für Pitti und Cat
+  image_hund: Pitti_Cat-AndreaMohr.jpg
+  
+- pate: Lisa Beyer, Judith Fritzsche
   pate_image: default.jpg
-  hund: Patenschaft für Bruni
-  image_hund: bruni.jpg
-
-
-
-
-
-- pate: Mathias Lüttich
-  pate_image: default.jpg
-  hund: Patenschaft für Pizzaro
-  image_hund: pizzaro.jpg
+  hund: Patenschaft für Hund oder Katze
+  image_hund: hund_katze.jpg
 
 - pate: Sandra Dipci
   pate_image: default.jpg
-  hund: Patenschaft für Samira
+  hund: Patenschaft für Samira 2
   image_hund: Samira2-SandraDipci.jpg
 
+- pate: Sandra Dipci
+  pate_image: default.jpg
+  hund: Patenschaft für Mavi
+  image_hund: mavi.jpg
+  
 - pate: Monika Goldhorn
   pate_image: default.jpg
   hund: Patenschaft für Tessi
   image_hund: Tessi-MonikaGoldhorn.jpg
+  
+- pate: Daniela Kaplan
+  hund: Patenschaft für Dede
+  image_hund: Opa_Dede-DanielaKaplan.jpg 
+  
+- pate: Susanne u. Claus Ebert-Goldhorn
+  pate_image: default.jpg
+  hund: Patenschaft für Fred
+  image_hund: Fred-SusanneGoldhorn.jpg  
+  
+- pate: Maren Rebentisch
+  pate_image: default.jpg
+  hund: Patenschaft für Bruni
+  image_hund: bruni.jpg  
 
+- pate: Sabine Yasmin Eronal
+  hund: Patenschaft für  Yaman
+  image_hund: yaman.jpg
+  
+- pate: Liselotte Fehleisen
+  image_hund: lotta.jpg 
+  hund: Patenschaft für Lotta
+  
 - pate: Tina Holzhaus
   pate_image: default.jpg
   hund: Patenschaft für Benny
-  image_hund: Benny-Tina-Holzhaus.jpg
-
-
-- pate: Martina Heindorf
-  pate_image: default.jpg
-  hund: Patenschaft für Hamit 1
-  image_hund: hamit1.jpg
+  image_hund: Benny-Tina-Holzhaus.jpg  
   
-- pate: Martina Heindorf
-  pate_image: default.jpg
-  hund: Patenschaft für Hamit 2
-  image_hund: hamit2.jpg
-
+- pate: Frank Beckmann
+  hund: Patenschaft für Beagle-linchen 
+  image_hund: beagle_linchen.jpg 
+  
+- pate: Cathleen Spor	
+  hund: Patenschaft für Besiktas
+  image_hund: Besiktas-CathleenSpohr.jpg
+  
+- pate: Janet Michaelis-Leichsenring	
+  hund: Patenschaft für Maylo (Barak)
+  image_hund: barak.jpg  
+  
 - pate: Monika Goldhorn
   pate_image: default.jpg
   hund: Patenschaft für Grizzly
   image_hund: Grizzly-MonikaGoldhorn.jpg
-
-- pate: Wenke Kleinert
+  
+- pate: Veronika Schilling
   pate_image: default.jpg
-  hund: Patenschaft für George
-  image_hund: George-WenKe.jpg
-
-- pate: Sibel Ertik
-  pate_image: default.jpg
-  hund: Patenschaft für Frida
-  image_hund: Frieda.jpg
-
+  hund: Patenschaft für Lale
+  image_hund: Lale-VeronikaSchilling.jpg
+  
+  
+  
+  
+  
+    
+    
 
 
