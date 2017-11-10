@@ -1,12 +1,98 @@
-- datum: 2017 Oktober
+- datum: 2017 November
   gesamt: EURO
   spender:
   - betrag:
     name: Nächste Veröffentlichung
-    spende: Anfang November 2017
+    spende: Anfang Dezember 2017
  
+- datum: 2017 Oktober - Spendeneingänge über das Paypal-Konto von MeSaHayKoDer
+  gesamt: 190,00 EURO
+  spender:
+  - betrag: 20,00 €
+    name:	Janet Michaelis
+    spende: Patenschaft Maylo
+  - betrag: 20,00 €
+    name:	Claudia Kreutz
+    spende: Allgemeine Spende
+  - betrag: 150,00 €
+    name:	Sabine Pralat	
+    spende: Patenschaften September - Oktober
  
- 
+- datum: 2017 oktober - Spendeneingänge über Tierhilfe Türkei e.V.
+  gesamt: 720,00 EUR
+  spender:
+  - betrag: 25,00 €
+    name:	Sibel Sandra Ertik	
+    spende: MeSaHayKoDer
+  - betrag: 40,00 €
+    name:	Regina Michel	
+    spende: MeSaHayKoDer
+  - betrag: 15,00 €
+    name:	Helene Sophie Schall	
+    spende: MeSaHayKoDer
+  - betrag: 20,00 €
+    name:	Jessica Savarino	
+    spende: MeSaHayKoDer
+  - betrag: 115,00 €
+    name:	Iris & Wolfgang Ernst	
+    spende: MeSaHayKoDer - Katzen & Mikesch
+  - betrag: 20,00 €
+    name:	Ursula Hermann	
+    spende: MeSaHayKoDer - Futter
+  - betrag: 60,00 €
+    name:	Elke Holm	
+    spende: Patenschaften Efe Can, Ipek & Seytan
+  - betrag: 15,00 €
+    name:	Wenke Kleinert	
+    spende: Patenschaft George (Özden)
+  - betrag: 20,00 €
+    name:	Veronika Schilling	
+    spende: Patenschaft Lale (Özden)
+  - betrag: 40,00 €
+    name:	Susanne Goldhorn	
+    spende: Patenschaften Fred & Mavi (Özden)
+  - betrag: 60,00 €
+    name:	Maren Rebentisch	
+    spende: Patenschaft Bruni Sep. - Dez. 2017 (Özden)
+  - betrag: 20,00 €
+    name:	Lisa Reh	
+    spende: Patenschaft Kepcekulak (Özden)
+  - betrag: 15,00 €
+    name:	Daniela Kaplan	
+    spende: Patenschaft Dede (Özden)
+  - betrag: 30,00 €
+    name:	Sandra Dipci	
+    spende: Patenschaft Samira & Navi (Özden)
+  - betrag: 40,00 €
+    name:	Edith Fuchs	
+    spende: Patenschaft Pitti u. Cat (Özden)
+  - betrag: 30,00 €
+    name:	Tugba Ellwanger	
+    spende: Patenschaft Suse u. Welpen (Özden)
+  - betrag: 30,00 €
+    name:	Martina Heindorf	
+    spende: Patenschaft Hamit 1 u. 2 (Özden)
+  - betrag: 30,00 €
+    name:	Daniela Fehleisen	
+    spende: Patenschaft Emely u. Lotta (Özden)
+  - betrag: 15,00 €
+    name:	Sabine-Jasmin Eroenal	
+    spende: Patenschaft Yaman
+  - betrag: 15,00 €
+    name:	Lisa Beyer	
+    spende: Patenschaft Katze MeSaHayKoDer
+  - betrag: 30,00 €
+    name:	Martina Heindorf	
+    spende: Tierpflege
+  - betrag: 20,00 €
+    name:	Lisa Beyer	
+    spende: Tierpflege
+  - betrag: 15,00 €
+    name:	Lisa Beyer	
+    spende: Futter für Ayse
+  
+
+
 
    
     
